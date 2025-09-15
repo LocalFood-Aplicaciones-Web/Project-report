@@ -282,54 +282,25 @@ Hemos identificado un factor crítico que afecta a los usuarios: la dificultad p
 ![Lean Ux Canvas](https://github.com/Local-Food-Aplicaciones-Web/Project-report-localfood/blob/patch-1/Assets/Lean%20UX%20Canvas%20(2).png?raw=true)
 
 ## 1.3. Segmentos objetivo.
+**Segmento #1: Comensales** <br>
+Este segmento está formado por personas que buscan encuentros eficientes y cómodos, donde cada participante pueda llegar con facilidad y sin complicaciones. Incluye estudiantes, jóvenes profesionales y personas con un estilo de vida activo que valoran la organización, la practicidad y el aprovechamiento del tiempo en sus reuniones.
+- Aspectos demográficos:
+  - Sexo: Masculino y femenino
+  - Edades: Entre 18 y 45 años
+- Aspectos psicográficos:
+- Motivaciones: Ahorrar tiempo, minimizar desplazamientos, facilitar la coordinación de reuniones y aprovechar al máximo cada encuentro.
+- Intereses: Descubrir nuevos restaurantes y cafés, disfrutar de experiencias gastronómicas y sociales, participar en actividades culturales y de ocio en la ciudad, y además optimizar su tiempo, valorando cada minuto de manera eficiente.
+- Comportamiento: Son personas activas que organizan su tiempo con cuidado, suelen planificar reuniones con amigos, familiares o colegas con antelación, y buscan lugares accesibles y convenientes comparando diferentes opciones antes de decidir.
 
-##### **a)Comensales:**
-
-
-###### Segmentación Geográfica:
-
-- **Región:** 
-- **Distribución:** 
-
-###### Segmentación Demográfica:
-
-- **Edad:** 
-- **Nivel Socioeconómico:** 
-- **Ocupación:** 
-
-###### Segmentación Psicográfica:
-
-- **Estilo de Vida:** 
-- **Valores y creencias:** 
-
-###### Segmentación Conductual:
-
-- **Beneficios Buscados:** 
-- **Uso del Producto:** 
-
-##### **b) Dueños de locales/Gerentes:**
-
-
-###### Segmentación Geográfica:
-
-- **Región:** 
-- **Distribución:** 
-
-###### Segmentación Demográfica:
-
-- **Edad:**
-- **Nivel Socioeconómico:**
-- **Ocupación:** 
-
-###### Segmentación Psicográfica:
-
-- **Estilo de Vida:** 
-- **Valores y creencias:** 
-
-###### Segmentación Conductual:
-
-- **Beneficios Buscados:** 
-- **Uso del Producto:** 
+**Segmento #2: Dueños de locales y gerentes** <br>
+Este segmento está conformado por propietarios y administradores de restaurantes, cafés y otros espacios de encuentro que buscan atraer clientes de manera más eficiente y organizar mejor la llegada de grupos. Incluye tanto negocios pequeños como medianos, con interés en optimizar la ocupación y brindar una experiencia conveniente para sus clientes.
+- Aspectos demográficos:
+  - Sexo: Masculino y femenino
+  - Edades: Entre 25 y 55 años
+- Aspectos psicográficos:
+  - Motivaciones: Maximizar la eficiencia del espacio, evitar conflictos o sobrecupo durante la llegada de grupos, facilitar la organización interna del personal y asegurar que los clientes tengan una experiencia agradable que los haga volver.
+  - Intereses: Innovación en servicios, gestión eficiente de reservas, fidelización de clientes y optimización de la experiencia del cliente.
+  - Comportamiento: Activos en redes sociales, atentos a la demanda de clientes y abiertos a adoptar soluciones tecnológicas sencillas que faciliten la organización de grupos y la gestión del local.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
