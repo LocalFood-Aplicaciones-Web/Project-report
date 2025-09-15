@@ -374,7 +374,7 @@ De esta manera, LocalFood se diferenciará al crear una experiencia más social,
 
 ### 2.2.1. Diseño de entrevistas.
 
-### Segmento 1:Comensales:
+### Segmento 1: Comensales
 
 Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría registrar algunos datos básicos. ¿Podrías decirme tu nombre y apellido completo? ¿Cuál es tu edad y en qué distrito resides actualmente? Además, si pudieras contarme brevemente tu ocupación principal.
 
