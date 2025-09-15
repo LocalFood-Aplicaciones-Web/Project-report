@@ -20,7 +20,7 @@
 | :------------------------------ | :--------: |
 | Fajardo Monrroy, Walter Luis    | U202221632 |
 | Poma Muñoz, Ariadna Geraldine   | U20221D382 |
-|                                 |            |
+| Sanchez guevara Ivan Fernando   | U202218181 |
 |                                 |            |
 |                                 |            |
 
@@ -576,8 +576,8 @@ Descripción:
 
 | EPICA                   | ID EPICA |
 | ----------------------- | -------- |
-|                         |          |
-|                         |          |
+|  Configuraciones orientadas a personas: <br>  Como nuevo usuario, quiero que las característica importantes sea intuitivas relacionado respecto a amigos/contactos, para poder realizar seguimiento o no al respecto <br> |  EP01  |
+|  Registro y configuraciones internas: <br>  Como usuario de la plataforma, quiero que las herramientras de la plataforma sean moldeable respecto al calculo, para obtener un resultado independientemente del cambio de decisiones <br> |  EP02  |
 |                         |          |
 |                         |          |
 |                         |          |
