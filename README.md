@@ -374,7 +374,7 @@ De esta manera, LocalFood se diferenciará al crear una experiencia más social,
 
 ### 2.2.1. Diseño de entrevistas.
 
-### Preguntas para Comensales:
+### Segmento 1:Comensales:
 
 Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría registrar algunos datos básicos. ¿Podrías decirme tu nombre y apellido completo? ¿Cuál es tu edad y en qué distrito resides actualmente? Además, si pudieras contarme brevemente tu ocupación principal.
 
@@ -398,7 +398,7 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 
 10.¿Qué tan dispuesto estarías a recomendar o invitar a tus amigos a usar una aplicación que facilite la elección de un punto de encuentro?
 
-### Preguntas para Para Dueños de Locales/Gerentes
+### Segmento 2: Dueños de Locales/Gerentes
 
 Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría registrar algunos datos básicos. ¿Podrías decirme tu nombre y apellido completo? ¿Cuál es tu edad y en qué distrito resides actualmente? Además, si pudieras contarme brevemente tu ocupación principal.
 
