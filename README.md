@@ -279,12 +279,7 @@ Hemos identificado un factor crítico que afecta a los usuarios: la dificultad p
 
 
 #### 1.2.2.4. Lean UX Canvas.
-
-<table>
-  <tr>
-
-  </tr>
-</table>
+![Lean Ux Canvas](https://github.com/Local-Food-Aplicaciones-Web/Project-report-localfood/blob/patch-1/Assets/Lean%20UX%20Canvas%20(2).png?raw=true)
 
 ## 1.3. Segmentos objetivo.
 
