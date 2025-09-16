@@ -20,7 +20,7 @@
 | :------------------------------ | :--------: |
 | Fajardo Monrroy, Walter Luis    | U202221632 |
 | Poma Muñoz, Ariadna Geraldine   | U20221D382 |
-|                                 |            |
+| Pariona Chacca, Angel Jose      | U202314734 |
 |                                 |            |
 |                                 |            |
 
