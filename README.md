@@ -954,7 +954,7 @@ Formula el calculo respecto al restaurante mas cercano en proporcion a la hubica
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-https://miro.com/app/board/uXjVJH62bms=/ 
+https://miro.com/welcomeonboard/WTlMa2lsTU0vVkMyM1Rsc1NYeUNuTURnaXIyV2E5Um43SEpLYmQzYkppOWQ1dzlLVTljQzlvYmxtc0pmWnJXb3E0TXJwU0FCckNtUCtrMll5M3Evb1ZtMFNpYUMwRGdmT1BoaEw2V0pmU2xWM1F0YUVmVmRwdEVzWVlFT2ZBd1FBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=503529665227
 
 <br><br>
 
@@ -1036,6 +1036,8 @@ https://miro.com/app/board/uXjVJH62bms=/
 
 A continuacion los siguientes Mock-ups fueron realizados en base a los wireframes anteriormente hechos. Representan fielmente la manera en la que
  nuestros usuarios podrán apreciar la aplicación web.
+
+https://www.figma.com/design/Iw07d6r56Nxk6swaIVWRw5/Untitled?node-id=0-1&p=f&m=draw
 
 <br><br>
 
@@ -1151,7 +1153,9 @@ Formula el calculo respecto al restaurante mas cercano en proporcion a la hubica
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 Los siguientes User Flow Diagrams se elaboraron correspondientemente a los WireFlows previamente hechos y representan los pasos que seguirán
- nuestros usuarios a través de la aplicación
+ nuestros usuarios a través de la aplicación.
+
+https://miro.com/welcomeonboard/OW1Ea3dxNDdNSjVDQ3M0TGpsUUNwMUFnWkUrUU1ya1JyTkYzUEtwUG5aa3IzelFOTmYxcG1sdzRwT1M4cU44eFFVYzM2aFZrdEpFK1BkcjdiTmxxQmxtMFNpYUMwRGdmT1BoaEw2V0pmU2w5bzlsQmNia0UxUzNPV2wvdE91SjhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=362530360227
 
 <br><br>
 
