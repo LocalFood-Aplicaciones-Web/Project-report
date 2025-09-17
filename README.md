@@ -492,12 +492,12 @@ link:
 
 ### 2.3.1. User Personas.
 
-Descripciòn: 
+Los User personas se realizaron en base a las distintas personas que entrevistamos según nuestros segmentos objetivos.
 
 **Comensal:**
-![ ]( )
+![Maria Tasayco User Persona](Assets/Maria%20Alejandra%20Tasayco.png)
 **Dueño de local:**
-![ ]( )
+![Luis Fabricio Luzquiño Diaz](Assets/Luis%20Fabricio%20Luzquiño%20Diaz.png)
 
 ### 2.3.2. User Task Matrix.
 
