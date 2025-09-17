@@ -509,10 +509,10 @@ link:
 
 ### 2.3.1. User Personas.
 
-Descripciòn: 
+Los User personas se realizaron en base a las distintas personas que entrevistamos según nuestros segmentos objetivos.
 
 **Comensal:**
-![ ]( )
+![Maria Tasayco User Persona](Assets/Maria%20Alejandra%20Tasayco.png)
 **Dueño de local:**
 ![ ]( )
 
