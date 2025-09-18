@@ -1149,33 +1149,212 @@ Descripción:
 
 ### 5.2.1. Sprint 1
 
+Durante el desarrollo Sprint 1 del proyecto GastroGo, el equipo se enfocó en el diseño llamativo y construcción funcional de la Landing Page de la plataforma. Se implementaron las principales las fundamentales secciones informativas, eso incluye el mensaje de bienvenida, los botones de registro y navegación, la sección de amigos para un gruoi, informacion respecto a nosotros y funciones adaptada a cambio de planes.  Además, se trabajó en aspectos fundamentales de interacción como la fijación del encabezado al hacer scroll y la visualización atractiva del interface. El equipo logró realizae la mayoría de las tareas planteadas, dejando solo algunos cosas en proceso de checkeo. Todo el despliegue del Sprint 1 priorizó una navegación llamativa, accesibilidad y fluida en la comunicación hacia los nuevos usuarios.
+
 #### 5.2.1.1. Sprint Planning 1.
 
-Descripción:
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 09 -13</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 am</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in Google Meet</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Walter Luis</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Sebastian Augusto, Angel Jose, Ivan Fernando, Ariadna Geraldine</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Review Winter</strong></td>
+    <td>No Realizamos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Retorspective Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Goal</strong></td>
+    <td>Entregar una landing page estática que comunique la propuesta de valor de GastroGo, con el objetivo de generar engagement inicial de los usuarios respecto a usar nuestro producto y ofrecer claridad a los comersales. Se considerará logrado cuando la página esté publicada y los visitantes puedan entender el propósito de la plataforma.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Velocity</strong></td>
+    <td>17</td>
+  </tr>
+</table>
+<br>
 
-| Sprint                             | Sprint 1                                                                                                                                                                                     |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-Descripción: 
 
-| Team Member (Last Name, First Name) | GitHub Username | Cuerpo de la Aplicación | Lista de Caracteristicas | Contacto con el Equipo | Beneficios | Testimonios de Usuario |
-| ----------------------------------- | --------------- | ----------------------- | ------------------------ | ---------------------- | ---------- | ---------------------- |
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Contenido y mensajes</strong></td>
+    <td><strong>Funcionalidades específicas</strong></td>
+    <td><strong>Diseño y Navegación</strong></td>
+    <td><strong>Deployment</strong></td>
+  </tr>
+  <tr>
+    <td>Walter Luis, Fajardo Monrroy</td>
+    <td>WalterFajardo</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Sebastian Augusto, Gutierrez Santillan</td>
+    <td>Yeva</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ivan Fernando, Sanchez Guevara</td>
+    <td>DonFernando1</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ariadna Geraldine, Poma Muñoz</td>
+    <td>InAsui</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Angel Jose Pariona Chacca</td>
+    <td>angelitoso-opp</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
 
 
 #### 5.2.1.3. Sprint Backlog n.
 
 Descripción
 
-| **Sprint #**   | **Sprint 1**             |        |                                                  |                                                                        |                        |                                 |            |
-| -------------- | ------------------------ | ------ | ------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------- | ------------------------------- | ---------- |
-| **User Story** | **Work-Item / Task**     |
-| **Id**         | **Title**                | **Id** | **Title**                                        | **Description**                                                        | **Estimation (Hours)** | **Assigned to**                 | **Status** |
+Durante el primer sprint backlog, el equipo tuvo el deber de realizar y completar la landing page. La plataforma usada para la organización y gestiónar a los integrantes del equipo fue Trello. Ya quela plataforma nos permitió la división de todas las user stories en tareas manejables, para luego asi asignarlas a los diferentes miembros según sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea llamativo y que se funcional.
+<img src="Assets/Springtrello1.png" alt="wireflows" width="1000">
+<p align="center">
+  Sprint Backlog 1 Trello - Elaboración propia
+</p>
+
+<br>
+link al trello: https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6d324fbbb059ac41bfddd60e6d7988396B/localfood
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Acceptance Criteria</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US01</td>
+            <td>Ver notificaciones de amigos/contactos</td>
+            <td>UT01</td>
+            <td>Crear mensaje saliente de las notificaciones</td>
+            <td><strong>Como nuevo usuario</strong>, quiero cambiar de resturante durante el calculo <strong>para poder adecuar el destinos a cambios de planes</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que estoy en cualquier parte de la pagina, When veo las notificaciones, Then puedo ver el usuario de la persona respecto a calculos o me envie solicitud de amistad.<br>
+            </td>
+            <td>5</td>
+            <td></td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Cambiar de restaurante durante el calculo</td>
+            <td>UT02</td>
+            <td>Funcionalidad "Editar Restaurante de Comida"  </td>
+            <td><strong>Como usuario</strong>, quiero cambiar de resturante durante el calculo<strong>para poder adecuar el destinos a cambios de planes</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que soy un usuario que coordina con si grupo cuando veo que deciden cambiar de restaurante luego de haber coordinado uno, When acceda a Restaurante o Calculo, Then se cambia el restaurante para el calculo en la seccion de restaurante o en su defecto se presiona un boton en la seccion de calculo donde te llevara a la seccion de restaurantes.<br>
+                <strong>Escenario 2:</strong> Given que soy un usuario que ya empezo a calcular con un restaurante para mi grupo, When cambiamos de opinion, Then puedo presionar el boton de cambiar restaurante en cambio y sin forma de nuevo el grupo.
+            </td>
+            <td>9</td>
+            <td>Ariadna Poma</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Ignorar los cálculos de otra gente</td>
+            <td>UT03</td>
+            <td>Boton denegar en las notificaciones</td>
+            <td><strong>Como usuario</strong>, quiero poder ignorar o rechazar los calculos, <strong>no afectar el calculo de mis amigos como no tener muchas notificaciones </strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que soy un usuario que recibe notificaciones de calculos que me incluyan,When acceda a la pagina con la notificacion ,Then presiono en el boton de denegar para que no me aparezca dicho calculo.<br>
+            </td>
+            <td>3</td>
+            <td>Fernando Sanchez</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Implementar amigos a un lista ya creada</td>
+            <td>UT04</td>
+            <td>boton de "añadar a lista ya creada" </td>
+            <td><strong>Como usuario</strong>, quiero poder implementar mas amigos en una lista ya creada,<strong>para no tener que volverla a crear</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given este en el apartado de calculo con la lista ya creada,When este en el apartado de calculo con la lista ya creada ,Then presiono la opcion de incluir miembro a la lista ya creada y empiezo el calculo.<br>
+            </td>
+            <td>6</td>
+            <td>Walter Fajardo</td>
+            <td>In-Process</td>
+        </tr>
+        </tbody>
+</table>
 
 
-Link del Trello: 
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
@@ -1187,7 +1366,7 @@ Descripción:
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Descripción:
+Descripción: hola
 
 - **XXXXX:**:
 
