@@ -33,6 +33,7 @@
 | ------- | -------- | ----------- | -------------------------------------- |
 | 0.1     | 04/09/25 | Walter Fajardo   | Desarrollo de la Estructura del informe |
 | 0. 1    | 15/09/25 | Fernando Sanchez | Desarrollar de la estructura del informe |
+| 0.1    | 18/09/25 | Angel Pariona | Desarrollo de la Estructura del informe|
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
@@ -105,10 +106,6 @@ Entregrable 1 o TB1 : (25/04/25)
     - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
   - [4.2. Information Architecture](#42-information-architecture)
-  - [1. Página de Inicio](#1-página-de-inicio)
-  - [2.                 ](#2-)
-  - [                   ](#3-)
-  - [4.                 ](#4-)
     - [4.2.1. Organization Systems](#421-organization-systems)
     - [4.2.2. Labeling Systems](#422-labeling-systems)
     - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
@@ -205,6 +202,8 @@ Con nuestra aplicación LocalFood, utilizamos geolocalización inteligente para 
 |----------------------|-------------|-------------|------|
 | Ariadna Geraldine Poma Muñoz | U20221D382 | Estudio la carrera de Ingeniería de Software, tengo 19 años y me considero una persona comprometida, curiosa y optimista, con pasión por el aprendizaje continuo en diversos temas relacionados con la tecnología y otros intereses personales. Cuento con una buena capacidad de adaptación al cambio constante, que se complementa con habilidades blandas como trabajo en equipo, resolución creativa de problemas y ser proactiva. Mi objetivo es aplicar lo aprendido para desarrollar soluciones innovadoras que aporten valor. Actualmente me interesa el desarrollo de software, la inteligencia artificial y la ciberseguridad. |     |    
 | Ivan Fernando Sanchez Guevara | U202218181 | Mi Nombre es Fernando Sanchez Guevara, tengo 21 años, actualmente estudiando la carrera de Ingeniería de Software. Me considero alguien disiplinado respecto con la puntualidad y desarrollar de la mejor manera las asignaciones de trabajo. Ademas, me preocupo por mi equipo, tratando de que no tengan ningun problema respecto al trabajo, y darles la mano para poder ayudar cuando lo necesiten. Por medio de mi compromiso, eh logrado realizar los proyectos en grupo de forma excelente y sin problemas en percanses | <p align="center"><img width="auto" height="auto" src="Assets/commons/Fernandoprofile.png"></p>   |    |
+| Angel Jose Pariona Chacca | U202314734 | Mi nombre es Angel Pariona, tengo 20 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y con muchas ganas de seguir aprendiendo en el ámbito tecnológico. Disfruto trabajar en equipo, aportar ideas y asumir retos que me permitan mejorar tanto a nivel académico como personal. En mis tiempos libres practico básquet y me gusta salir a pasear en bicicleta, actividades que me ayudan a mantener el equilibrio entre estudio y recreación. Tengo un interés especial en el desarrollo de software, la innovación tecnológica y la inteligencia artificial, áreas en las que me gustaría seguir creciendo profesionalmente. |![fotito]() |
+
 
 ## 1.2. Solution Profile
 
