@@ -21,7 +21,7 @@
 | Fajardo Monrroy, Walter Luis    | U202221632 |
 | Poma Muñoz, Ariadna Geraldine   | U20221D382 |
 | Pariona Chacca, Angel Jose      | U202314734 |
-|                                 |            |
+| Ivan Fernando, Sanchez Guevara  | U202218181 |
 |                                 |            |
 
 </div>
@@ -32,8 +32,7 @@
 | Versión | Fecha    | Autor       | Descripción de Modificación            |
 | ------- | -------- | ----------- | -------------------------------------- |
 | 0.1     | 04/09/25 | Walter Fajardo   | Desarrollo de la Estructura del informe |
-|         |          |                  |                                               |
-|         |          |                  |                                               |
+| 0. 1    | 15/09/25 | Fernando Sanchez | Desarrollar de la estructura del informe |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
@@ -165,13 +164,22 @@ Entregrable 1 o TB1 : (25/04/25)
     <tr>
         <th>Trabaja en equipo para proporcionar liderazgo en forma conjunta</th>
         <td>
+        Ivan Fernando Sanchez Guevara <br> TB1: Elabore los wireframe, wireflows, el mockups, userflows tambien realice la seccion 5.2. desde Sprint 1 hasta Sprint Backlog n
+        <br> 
         </td>
         <td>
+        TB1:  El equipo trabajado de manera homogenia, repartiendose responsabilidades desde las primeras etapas del proyecto. todos los miembro asumió el liderazgo en tareas fundamentales del desarrollo del sistema, generando entregables integrados y coherentes. La toma de decisiones fue hecha en grupo y orientada al cumplimiento de objetivos comunes.
+      <br>
         </td>
     </tr>
     <tr>
         <th>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</th>
         <td>
+        Ivan Fernando Sanchez Guevara <br> TB1: Aporte en la busqueda de una problematica para el proyecto, ayude a mis compañeros en problemas donde tuvieron problemas como tambien implementar los segmentos objetivos
+        </td>
+        <td>
+        TB1: El grupo consiguien preparar un entorno colaborativo donde se sigue los roles, tiempos como las responsabilidades de cada miembro. Se impusieron metas alcanzables, se mantuvo una comunicación constante y se cumplieron los objetivos respecto de la primera entrega mediante un trabajo bien organizado y comprometido.
+        <br>
         </td>
     </tr>
 </table>
@@ -195,8 +203,8 @@ Con nuestra aplicación LocalFood, utilizamos geolocalización inteligente para 
 ### 1.1.2. Perfiles de integrantes del equipo
 |  Nombres y Apellidos |    Codigo   | Descripción | Foto | 
 |----------------------|-------------|-------------|------|
-| Ariadna Geraldine Poma Muñoz | U20221D382 | Estudio la carrera de Ingeniería de Software, tengo 19 años y me considero una persona comprometida, curiosa y optimista, con pasión por el aprendizaje continuo en diversos temas relacionados con la tecnología y otros intereses personales. Cuento con una buena capacidad de adaptación al cambio constante, que se complementa con habilidades blandas como trabajo en equipo, resolución creativa de problemas y ser proactiva. Mi objetivo es aplicar lo aprendido para desarrollar soluciones innovadoras que aporten valor. Actualmente me interesa el desarrollo de software, la inteligencia artificial y la ciberseguridad. |     |    |
-|   |     |     |     |    |
+| Ariadna Geraldine Poma Muñoz | U20221D382 | Estudio la carrera de Ingeniería de Software, tengo 19 años y me considero una persona comprometida, curiosa y optimista, con pasión por el aprendizaje continuo en diversos temas relacionados con la tecnología y otros intereses personales. Cuento con una buena capacidad de adaptación al cambio constante, que se complementa con habilidades blandas como trabajo en equipo, resolución creativa de problemas y ser proactiva. Mi objetivo es aplicar lo aprendido para desarrollar soluciones innovadoras que aporten valor. Actualmente me interesa el desarrollo de software, la inteligencia artificial y la ciberseguridad. |     |    
+| Ivan Fernando Sanchez Guevara | U202218181 | Mi Nombre es Fernando Sanchez Guevara, tengo 21 años, actualmente estudiando la carrera de Ingeniería de Software. Me considero alguien disiplinado respecto con la puntualidad y desarrollar de la mejor manera las asignaciones de trabajo. Ademas, me preocupo por mi equipo, tratando de que no tengan ningun problema respecto al trabajo, y darles la mano para poder ayudar cuando lo necesiten. Por medio de mi compromiso, eh logrado realizar los proyectos en grupo de forma excelente y sin problemas en percanses | <p align="center"><img width="auto" height="auto" src="Assets/commons/Fernandoprofile.png"></p>   |    |
 
 ## 1.2. Solution Profile
 
