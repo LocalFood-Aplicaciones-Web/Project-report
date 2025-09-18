@@ -424,7 +424,7 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 
 ### 2.2.2. Registro de entrevistas.
 
-#### Segmento 2:Comensales
+#### Segmento 2: Comensales
 
 ![Entrevista 1](Assets/imagen%20de%20video.png)
 
