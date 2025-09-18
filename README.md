@@ -426,17 +426,17 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 
 #### Segmento 2:Comensales
 
-![Entrevista 1]()
+![Entrevista 1](Assets/imagen%20de%20video.png)
 
-- Entrevista N°1: 
-- Sexo: 
-- Edad:
+- Entrevista N°1: Anthony Yovera
+- Sexo: Masculino
+- Edad: 23
 
-- Ubicación:
+- Ubicación: Lima, San Martin de Porres
 
 #### Entrevista:
 
-link: 
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ESdjM7va9wVPmepF75nPWGsBuKglaXXEAzqkDo_1dBeWag?e=ZwdnJW
 
 **Resumen**
 
