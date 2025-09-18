@@ -568,12 +568,12 @@ El viaje de Luis, un emprendedor de 30 años dueño de un puesto de comida, inic
 ### 2.3.5. As-is Scenario Mapping.
 
 **USER PERSONA: María Tasayco**
-![Scenario Mapping 1](Assets/Scenario%20Mapping%20-%20Comensales.jpg)
+![Scenario Mapping 1](Assets/As%20is%20Scenario%20Mapping%20-%20Comensales.jpg)
 El proceso de coordinar una salida a comer con sus amigos resulta desgastante para María. Aunque al inicio se emociona con la idea de reunirse, depende de grupos de WhatsApp donde surgen demasiadas propuestas de restaurantes y la conversación rápidamente se vuelve caótica. María dedica tiempo revisando Google Maps, calculando distancias desde su casa y compartiendo capturas en el chat, pero siente que sus sugerencias no siempre son tomadas en cuenta de manera justa. La decisión final suele inclinarse hacia locales más convenientes para algunos, obligándola a viajar más, gastar más en transporte y ajustarse a lo que el grupo define. Esto le genera frustración, inseguridad y una sensación de inequidad, que contrastan con el entusiasmo inicial de querer disfrutar una comida con sus amigos.
 
 **USER PERSONA: Luis Luzquiños**
 ![Scenario Mapping 1]()
-Descripción:
+
 
 ## 2.4. Ubiquitous Language.
 
