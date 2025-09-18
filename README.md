@@ -559,11 +559,11 @@ El viaje de Luis, un emprendedor de 30 años dueño de un puesto de comida, inic
 
 ### 2.3.4. Empathy Mapping.
 
-**USER PERSONA: (Nombre)**
-![Empathy Map 1]()
+**USER PERSONA: María Tasayco**
+![Empathy Map 1](Assets/Empathy%20map%20Comensales.png)
 
-**USER PERSONA: (Nombre)**
-![Empathy Map 2]()
+**USER PERSONA: Luis Luzquiños**
+![Empathy Map 2](Assets/Empathy%20map%20Dueño%20de%20local.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
