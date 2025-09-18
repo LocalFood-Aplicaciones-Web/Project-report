@@ -357,7 +357,7 @@ Este análisis resulta fundamental para comprender el mercado, las necesidades d
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-Estas son las principales estrategias que aplicará LocalFood para diferenciarse de sus competidores:
+Estas son las principales estrategias que aplicará nuestro grupo para diferenciar nuestro producto de sus competidores:
 
 - Ofrecer recomendaciones personalizadas de restaurantes en el punto medio según las preferencias de comida de los usuarios (ej. pizza, sushi, vegetariano).
 
@@ -367,7 +367,7 @@ Estas son las principales estrategias que aplicará LocalFood para diferenciarse
 
 - Establecer alianzas con restaurantes y gerentes locales, ofreciendo promociones exclusivas para los grupos que lleguen a través de la app.
 
-De esta manera, LocalFood se diferenciará al crear una experiencia más social, gastronómica y colaborativa que otras apps del rubro, generando valor tanto para los usuarios como para los restaurantes.
+De esta manera, el producto LocalFood se diferenciará al crear una experiencia más social, gastronómica y colaborativa que otras apps del rubro, generando valor tanto para los usuarios como para los restaurantes.
 
 
 ## 2.2. Entrevistas.
@@ -518,12 +518,34 @@ Los User personas se realizaron en base a las distintas personas que entrevistam
 
 ### 2.3.2. User Task Matrix.
 
-Descripción:
-**Comensal:(Nombre)**
+En esta sección vamos a detallar las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de nuestra aplicación LocalFood.
 
 
-**Dueño de local: (Nombre)**
+**Comensal: María Tasayco**
 
+| Actividades | Comensales | Frecuencia | Importancia |
+|---------------------------------------------|-------------|----------------|-------------|
+| Crear o unirse a un grupo de amigos | ✓ | Frecuentemente | Alta |
+| Seleccionar tipo de comida deseada (ej. hamburguesa, pizza) | ✓ | Frecuentemente | Alta |
+| Compartir ubicación con el grupo | ✓ | Frecuentemente | Alta |
+| Ver la sugerencia de local más cercano para todos | ✓ | Frecuentemente | Alta |
+| Filtrar opciones por precio, reseñas o promociones | ✓ | Ocasionalmente | Media |
+| Guardar locales favoritos para futuras salidas | ✓ | Ocasionalmente | Media |
+| Calificar y dejar reseña del local visitado | ✓ | Ocasionalmente | Media |
+| Invitar a nuevos usuarios al grupo (enlace/invitación) | ✓ | Ocasionalmente | Baja |
+
+**Dueño de local: Luis Luzquiños**
+
+| Actividades | Dueños de locales | Frecuencia | Importancia |
+|-----------------------------------------------|------------------|----------------|-------------|
+| Registrar su local en la aplicación | ✓ | Una sola vez / Inicialmente | Alta |
+| Agregar ubicación exacta del local en el mapa | ✓ | Una sola vez / Inicialmente | Alta |
+| Describir el menú y categorías de comida (ej. hamburguesas, pizzas) | ✓ | Ocasionalmente | Alta |
+| Actualizar precios, promociones y disponibilidad | ✓ | Frecuentemente | Alta |
+| Ver estadísticas de visitas y recomendaciones del local | ✓ | Ocasionalmente | Media |
+| Responder a reseñas o comentarios de clientes | ✓ | Ocasionalmente | Media |
+| Destacar/promocionar el local en búsquedas (plan premium) | ✓ | Ocasionalmente | Media |
+| Editar información general del local (horarios, contacto) | ✓ | Ocasionalmente | Alta |
 
 ### 2.3.3. User Journey Mapping.
 
