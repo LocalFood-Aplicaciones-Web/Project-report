@@ -323,7 +323,6 @@ A continuación, mostramos algunos de los principales competidores identificados
 
 Este análisis resulta fundamental para comprender el mercado, las necesidades de los usuarios y la manera en que nuestro grupo puede brindar soluciones innovadoras y efectivas para diferenciarse de otras empresas y optimizar el producto.
 
-
 | Características              | LocalFoods                                                                                                                          | MeetWays                                                                 | Between.us                                                           |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | **Perfil - Overview**        | Aplicación que ayuda a parejas o grupos a encontrar el punto medio ideal para reunirse, con foco en restaurantes y comida.           | Herramienta web que encuentra un punto intermedio entre dos direcciones y sugiere lugares cercanos.             | App enfocada en parejas que buscan un punto de encuentro intermedio. |
@@ -347,7 +346,9 @@ Este análisis resulta fundamental para comprender el mercado, las necesidades d
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-Estas son las principales estrategias que aplicará LocalFood para diferenciarse de sus competidores:
+
+Estas son las principales estrategias que aplicará nuestro grupo para diferenciar nuestro producto de sus competidores:
+
 
 - Ofrecer recomendaciones personalizadas de restaurantes en el punto medio según las preferencias de comida de los usuarios (ej. pizza, sushi, vegetariano).
 
@@ -357,7 +358,8 @@ Estas son las principales estrategias que aplicará LocalFood para diferenciarse
 
 - Establecer alianzas con restaurantes y gerentes locales, ofreciendo promociones exclusivas para los grupos que lleguen a través de la app.
 
-De esta manera, LocalFood se diferenciará al crear una experiencia más social, gastronómica y colaborativa que otras apps del rubro, generando valor tanto para los usuarios como para los restaurantes.
+
+De esta manera, el producto LocalFood se diferenciará al crear una experiencia más social, gastronómica y colaborativa que otras apps del rubro, generando valor tanto para los usuarios como para los restaurantes.
 
 
 ## 2.2. Entrevistas.
@@ -414,56 +416,61 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 
 ### 2.2.2. Registro de entrevistas.
 
-#### Segmento 2:Comensales
+#### Segmento objetivo 1 - Comensales
 
-![Entrevista 1]()
 
-- Entrevista N°1: 
-- Sexo: 
-- Edad:
+- Entrevista N°1: Anthony Yovera
+- Sexo: Masculino
+- Edad: 23
 
-- Ubicación:
+- Ubicación: Lima, San Martin de Porres
+
+![Entrevista 1](Assets/imagen%20de%20video.png)
 
 #### Entrevista:
 
-link: 
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ESdjM7va9wVPmepF75nPWGsBuKglaXXEAzqkDo_1dBeWag?e=ZwdnJW
 
-**Resumen**
+*Resumen:* El entrevistado es un estudiante que reside en el distrito de San Martín de Porres. Menciona que sus principales dificultades para organizar una reunión son la distancia del punto de encuentro y las cancelaciones de último momento. Generalmente busca un lugar céntrico para todos, aunque ha cancelado planes con frecuencia debido a la dificultad de llegar al lugar acordado. No obstante, le resulta atractivo contar con una aplicación que le muestre múltiples opciones de puntos de encuentro.
 
-
-![Entrevista 2]()
+------------------------------------------
 
 - Entrevista N°2: 
 - Sexo: 
 - Edad: 
 
 - Ubicación:
+  
+![Entrevista 2]()
 
 #### Entrevista:
 
 link: 
 
-**Resumen:**
+*Resumen:*
+
+---------------------------------------
+
+#### Segmento objetivo 2 - Dueños de locales
 
 
-#### Segmento 2:Dueños de locales
+- Entrevista N°3: Enrique Suarez Castillo
+- Sexo: Masculino
+- Edad: 26
 
-![Entrevista 3]()
+- Ubicación: Lima, Jesus Maria
 
-- Entrevista N°3: 
-- Sexo: 
-- Edad: 
+![Entrevista 3](Assets/imagen_entrevista3.png)
 
-- Ubicación:
 
 #### Entrevista:
 
-link: 
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/EfQ6SfYkkoZKhzGfk1EinWgBglLpvJtFyufBnsWZtPhx1w?e=1zYSmD&
 
-**Resumen:**
+*Resumen:* El entrevistado es dueño de una sanguchería y actualmente vive en el distrito de Jesús María. Indicó que suelen recibir más grupos de estudiantes durante la semana y, los fines de semana, más grupos familiares. Asimismo, mencionó que su principal dificultad es la baja visibilidad y la fuerte competencia en la zona. Usa WhatsApp para promocionar su negocio, pero desearía contar con una aplicación que le ayude a aumentar su visibilidad y ventas frente a la competencia. Le resultaría atractiva una aplicación con un precio accesible, pero que ofrezca funciones que brinden estadísticas para gestionar a su personal y promociones.
 
+---------------------------
 
-![Entrevista 4]()
 
 - Entrevista N°4: 
 - Sexo: 
@@ -471,29 +478,42 @@ link:
 
 - Ubicación:
 
+![Entrevista 5]()
+
 #### Entrevista:
 
 link: 
 
-**Resumen**
+*Resumen:*
 
+
+------------------
 
 ### 2.2.3. Análisis de entrevistas.
 
-**Segmento 1: Comensales**
-**Entrevista 1:**
-**Análisis de la entrevista:** 
 
-**Entrevista 2:**
-**Análisis de la entrevista:** 
+**Segmento objetivo 1 - Comensales**
 
-**Segmento 2: Dueños de locales**
+Las entrevistas con Anthony Yovera, revelan puntos en común significativos que validan la propuesta de valor de LocalFood para los comensales.
 
-**Entrevista 1:**
-**Análisis de la entrevista:** 
 
-**Entrevista 2:**
-**Análisis de la entrevista:** 
+
+
+**Segmento objetivo 2 - Dueños de locales**
+
+Las entrevistas con Enrique Suarez, revelan puntos en común significativos que validan la propuesta de valor de LocalFood para los dueños de locales.
+
+   - *Disposición a Adoptar Nuevas Herramientas:* Los entrevistados se muestran dispuestos a invertir en una aplicación siempre que esta tenga un precio accesible y ofrezca un retorno tangible en términos de visibilidad y aumento de ventas. Esto refleja sensibilidad al costo, pero también apertura a nuevas tecnologías que aporten valor real a su negocio.
+     
+   - *Dependencia de Canales Digitales y Limitaciones:* Los entrevistados dependen principalmente de WhatsApp como canal de promoción de sus negocios. Si bien esta herramienta les permite mantener comunicación directa con sus clientes, señalan que presenta limitaciones importantes en términos de visibilidad, especialmente frente a la fuerte competencia en sus zonas. Esta situación impacta directamente en su capacidad de atraer nuevos clientes y diferenciarse en el mercado.
+   - 
+   - 
+   -  
+
+---
+
+
+
 
 ## 2.3. Needfinding.
 
@@ -508,64 +528,108 @@ Los User personas se realizaron en base a las distintas personas que entrevistam
 
 ### 2.3.2. User Task Matrix.
 
-Descripción:
-**Comensal:(Nombre)**
+En esta sección vamos a detallar las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de nuestra aplicación LocalFood.
 
 
-**Dueño de local: (Nombre)**
+**Comensal: María Tasayco**
 
+| Actividades | Comensales | Frecuencia | Importancia |
+|---------------------------------------------|-------------|----------------|-------------|
+| Crear o unirse a un grupo de amigos | ✓ | Frecuentemente | Alta |
+| Seleccionar tipo de comida deseada (ej. hamburguesa, pizza) | ✓ | Frecuentemente | Alta |
+| Compartir ubicación con el grupo | ✓ | Frecuentemente | Alta |
+| Ver la sugerencia de local más cercano para todos | ✓ | Frecuentemente | Alta |
+| Filtrar opciones por precio, reseñas o promociones | ✓ | Ocasionalmente | Media |
+| Guardar locales favoritos para futuras salidas | ✓ | Ocasionalmente | Media |
+| Calificar y dejar reseña del local visitado | ✓ | Ocasionalmente | Media |
+| Invitar a nuevos usuarios al grupo (enlace/invitación) | ✓ | Ocasionalmente | Baja |
+
+**Dueño de local: Luis Luzquiños**
+
+| Actividades | Dueños de locales | Frecuencia | Importancia |
+|-----------------------------------------------|------------------|----------------|-------------|
+| Registrar su local en la aplicación | ✓ | Una sola vez / Inicialmente | Alta |
+| Agregar ubicación exacta del local en el mapa | ✓ | Una sola vez / Inicialmente | Alta |
+| Describir el menú y categorías de comida (ej. hamburguesas, pizzas) | ✓ | Ocasionalmente | Alta |
+| Actualizar precios, promociones y disponibilidad | ✓ | Frecuentemente | Alta |
+| Ver estadísticas de visitas y recomendaciones del local | ✓ | Ocasionalmente | Media |
+| Responder a reseñas o comentarios de clientes | ✓ | Ocasionalmente | Media |
+| Destacar/promocionar el local en búsquedas (plan premium) | ✓ | Ocasionalmente | Media |
+| Editar información general del local (horarios, contacto) | ✓ | Ocasionalmente | Alta |
 
 ### 2.3.3. User Journey Mapping.
 
-**USER PERSONA: (Nombre)**
-![Journey Map 1]()
-Descripción:
+**USER PERSONA: María Tasayco**
+![Journey Map 1](Assets/Comensales%20journey%20map%202.png)
+El viaje de María, una estudiante universitaria que suele salir a comer con sus amigos, comienza con la necesidad de encontrar un lugar cercano para todos sin perder tiempo; al usar la app siente curiosidad y cierta duda sobre si funcionará, pero al ver rutas claras y opciones confiables experimenta entusiasmo y alivio al coordinar fácilmente con su grupo; al elegir compara precios, distancias y reseñas, lo que le da seguridad y confianza, y finalmente, tras disfrutar la comida y terminar satisfecha, siente tranquilidad y disposición a volver a usar la app en futuras salidas, reforzada por la posibilidad de dejar reseñas y recibir recomendaciones personalizadas.
 
-**USER PERSONA: (Nombre)**
-![Journey Map 2]()
-Descripción:
+**USER PERSONA: Luis Luzquiños**
+![Journey Map 2](Assets/Dueño%20de%20Local%20journey%20map.png)
+El viaje de Luis, un emprendedor de 30 años dueño de un puesto de comida, inicia con cierto escepticismo sobre si una app realmente puede atraerle más clientes, pero al registrarse y ver lo sencillo que es mostrar su local comienza a sentir confianza; al usar la plataforma para subir fotos, precios y horarios experimenta entusiasmo al notar que más grupos llegan gracias a que su negocio aparece como punto cercano en las rutas compartidas, lo que refuerza su motivación para mantenerse activo; al recibir reseñas positivas y datos sobre el flujo de clientes, Luis gana seguridad y satisfacción, y finalmente, al ver que su negocio crece con apoyo de la app, siente tranquilidad y disposición a seguir utilizándola como una herramienta clave para impulsar su emprendimiento.
 
 ### 2.3.4. Empathy Mapping.
 
-**USER PERSONA: (Nombre)**
-![Empathy Map 1]()
+**USER PERSONA: María Tasayco**
+![Empathy Map 1](Assets/Empathy%20map%20Comensales.png)
 
-**USER PERSONA: (Nombre)**
-![Empathy Map 2]()
+**USER PERSONA: Luis Luzquiños**
+![Empathy Map 2](Assets/Empathy%20map%20Dueño%20de%20local.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**USER PERSONA: (Nombre)**
-![Scenario Mapping 1]()
-Descripción:
+**USER PERSONA: María Tasayco**
+![Scenario Mapping 1](Assets/As%20is%20Scenario%20Mapping%20-%20Comensales.jpg)
+El proceso de coordinar una salida a comer con sus amigos resulta desgastante para María. Aunque al inicio se emociona con la idea de reunirse, depende de grupos de WhatsApp donde surgen demasiadas propuestas de restaurantes y la conversación rápidamente se vuelve caótica. María dedica tiempo revisando Google Maps, calculando distancias desde su casa y compartiendo capturas en el chat, pero siente que sus sugerencias no siempre son tomadas en cuenta de manera justa. La decisión final suele inclinarse hacia locales más convenientes para algunos, obligándola a viajar más, gastar más en transporte y ajustarse a lo que el grupo define. Esto le genera frustración, inseguridad y una sensación de inequidad, que contrastan con el entusiasmo inicial de querer disfrutar una comida con sus amigos.
 
-**USER PERSONA: (Nombre)**
-![Scenario Mapping 1]()
-Descripción:
+**USER PERSONA: Luis Luzquiños**
+![Scenario Mapping 1](Assets/As%20is%20Scenario%20Mapping%20-%20Dueños%20de%20locales.jpg)
+El proceso de atraer clientes a su restaurante resulta complejo y agotador para Luis. Aunque se esfuerza en publicar fotos en redes sociales y depender de recomendaciones de boca a boca, siente que su alcance es limitado frente a cadenas más grandes y visibles. Intenta posicionarse en Google Maps y en aplicaciones de delivery, pero se enfrenta a altas comisiones y a la sensación de que, si los clientes no lo buscan directamente, su local prácticamente no existe. A pesar de brindar buena atención y ofrecer promociones, Luis percibe que muchos clientes no regresan porque su restaurante no se encuentra en un punto de fácil acceso para ellos. Esto lo obliga a reiniciar constantemente la búsqueda de nuevos comensales, generándole cansancio, frustración e incertidumbre sobre la estabilidad de su negocio, pese a su motivación por crecer y destacar.
 
 ## 2.4. Ubiquitous Language.
 
-Descripción:
+El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo.
 
 **Ubiquitous Language – LOCALFOOD**
 
-1. 
+1. Comensal: Usuario que busca reunirse con amigos, familiares o grupos en un local accesible para todos.
 
-2. 
+2. Dueño/Gerente de Local: Usuario que administra un restaurante o negocio gastronómico y busca atraer clientes mediante la app.
 
-3. 
+3. Grupo: Conjunto de comensales que desean coordinar un punto de encuentro común.
 
-4. 
+4. Contacto: Persona agregada a la lista de amigos/usuarios dentro de la aplicación.
 
-5. 
+5. Cálculo: Proceso que determina el restaurante más conveniente para todos los integrantes del grupo según su ubicación.
 
-6. 
+6. Punto medio: Resultado geográfico que equilibra las distancias de los comensales para elegir un lugar justo.
 
-7. 
+7. Restaurante/Local: Negocio registrado en la app con ubicación, menú, precios y horarios.
 
-8. 
+8. Reserva: Acción de apartar un espacio en un local a través de la aplicación.
 
-9. 
+9. Promoción: Beneficio o descuento ofrecido por un local para atraer comensales.
+
+10. Reseña: Comentario o calificación que los comensales dejan sobre un local después de su visita.
+
+11. Favorito: Local guardado por un comensal para futuras salidas.
+
+12. Visibilidad del local: Nivel de exposición que obtiene un restaurante en la aplicación (ej. destacarlo en búsquedas).
+
+13. Estadísticas de consumo: Datos que reciben los dueños sobre reservas, picos de demanda y preferencias de clientes.
+
+14. Filtros de búsqueda: Opciones que permiten refinar locales por precio, tipo de comida, promociones o cercanía.
+
+15. Mapa interactivo: Visualización gráfica de los locales disponibles y su relación con la ubicación de los comensales.
+
+16. Notificación de grupo: Aviso que reciben los comensales cuando otro integrante los incluye en un cálculo o invitación.
+
+17. Plan freemium/premium: Modelo de negocio que ofrece funciones gratuitas con anuncios y beneficios adicionales de pago.
+
+18. Perfil del usuario: Información personal de comensales o dueños (nombre, ubicación, historial, locales favoritos, etc.).
+
+19. Experiencia social: Valor diferencial de la app que resalta la facilidad de organizar reuniones y compartir momentos.
+
+20. Código QR: Medio para agregar contactos o acceder a perfiles dentro de la aplicación.
 
 # Capítulo III: Requirements Specification
 
@@ -856,121 +920,400 @@ Descripción:
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
+Los wireframes de GastroGo han sido desarrollados aplicando principios clave de diseño centrado en el usuario, priorizando la claridad visual, el lenguaje no verbal mediante el uso de colores y la accesibilidad. Cada sección está estructurada con una navegación intuitiva y coherente entre el menú lateral, el encabezado fijo y los bloques de contenido, lo que refleja una arquitectura de información jerárquica y secuencial bien definida. Se han implementado elementos de diseño consistentes como tarjetas, iconos descriptivos, botones llamativos y funcionalidades bien distribuidas, facilitando una interacción fluida en dispositivos de distintos tamaños. Además, se ha incorporado un enfoque de diseño atractivo que apela a la intuición no verbal (tamaño de letras, imágenes explicativas, etc.), permitiendo que usuarios con diversos niveles de experiencia digital puedan navegar sin dificultades. Todo el diseño planteado busca lograr una experiencia coherente entre perfiles (comensales), enfocada en guiar a los usuarios hacia sus objetivos (elegir restaurante, agregar amigos, realizar cálculos) de forma eficiente y accesible.
 
-**XXXXX:**
-
-
-
-**XXXXX:**
+https://www.figma.com/design/Iw07d6r56Nxk6swaIVWRw5/Untitled?node-id=0-1&p=f&m=draw 
+<br><br>
 
 
++ **Iniciar Sesión / Registrarse**:
 
-**XXXXX:**
+Permite a nuevos usuarios crear una cuenta para la aplicacion, y a usuarios existentes ingresar con sus correos para acceder a su perfil.
 
+<p align="center">
+  <img src="Assets/wireframes/sing_in.png" alt="wireframe" width="1000">
+</p>
 
-
-**XXXXX:**
-
-
-**XXXXX:**
-
-
-**XXXXX:**
-
+<p align="center">
+    Wireframe Sing In - Elaboración propia
+</p>
 
 
-**XXXXX:**
+<p align="center">
+  <img src="Assets/wireframes/Registerus.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Register - Elaboración propia
+</p>
+
++ **Pagina de inicio del usuario**:
+
+Muestra el perfil del usuario, su codigo QR, y restaurante, el frecuente y el ultio de seleccion anterior. El inicio de la rica coordinacion.
+
+<p align="center">
+  <img src="Assets/wireframes/homepage.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Homepage - Elaboración propia
+</p>
+
++ **Mis Contactos**:
+
+Apartado que permite agregar, ver y seleccionar contactos para el calculo respecto a un grupo
+
+<p align="center">
+  <img src="Assets/wireframes/Addcontact.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Add Contact - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/wireframes/contact.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Contactpage - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/wireframes/Selectcontact.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User selection Contact - Elaboración propia
+</p>
+
+
++ **Restaurantes disponibles**:
+
+Muestras los restaurantes disponibles de la aplicacion al usuario y permite su seleccion.
+
+<p align="center">
+  <img src="Assets/wireframes/Restaurant.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Restaurantpage - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/wireframes/selectRestaurant.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User selection Restaurant - Elaboración propia
+</p>
+
++ **Realizar Calculo**:
+
+Formula el calculo respecto al restaurante mas cercano en proporcion a la hubicacion de las personas del grupo.
+
+<p align="center">
+  <img src="Assets/wireframes/Calculationpage.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Calculationtpage - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/wireframes/RunCalculation.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframe User Run Calculation - Elaboración propia
+</p>
 
 
 
-**XXXXX:**
+<br><br>
 
 
 
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-### 4.4.2. Web Applications Mock-ups.
+https://miro.com/welcomeonboard/WTlMa2lsTU0vVkMyM1Rsc1NYeUNuTURnaXIyV2E5Um43SEpLYmQzYkppOWQ1dzlLVTljQzlvYmxtc0pmWnJXb3E0TXJwU0FCckNtUCtrMll5M3Evb1ZtMFNpYUMwRGdmT1BoaEw2V0pmU2xWM1F0YUVmVmRwdEVzWVlFT2ZBd1FBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=503529665227
 
-**XXXXX:**
+<br><br>
 
++ **Wireflow 1: Login / Registrarse**
 
+**User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma y ustilizar sus herramientas.
 
-**XXXXX:**
+**User Persona:** Comensales
 
+**Flujo:** El usuario accede a la landing page y hace clic en “iniciar sesion” desde arriba del logotipo. Si ya tiene cuenta, introduce su correo y contraseña afiliada a esa cuenta. Si es nuevo, completa el formulario correspondiente con el nombre de usuario, correo y contraseña. Tras completar el proceso, es redirigido automáticamente a su pagina de perfil.
 
+<p align="center">
+  <img src="Assets/wireflows/Wframe4.png" alt="wireflow" width="1000">
+</p>
 
-**XXXXX:**
+<p align="center">
+    Wireflow Login y Register - Elaboración propia
+</p>
 
++ **Wireflow 2: Agregar a nueva persona**
 
+**User Goal:** Como usuario, quiero agregar a una nueva persona de la plataforma de forma efectiva.
 
-**XXXXX:**
+**User Persona:** Comensales
 
+**Flujo:** Desde su perfil ingresa a la seccion de "Contactos" para luego buscar a la persona por medio de su nombre, codigo o para rapides, escaneo de QR y finalmente manda la solicitud.
 
+<p align="center">
+  <img src="Assets/wireflows/Wframe2.png" alt="wireflow" width="1000">
+</p>
 
-**XXXXX:**
+<p align="center">
+    Wireflow Agregar a nueva persona  - Elaboración propia
+</p>
 
++ **Wireflow 3: Cambiar Restaurante durante el calculo**
 
-**XXXXX:**
+**User Goal:** Como usuario, quiero cambiar de restaurante tanto antes como durante el calculo para no volver a crear la lista.
 
+**User Persona:** Comensales
 
+**Flujo:** Desde su perfil ingresa a la seccion de "Contactos" para seleccionar a las personas para un grupo, luego ir a la seccion de "Restaurantes" para elegir a cual ir, luego van a la seccion de "Calculo" para proceder con el calculo, luego si se desea cambiar de restaurante, presione el boton 2 que le permitira editar el restaurante, para luego volver a la seccion de "Calculo" y seguir realizando su el procedimiento. 
 
-**XXXXX:**
+<p align="center">
+  <img src="Assets/wireflows/Wframe3.png" alt="wireflow" width="1000">
+</p>
 
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
-
-
-
-**XXXXX:**
+<p align="center">
+    Wireflow Cambiar Restaurante durante el calculo  - Elaboración propia
+</p>
 
 
++ **Wireflow 4: Aceptar o Denegar Calculos de otra personas**
 
-### 4.4.3. Web Applications User Flow Diagrams.
+**User Goal:** Como usuario, quiero aceptar o denegar las calculos realizados de otras personas que me involucren.
+
+**User Persona:** Comensales
+
+**Flujo:** Desde su perfil se le notificara si una persona de contectos lo puso en su lista de calculo, si presiona en el boton de si, lo llevara en la seccion de "Calculo" donde vera los resultados hecho por la persona para ir a un restaurante, en caso que presione el boton de no, no se le llevara a la seccion de "Calculo" como tampoco se le aparecera los datos de dicho calculo.
+
+<p align="center">
+  <img src="Assets/wireflows/Wframe4.png" alt="wireflow" width="1000">
+</p>
+
+<p align="center">
+    Wireflow Aceptar o Denegar Calculos de otra personas - Elaboración propia
+</p>
+
+
+
+
+<br><br>
+
+
+
+
+
+### 4.4.3. Web Applications Mock-ups.
+
+A continuacion los siguientes Mock-ups fueron realizados en base a los wireframes anteriormente hechos. Representan fielmente la manera en la que
+ nuestros usuarios podrán apreciar la aplicación web.
+
+https://www.figma.com/design/Iw07d6r56Nxk6swaIVWRw5/Untitled?node-id=0-1&p=f&m=draw
+
+<br><br>
+
+
++ **Iniciar Sesión / Registrarse**:
+
+Permite a nuevos usuarios crear una cuenta para la aplicacion, y a usuarios existentes ingresar con sus correos para acceder a su perfil.
+
+<p align="center">
+  <img src="Assets/mockups/sing_in.png" alt="mockups" width="1000">
+</p>
+
+<p align="center">
+     Web Applications Mock-ups Login - Elaboración propia
+</p>
+
+
+<p align="center">
+  <img src="Assets/mockups/Registerus.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Register - Elaboración propia
+</p>
+
++ **Pagina de inicio del usuario**:
+
+Muestra el perfil del usuario, su codigo QR, y restaurante, el frecuente y el ultio de seleccion anterior. El inicio de la rica coordinacion.
+
+<p align="center">
+  <img src="Assets/mockups/homepage.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Homepage - Elaboración propia
+</p>
+
++ **Mis Contactos**:
+
+Apartado que permite agregar, ver y seleccionar contactos para el calculo respecto a un grupo
+
+<p align="center">
+  <img src="Assets/mockups/Addcontact.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Add Contact - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/mockups/contact.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Contactpage - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/mockups/Selectcontact.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User selection Contact - Elaboración propia
+</p>
+
+
++ **Restaurantes disponibles**:
+
+Muestras los restaurantes disponibles de la aplicacion al usuario y permite su seleccion.
+
+<p align="center">
+  <img src="Assets/mockups/Restaurant.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Restaurantpage - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/mockups/selectRestaurant.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User selection Restaurant - Elaboración propia
+</p>
+
++ **Realizar Calculo**:
+
+Formula el calculo respecto al restaurante mas cercano en proporcion a la hubicacion de las personas del grupo.
+
+<p align="center">
+  <img src="Assets/mockups/Calculationpage.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Calculationtpage - Elaboración propia
+</p>
+
+<p align="center">
+  <img src="Assets/mockups/RunCalculation.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Web Applications Mock-ups User Run Calculation - Elaboración propia
+</p>
+
+<br><br>
+
+
+
+
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+Los siguientes User Flow Diagrams se elaboraron correspondientemente a los WireFlows previamente hechos y representan los pasos que seguirán
+ nuestros usuarios a través de la aplicación.
+
+https://miro.com/welcomeonboard/OW1Ea3dxNDdNSjVDQ3M0TGpsUUNwMUFnWkUrUU1ya1JyTkYzUEtwUG5aa3IzelFOTmYxcG1sdzRwT1M4cU44eFFVYzM2aFZrdEpFK1BkcjdiTmxxQmxtMFNpYUMwRGdmT1BoaEw2V0pmU2w5bzlsQmNia0UxUzNPV2wvdE91SjhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=362530360227
+
+<br><br>
+
++ **User Flow Diagram 1: Login / Registrarse**
+
+**User Goal:** Como nuevo usuario, quiero ingresar o crear una cuenta, para acceder a la plataforma y ustilizar sus herramientas.
+
+**User Persona:** Comensales
+
+**Flujo:** El usuario accede a la landing page y hace clic en “iniciar sesion” desde arriba del logotipo. Si ya tiene cuenta, introduce su correo y contraseña afiliada a esa cuenta. Si es nuevo, completa el formulario correspondiente con el nombre de usuario, correo y contraseña. Tras completar el proceso, es redirigido automáticamente a su pagina de perfil.
+
+<p align="center">
+  <img src="Assets/userflows/Uflows1.png" alt="userflows" width="1000">
+</p>
+
+<p align="center">
+    Web Applications User Flow Login y Register - Elaboración propia
+</p>
+
++ **User Flow Diagram 2: Agregar a nueva persona**
+
+**User Goal:** Como usuario, quiero agregar a una nueva persona de la plataforma de forma efectiva.
+
+**User Persona:** Comensales
+
+**Flujo:** Desde su perfil ingresa a la seccion de "Contactos" para luego buscar a la persona por medio de su nombre, codigo o para rapides, escaneo de QR y finalmente manda la solicitud.
+
+<p align="center">
+  <img src="Assets/userflows/Uflows2.png" alt="userflows" width="1000">
+</p>
+
+<p align="center">
+    Web Applications User Flow Agregar a nueva persona  - Elaboración propia
+</p>
+
++ **User Flow Diagram 3: Cambiar Restaurante durante el calculo**
+
+**User Goal:** Como usuario, quiero cambiar de restaurante tanto antes como durante el calculo para no volver a crear la lista.
+
+**User Persona:** Comensales
+
+**Flujo:** Desde su perfil ingresa a la seccion de "Contactos" para seleccionar a las personas para un grupo, luego ir a la seccion de "Restaurantes" para elegir a cual ir, luego van a la seccion de "Calculo" para proceder con el calculo, luego si se desea cambiar de restaurante, presione el boton 2 que le permitira editar el restaurante, para luego volver a la seccion de "Calculo" y seguir realizando su el procedimiento. 
+
+<p align="center">
+  <img src="Assets/userflows/Uflows3.png" alt="userflows" width="1000">
+</p>
+
+<p align="center">
+    Web Applications User Flow Cambiar Restaurante durante el calculo  - Elaboración propia
+</p>
+
+
++ **User Flow Diagram 4: Aceptar o Denegar Calculos de otra personas**
+
+**User Goal:** Como usuario, quiero aceptar o denegar las calculos realizados de otras personas que me involucren.
+
+**User Persona:** Comensales
+
+**Flujo:** Desde su perfil se le notificara si una persona de contectos lo puso en su lista de calculo, si presiona en el boton de si, lo llevara en la seccion de "Calculo" donde vera los resultados hecho por la persona para ir a un restaurante, en caso que presione el boton de no, no se le llevara a la seccion de "Calculo" como tampoco se le aparecera los datos de dicho calculo.
+
+<p align="center">
+  <img src="Assets/userflows/Uflows4.png" alt="userflows" width="1000">
+</p>
+
+<p align="center">
+    Web Applications User Flow Aceptar o Denegar Calculos de otra personas - Elaboración propia
+</p>
+
+
+
+
+<br><br>
+
 
 ## 4.5. Web Applications Prototyping.
 
@@ -1184,6 +1527,7 @@ Durante el desarrollo Sprint 1 del proyecto LocalFood, el equipo se enfocó en e
 
 #### 5.2.1.1. Sprint Planning 1.
 
+
 <table align="center">
   <tr>
     <td><strong>Sprint #</strong></td>
@@ -1233,7 +1577,6 @@ Durante el desarrollo Sprint 1 del proyecto LocalFood, el equipo se enfocó en e
   </tr>
 </table>
 <br>
-
 
 
 
