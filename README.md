@@ -1462,27 +1462,23 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 
 1. **Asignación de Tareas**:
 
-![evidencia-trello]( )
+![evidencia-trello](https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6d324fbbb059ac41bfddd60e6d7988396B/localfood)
 
 2. **Evidencia de commits**:
 
 Repositorio:
 
 **Documento**
-![commits-documento]()
+![commits-documento](Assets/commits.png)
 
-**Landing Page**
-![commits-sprint-1]( )
 
 3. **Evidencia de Nertwork**:
 
 Repositorio:
 
 **Documento**
-![network-documento]( )
+![network-documento](Assets/network.png)
 
-**Landing Page**
-![nerwortk-sprint-1]( )
 
 4.**Contributions**
 
@@ -1491,5 +1487,3 @@ Repositorios:
 **Documento**
 ![contributors-documento]( )
 
-**Landing Page**
-![contribution-sprint-1]( )
