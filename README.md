@@ -1096,41 +1096,35 @@ Descripción:
 1.  HTML
     Estructura básica
 
+      <!DOCTYPE html>
+      HTM lang = " es ">
+
+ - Reglas generales:
+    - Todos los elementos deben estar correctamente cerrados
+
+           (ej. <img />, <div></div>).
+
+     - Usar comillas dobles (" ") en atributos que contengan espacios.
+
+     - Incluir atributos esenciales en imágenes.
               
 
-         - Reglas generales:
-            - 
+2.  CSS
 
-             - 
+Formato:
 
-             - 
+- Sangría: 2 espacios (sin pestañas).
 
-1.  CSS
+- Minúsculas en Selectores, propiedades y valores.
 
-    Formato:
+- Empiteación en blanco innecesarios y líneas vacías redundantes.
 
-    - Sangría: 
+3.  vue.js
 
-    - 
+Reglas clave:
 
-    - 
-
-1.  Tailwind
-
-    Principios:
-
-    - 
-
-    - 
-
-    - 
-
-1.  vue.js
-
-    Reglas clave:
-
-    - Nombres de Compentes: 
-    - Props: 
+- Nombres de Compentes: PascalCase(Ej: UserProfile.vue)
+- Props: Definir tipos y valores por defecto. 
 
 ### 5.1.4. Software Deployment Configuration.
 
