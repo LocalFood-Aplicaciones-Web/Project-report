@@ -460,20 +460,20 @@ link:
 
 ![Entrevista 3]()
 
-- Entrevista N°3: 
-- Sexo: 
-- Edad: 
+- Entrevista N°3: Enrique Suarez Castillo
+- Sexo: Masculino
+- Edad: 26
 
-- Ubicación:
+- Ubicación: Lima, Jesus Maria
 
 #### Entrevista:
 
-link: 
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/EUnoY2Hja7ZNka5CmkI-tk0BNmMcAN0RvrSLNengXMEwvQ?e=OfA75W&
 
 **Resumen:**
 
 
-![Entrevista 4]()
+![Entrevista 5]()
 
 - Entrevista N°4: 
 - Sexo: 
