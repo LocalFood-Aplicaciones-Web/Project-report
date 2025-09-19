@@ -162,25 +162,39 @@ Entregrable 1 o TB1 : (25/04/25)
     <tr>
         <th>Trabaja en equipo para proporcionar liderazgo en forma conjunta</th>
         <td>
-        Ivan Fernando Sanchez Guevara <br> TB1: Elabore los wireframe, wireflows, el mockups, userflows tambien realice la seccion 5.2. desde Sprint 1 hasta Sprint Backlog n
-        <br> 
+        Ivan Fernando Sanchez Guevara <br> 
+        TB1: Elabore los wireframe, wireflows, el mockups, userflows tambien realice la seccion 5.2. desde Sprint 1 hasta Sprint Backlog n
+        <br><br>
+        Walter Luis Fajardo Monrroy <br>
+        TB1: Realicé aportes en el <b>capítulo 2</b> (desarrollo del marco teórico y estructura del documento), en el <b>capítulo 3</b> (identificación de la problemática y definición de objetivos), además participé en el <b>capítulo 5</b> (descripción técnica y apoyo en la elaboración de diagramas).
         </td>
         <td>
-        TB1:  El equipo trabajado de manera homogenia, repartiendose responsabilidades desde las primeras etapas del proyecto. todos los miembro asumió el liderazgo en tareas fundamentales del desarrollo del sistema, generando entregables integrados y coherentes. La toma de decisiones fue hecha en grupo y orientada al cumplimiento de objetivos comunes.
-      <br>
+        TB1: El equipo trabajado de manera homogénea, repartiéndose responsabilidades desde las primeras etapas del proyecto. 
+        Todos los miembros asumieron liderazgo en tareas fundamentales del desarrollo del sistema, generando entregables integrados y coherentes. 
+        La toma de decisiones fue hecha en grupo y orientada al cumplimiento de objetivos comunes. 
+        Walter aportó con una visión estructurada en capítulos claves, reforzando el liderazgo colaborativo.
+        <br>
         </td>
     </tr>
     <tr>
         <th>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</th>
         <td>
-        Ivan Fernando Sanchez Guevara <br> TB1: Aporte en la busqueda de una problematica para el proyecto, ayude a mis compañeros en problemas donde tuvieron problemas como tambien implementar los segmentos objetivos
+        Ivan Fernando Sanchez Guevara <br> 
+        TB1: Aporte en la búsqueda de una problemática para el proyecto, ayudé a mis compañeros en dificultades y también implementé los segmentos objetivos.
+        <br><br>
+        Walter Luis Fajardo Monrroy <br>
+        TB1: Contribuí en el <b>capítulo 2</b> y <b>capítulo 3</b> coordinando con mis compañeros para que la redacción y los enfoques fueran consistentes. 
+        También participé en el <b>capítulo 5</b>, organizando la integración de los diagramas y apoyando en la planificación de entregables.
         </td>
         <td>
-        TB1: El grupo consiguien preparar un entorno colaborativo donde se sigue los roles, tiempos como las responsabilidades de cada miembro. Se impusieron metas alcanzables, se mantuvo una comunicación constante y se cumplieron los objetivos respecto de la primera entrega mediante un trabajo bien organizado y comprometido.
+        TB1: El grupo consiguió preparar un entorno colaborativo donde se siguieron roles, tiempos y responsabilidades de cada miembro. 
+        Se establecieron metas alcanzables, se mantuvo comunicación constante y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y comprometido. 
+        Walter fortaleció la organización en los capítulos técnicos y teóricos, asegurando que las metas se cumplieran con calidad.
         <br>
         </td>
     </tr>
 </table>
+
 
 
 # Capítulo I: Introducción
