@@ -831,7 +831,7 @@ La landing page de LocalFood refleja los valores de equidad, frescura y eficienc
 Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles visuales, priorizando la organización de contenido y navegación.
 
 <p align="center">
-  <img src="Assets/Landing_pages/Wirelading1.png" alt="wireframe" width="1000">
+  <img src="Assets/Landing_pg/Wirelading1.png" alt="wireframe" width="1000">
 </p>
 
 <p align="center">
@@ -841,7 +841,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 <br><br>
 
 <p align="center">
-  <img src="Assets/Landing_pages/Wirelading2.png" alt="wireframe" width="1000">
+  <img src="Assets/Landing_pg/Wirelading2.png" alt="wireframe" width="1000">
 </p>
 
 <p align="center">
@@ -851,7 +851,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 <br><br>
 
 <p align="center">
-  <img src="Assets/Landing_pages/Wirelading3.png" alt="wireframe" width="1000">
+  <img src="Assets/Landing_pg/Wirelading3.png" alt="wireframe" width="1000">
 </p>
 
 <p align="center">
@@ -861,7 +861,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 <br><br>
 
 <p align="center">
-  <img src="Assets/Landing_pages/Wirelading4.png" alt="wireframe" width="1000">
+  <img src="Assets/Landing_pg/Wirelading4.png" alt="wireframe" width="1000">
 </p>
 
 <p align="center">
@@ -875,7 +875,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 **Versión Desktop**  
 
 <p align="center">
-  <img src="Assets/Landing_pages/Mocklading1.png" alt="mockup" width="1000">
+  <img src="Assets/Landing_pg/Mocklading1.png" alt="mockup" width="1000">
 </p>
 
 <p align="center">
@@ -885,7 +885,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 <br><br>
 
 <p align="center">
-  <img src="Assets/Landing_pages/Mocklading2.png" alt="mockup" width="1000">
+  <img src="Assets/Landing_pg/Mocklading2.png" alt="mockup" width="1000">
 </p>
 
 <p align="center">
@@ -895,7 +895,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 <br><br>
 
 <p align="center">
-  <img src="Assets/Landing_pages/Mocklading3.png" alt="mockup" width="1000">
+  <img src="Assets/Landing_pg/Mocklading3.png" alt="mockup" width="1000">
 </p>
 
 <p align="center">
@@ -905,7 +905,7 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 <br><br>
 
 <p align="center">
-  <img src="Assets/Landing_pages/Mocklading4.png" alt="mockup" width="1000">
+  <img src="Assets/Landing_pg/Mocklading4.png" alt="mockup" width="1000">
 </p>
 
 <p align="center">
