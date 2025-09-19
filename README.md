@@ -1158,7 +1158,7 @@ Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estáti
 - Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
 - **Ejemplo:**
 
-git clone https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard.git
+git clone https://github.com/LocalFood-Aplicaciones-Web/Project-report.git
 
 2. **Desarrollo del sitio estático:**
 
