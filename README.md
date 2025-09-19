@@ -427,9 +427,10 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 #### Segmento 1:Comensales
 
 
-![Entrevista 1]()
 
-- Entrevista N°1: Andrea Roncal Vargas
+
+## Entrevista N°1: 
+- Nombre: Andrea Roncal Vargas
 - Sexo: femenino
 - Edad:25
 - tiempo de duracion: 6:54
@@ -450,7 +451,8 @@ También resalta que la incorporación de filtros en aplicaciones de búsqueda d
 
 ![Entrevista 2]()
 
-- Entrevista N°2: Piero Vargas Licetti y Cotrina Chipana Ñuñes
+## Entrevista N°2: 
+- Nombre: Piero Vargas Licetti y Cotrina Chipana Ñuñes
 - Sexo: Masculino y Femenino
 - Edad: 30 y 27
 - tiempo de duracion:
