@@ -1405,7 +1405,7 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Descripción: hola
+Se logro desarrollar y desplegar la landing page del proyecto. A continuación, presentamos capturas de las vistas implementadas.
 
 - **XXXXX:**:
 
