@@ -991,7 +991,7 @@ Descripción:
 
 ## 5.1. Software Configuration Management.
 
-
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de LocalFood.
 
 ### 5.1.1. Software Development Environment Configuration.
 
