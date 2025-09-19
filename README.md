@@ -566,7 +566,7 @@ Descripción:
 
 - Comensales
 
-![comensales-to-be-scenario-map]( )
+![comensales-to-be-scenario-map](Assets/Mapeo%20escenarios%20-%20Comensales.jpg )
 
 - Dueños de locales
 
