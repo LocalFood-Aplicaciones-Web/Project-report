@@ -32,6 +32,7 @@
 | Versión | Fecha    | Autor       | Descripción de Modificación            |
 | ------- | -------- | ----------- | -------------------------------------- |
 | 0.1     | 04/09/25 | Walter Fajardo   | Desarrollo de la Estructura del informe |
+| 0.1    | 13/09/25 | Ariadna Poma | Desarrollo de la Estructura del informe|
 | 0. 1    | 15/09/25 | Fernando Sanchez | Desarrollar de la estructura del informe |
 | 0.1    | 18/09/25 | Angel Pariona | Desarrollo de la Estructura del informe|
 
