@@ -424,15 +424,15 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 
 ### 2.2.2. Registro de entrevistas.
 
-#### Segmento 2: Comensales
-
-![Entrevista 1](Assets/imagen%20de%20video.png)
+#### Segmento objetivo 1 - Comensales
 
 - Entrevista N°1: Anthony Yovera
 - Sexo: Masculino
 - Edad: 23
 
 - Ubicación: Lima, San Martin de Porres
+
+![Entrevista 1](Assets/imagen%20de%20video.png)
 
 #### Entrevista:
 
@@ -441,13 +441,15 @@ link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ES
 **Resumen**
 El entrevistado es un estudiante que reside en el distrito de San Martín de Porres. Menciona que sus principales dificultades para organizar una reunión son la distancia del punto de encuentro y las cancelaciones de último momento. Generalmente busca un lugar céntrico para todos, aunque ha cancelado planes con frecuencia debido a la dificultad de llegar al lugar acordado. No obstante, le resulta atractivo contar con una aplicación que le muestre múltiples opciones de puntos de encuentro.
 
-![Entrevista 2]()
+------------------------------------------
 
 - Entrevista N°2: 
 - Sexo: 
 - Edad: 
 
 - Ubicación:
+  
+![Entrevista 2]()
 
 #### Entrevista:
 
@@ -455,16 +457,17 @@ link:
 
 **Resumen:**
 
-
-#### Segmento 2:Dueños de locales
-
-![Entrevista 3](Assets/imagen_entrevista3.png)
+---------------------------------------
+#### Segmento objetivo 2 - Dueños de locales
 
 - Entrevista N°3: Enrique Suarez Castillo
 - Sexo: Masculino
 - Edad: 26
 
 - Ubicación: Lima, Jesus Maria
+
+![Entrevista 3](Assets/imagen_entrevista3.png)
+
 
 #### Entrevista:
 
@@ -473,13 +476,15 @@ link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/Ef
 **Resumen:**
 El entrevistado es dueño de una sanguchería y actualmente vive en el distrito de Jesús María. Indicó que suelen recibir más grupos de estudiantes durante la semana y, los fines de semana, más grupos familiares. Asimismo, mencionó que su principal dificultad es la baja visibilidad y la fuerte competencia en la zona. Usa WhatsApp para promocionar su negocio, pero desearía contar con una aplicación que le ayude a aumentar su visibilidad y ventas frente a la competencia. Le resultaría atractiva una aplicación con un precio accesible, pero que ofrezca funciones que brinden estadísticas para gestionar a su personal y promociones.
 
-![Entrevista 5]()
+---------------------------
 
 - Entrevista N°4: 
 - Sexo: 
 - Edad: 
 
 - Ubicación:
+
+![Entrevista 5]()
 
 #### Entrevista:
 
@@ -488,25 +493,31 @@ link:
 **Resumen**
 
 
+------------------
+
 ### 2.2.3. Análisis de entrevistas.
 
-**Segmento 1: Comensales**
+**Segmento objetivo 1 - Comensales**
+
 Las entrevistas con Anthony Yovera, revelan puntos en común significativos que validan la propuesta de valor de LocalFood para los comensales.
 
 
 
 
-**Segmento 2: Dueños de locales**
+**Segmento objetivo 2 - Dueños de locales**
 
 Las entrevistas con Enrique Suarez, revelan puntos en común significativos que validan la propuesta de valor de LocalFood para los dueños de locales.
 
-**Disposición a Adoptar Nuevas Herramientas**
+   - *Disposición a Adoptar Nuevas Herramientas:* Los entrevistados se muestran dispuestos a invertir en una aplicación siempre que esta tenga un precio accesible y ofrezca un retorno tangible en términos de visibilidad y aumento de ventas. Esto refleja sensibilidad al costo, pero también apertura a nuevas tecnologías que aporten valor real a su negocio.
+     
+   - *Dependencia de Canales Digitales y Limitaciones:* Los entrevistados dependen principalmente de WhatsApp como canal de promoción de sus negocios. Si bien esta herramienta les permite mantener comunicación directa con sus clientes, señalan que presenta limitaciones importantes en términos de visibilidad, especialmente frente a la fuerte competencia en sus zonas. Esta situación impacta directamente en su capacidad de atraer nuevos clientes y diferenciarse en el mercado.
+   - 
+   - 
+   -  
 
-Los entrevistados se muestran dispuestos a invertir en una aplicación siempre que esta tenga un precio accesible y ofrezca un retorno tangible en términos de visibilidad y aumento de ventas. Esto refleja sensibilidad al costo, pero también apertura a nuevas tecnologías que aporten valor real a su negocio.
+---
 
-**Dependencia de Canales Digitales y Limitaciones**
 
-Los entrevistados dependen principalmente de WhatsApp como canal de promoción de sus negocios. Si bien esta herramienta les permite mantener comunicación directa con sus clientes, señalan que presenta limitaciones importantes en términos de visibilidad, especialmente frente a la fuerte competencia en sus zonas. Esta situación impacta directamente en su capacidad de atraer nuevos clientes y diferenciarse en el mercado.
 
 
 ## 2.3. Needfinding.
