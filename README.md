@@ -27,7 +27,7 @@
 |                                 |            |
 
 </div>
-<h3 align="center"> Agosto - 2025   </h3>
+<h3 align="center"> Septiembre - 2025   </h3>
 
 ## REGISTRO DE VERSIONES
 
@@ -39,10 +39,10 @@
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
-URL del repositorio del project Report : 
+URL del repositorio del project Report : https://github.com/LocalFood-Aplicaciones-Web/Project-report.git
 
 **_TB1_**
-Entregrable 1 o TB1 : (25/04/25)
+Entregrable 1 o TB1 : (19/09/25)
 
 ![commit-report]()
 
