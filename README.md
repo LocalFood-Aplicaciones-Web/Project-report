@@ -220,7 +220,7 @@ Con nuestra aplicación LocalFood, utilizamos geolocalización inteligente para 
 | Ivan Fernando Sanchez Guevara | U202218181 | Mi Nombre es Fernando Sanchez Guevara, tengo 21 años, actualmente estudiando la carrera de Ingeniería de Software. Me considero alguien disiplinado respecto con la puntualidad y desarrollar de la mejor manera las asignaciones de trabajo. Ademas, me preocupo por mi equipo, tratando de que no tengan ningun problema respecto al trabajo, y darles la mano para poder ayudar cuando lo necesiten. Por medio de mi compromiso, eh logrado realizar los proyectos en grupo de forma excelente y sin problemas en percanses | <p align="center"><img width="auto" height="auto" src="Assets/commons/Fernandoprofile.png"></p> |    
 | Angel Jose Pariona Chacca | U202314734 | Mi nombre es Angel Pariona, tengo 20 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y con muchas ganas de seguir aprendiendo en el ámbito tecnológico. Disfruto trabajar en equipo, aportar ideas y asumir retos que me permitan mejorar tanto a nivel académico como personal. En mis tiempos libres practico básquet y me gusta salir a pasear en bicicleta, actividades que me ayudan a mantener el equilibrio entre estudio y recreación. Tengo un interés especial en el desarrollo de software, la innovación tecnológica y la inteligencia artificial, áreas en las que me gustaría seguir creciendo profesionalmente. | ![fotito](/Assets/commons/XD.jfif) |
 | Walter Luis Fajardo Monrroy | U202221632 | Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y Python. También cuento con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. | ![Walter Luis Fajardo Monrroy](Assets/Walter%20Luis%20Fajardo%20Monrroy.png) |
-
+| Sebastian Augusto Gutierrez Santillan | U202310708 | Mi nombre es Sebastian Gutierrez,  tengo 19 años y actualmente estudio la carrera de Ingeniería de Software. Me considero una persona responsable y constante, especialmente en lo que respecta a la puntualidad y al cumplimiento de mis tareas de la mejor manera posible. Además, en mi tiempo libre disfruto de los videojuegos, una afición que me ayuda a relajarme y a mantener un equilibrio entre mis responsabilidades y mis pasatiempos. |![fotito](Assets/file.jpg) |
 
 
 ## 1.2. Solution Profile
@@ -1026,31 +1026,191 @@ Descripción:
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+![welp](Assets/contexto.png)
 
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+![welp](assets/contenedores.png)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
+![welp](assets/componentes.png)
 
 
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+```mermaid
+
+classDiagram
+  class Usuario {
+    +uuid id
+    +string nombre
+    +string email
+    +GeoPoint ubicacionActual
+    +compartirUbicacion(GeoPoint): void
+  }
+
+  class Grupo {
+    +uuid id
+    +string nombre
+    +Date fechaCreacion
+    +agregarParticipante(Usuario): void
+    +removerParticipante(Usuario): void
+  }
+
+  class Participacion {
+    +uuid id
+    +string rol
+  }
+
+  class Lugar {
+    +uuid id
+    +string nombre
+    +string direccion
+    +string tipo
+    +float rating
+    +bool esDisponible(DateTime): bool
+    +cumplePreferencias(Preferencias): bool
+  }
+
+  class Preferencias {
+    +float presupuestoMax
+    +string cocina
+    +float ratingMin
+    +bool accesibilidad
+  }
+
+  class Ruta {
+    +uuid id
+    +GeoPoint origen
+    +GeoPoint destino
+    +int tiempoMin
+    +float distanciaKm
+  }
+
+  class Encuentro {
+    +uuid id
+    +DateTime fecha
+    +string modoEquidad  // "min-sum" | "min-max"
+    +float metricaEquidad
+    +calcularPuntoJusto(): Lugar
+    +registrarDecision(Lugar): void
+  }
+
+  Usuario "1" -- "0..*" Participacion : participa
+  Grupo "1" -- "0..*" Participacion : contiene
+  Participacion "1" -- "1" Usuario
+  Participacion "1" -- "1" Grupo
+
+  Encuentro "1" -- "1" Grupo
+  Encuentro "1" -- "1" Lugar : lugarSeleccionado
+  Ruta "0..*" -- "1" Usuario
+  Ruta "0..*" -- "1" Lugar
+  Preferencias "1" -- "0..*" Usuario : define
+```
 
 
 
 ### 4.7.2. Class Dictionary.
 
-| Clase        | Descripción                                                                                                                                                 |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+A continuación, se presenta una descripción de las 7 entidades principales que forman parte del sistema LocalFood:
+
+Usuario: Entidad que representa a cualquier persona que utiliza la aplicación. Contiene los atributos comunes (id, nombre, email y ubicación actual opcional). Puede crear grupos, unirse a ellos y compartir su ubicación para el cálculo del punto de encuentro.
+
+Grupo: Conjunto de usuarios que coordina una reunión. Mantiene organizador, participantes, fecha de creación y estado. Un grupo puede solicitar propuestas de encuentro y confirmar un lugar final.
+
+Participacion: Clase de relación entre Usuario y Grupo que define el rol del usuario dentro del grupo (organizador o miembro) y su estado (invitado, aceptado). Garantiza unicidad por usuario–grupo y sirve de base para el control de permisos.
+
+Preferencias: Conjunto de criterios aplicados al cálculo y filtrado de candidatos (presupuesto máximo, tipo de cocina, rating mínimo, accesibilidad y ventana horaria). Se asocian al grupo para producir propuestas relevantes.
+
+Lugar: Establecimiento candidato o seleccionado (restaurante/cafetería). Registra nombre, dirección, geolocalización, tipo, rating, horarios y, opcionalmente, un identificador externo (p. ej., Google Places). Se valida su disponibilidad para la ventana horaria.
+
+Ruta: Métrica de viaje entre un usuario y un lugar. Incluye tiempo estimado (min) y distancia (km), obtenidos desde la matriz N×M de rutas. Se utiliza para evaluar la función objetivo (suma de tiempos o máximo individual).
+
+Encuentro: Proceso/resultado del cálculo del “punto justo” para un grupo. Conserva el modo de equidad elegido (MIN_SUM o MIN_MAX), la métrica de evaluación, el lugar seleccionado (si se confirmó), la fecha y la trazabilidad necesaria (rutas por usuario usadas en el cálculo).
 
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+```mermaid
+erDiagram
+  USUARIOS {
+    string   id_usuario PK
+    string   nombre
+    string   email
+    float    lat
+    float    lng
+    datetime creado_en
+  }
+
+  GRUPOS {
+    string   id_grupo PK
+    string   nombre
+    datetime fecha_creacion
+  }
+
+  PARTICIPACIONES {
+    string id_participacion PK
+    string id_usuario FK
+    string id_grupo   FK
+    string rol
+  }
+
+  PREFERENCIAS {
+    string   id_preferencia PK
+    string   id_grupo FK
+    float    presupuesto_max
+    string   cocina
+    float    rating_min
+    boolean  accesibilidad
+    string   ventana_desde      
+    string   ventana_hasta      
+  }
+
+  LUGARES {
+    string   id_lugar PK
+    string   nombre
+    string   direccion
+    string   tipo
+    float    rating
+    float    lat
+    float    lng
+    datetime cacheado_en
+  }
+
+  ENCUENTROS {
+    string   id_encuentro PK
+    string   id_grupo  FK
+    string   id_lugar  FK
+    datetime fecha
+    string   modo_equidad
+    float    metrica_equidad
+  }
+
+  RUTAS {
+    string   id_ruta PK
+    string   id_usuario FK
+    string   id_lugar   FK
+    int      tiempo_min
+    float    distancia_km
+    datetime medido_en
+  }
+
+  %% Relationships
+  USUARIOS ||--o{ PARTICIPACIONES : participa
+  GRUPOS   ||--o{ PARTICIPACIONES : contiene
+  GRUPOS   ||--o{ ENCUENTROS      : tiene
+  LUGARES  ||--o{ ENCUENTROS      : seleccionado
+  USUARIOS ||--o{ RUTAS           : viaja
+  LUGARES  ||--o{ RUTAS           : destino
+  GRUPOS   ||--o| PREFERENCIAS    : define
+
+
+```
 
 
 
@@ -1248,8 +1408,21 @@ Link del Trello:
 
 Descripción:
 
-| **Repository** | **Branch**              | **Commit Id**                            | **Commit Message**                         | **Commit Message Body**                               | **Commited on (Date)** |
-| -------------- | ----------------------- | ---------------------------------------- | ------------------------------------------ | ----------------------------------------------------- | ---------------------- |
+### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| https://github.com/LocalFood-Aplicaciones-Web/Project-report | main | 7691156 | Update README.md | — | 18/09/25 |
+|  | main | 06b69a8 | Add files via upload | — | 18/09/25 |
+|  | main | ae40080 | Update README.md | — | 18/09/25 |
+|  | main | 31307e1 | doc: Implement data about a student and complete the StudentOutcome | — | 18/09/25 |
+|  | main | 405328f | Merge pull request #7 from LocalFood-Aplicaciones-Web/docs/chapter2-v1 | — | 17/09/25 |
+|  | main | 9184f16 | docs: add user persona for food stall owner segment | — | 17/09/25 |
+|  | main | c35eb7f | docs: add user persona for customer segment | — | 17/09/25 |
+|  | main | 50d5ed1 | Update README.md | — | 16/09/25 |
+|  | main | 9cf551a | Merge pull request #5 from LocalFood-Aplicaciones-Web/docs/chapter2-v1 | — | 15/09/25 |
+|  | main | 8e5b938 | docs: update Section 2.2.1 - Interview design | — | 15/09/25 |
+
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
