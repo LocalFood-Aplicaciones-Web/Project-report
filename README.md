@@ -570,7 +570,7 @@ Descripción:
 
 - Dueños de locales
 
-![dueños-de-locales-to-be-scenario-map]( )
+![dueños-de-locales-to-be-scenario-map](Assets/Mapeo%20escenarios%20-%20Dueños%20de%20locales.jpg)
 
 ## 3.2. User Stories.
 
