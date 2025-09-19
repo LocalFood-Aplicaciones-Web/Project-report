@@ -832,16 +832,7 @@ La landing page de LocalFood refleja los valores de equidad, frescura y eficienc
 
 **Versión Desktop**  
 
-![Wireframe_HomePage](/Assets/wireframes/homepage.png)
 
-![Wireframe_AñadirContacto](/Assets/wireframes/Addcontact.png)
-
-![Wireframe_SeleccionarContacto](/Assets/wireframes/Selectcontact.png)
-
-![Wireframe_Pag_Calculo](/Assets/wireframes/
-Calculationpage.png)
-
-![Wireframe_Registrarse](/Assets/wireframes/sing_in.png)
 
 Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles visuales, priorizando la organización de contenido y navegación.
 
@@ -850,17 +841,6 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 ## 4.3.2. Landing Page Mock-up
 **Versión Desktop**  
 
-![Mockup Añadir Contacto](/Assets/mockups/Addcontact.png)
-
-![Mockup Pagina de Calculo](/Assets/mockups/Calculationpage.png)
-
-![Mockup Contactos](/Assets/mockups/contact.png)
-
-![Mockup Registro](/Assets/mockups/Registerus.png)
-
-![Mockup HomePage](/Assets/mockups/homepage.png)
-
-![Mockup Seleccionar Contacto](/Assets/mockups/Selectcontact.png)
 
 Los mock-ups reflejan la aplicación del estilo visual final: colores, tipografías e imágenes, alineados al design system definido.
 
