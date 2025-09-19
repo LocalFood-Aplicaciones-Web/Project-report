@@ -597,7 +597,7 @@ Descripción:
 
 ## 3.3. Impact Mapping.
 
-![impact-mappig](./assets/Impact-map.png)
+![impact-mappig](Assets/Impact%20map.png)
 
 ## 3.4. Product Backlog.
 
