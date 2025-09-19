@@ -1435,23 +1435,28 @@ Link del landing page desplegado:
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Descripción:
+Descripción: En este sprint 1 se desarrollo la landing page, por lo que no hay evidencias del empleo de web services.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Descripción
+Durante el primer sprint, desarrollamos y desplegamos la landing page del proyecto.
 
 pasos para el despliegue:
 
-1. 
-2. 
-3. 
-4. 
+1. Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
+
+2. Configuración de la Rama de despliegue: Aseguramos que la rama principal del repositorio se llamara gh-pages, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+
+3. Generación del Enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente de GitHub Pages para que tomara el contenido de la rama gh-pages.
+
+4. Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama gh-pages y desplegó la landing page en la URL proporcionada por GitHub Pages.
 
 ![Despliegue-landing-page]()
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-Descripción:
+Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionalidades de la landing page y la realización del documento.
 
 #### Colaboración y Desarrollo de Actividades
 
