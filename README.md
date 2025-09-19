@@ -997,43 +997,45 @@ A continuación, se describe el proceso por el cual organizamos, gestionamos y c
 
 Gestión de las necesidades
 
-- Trello: 
+- Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
 
-  Ruta de referencia:
+  Ruta de referencia: https://trello.com/es
 
 Diseño UX/UI
 
-- Figma: 
+- Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizada para el diseño digital. En el caso del proyecto, se utilizó para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
 
-  Ruta de referencia: 
+  Ruta de referencia: https://www.figma.com/login 
 
-- Lucidchart: 
-  Ruta de referencia: 
+- Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de flujos de cable, flujos de usuario y el diagrama de clases asociadas a la aplicación.
 
+  Ruta de referencia: https://www.lucidchart.com/ 
+  
 Desarrollo de software
 
-- Visual Studio Code: 
-  Ruta de referencia: 
+- Visual Studio Code: El equipo de trabajo seleccionó un entorno de desarrollo integrado (IDE) para la creación y compilación de los factores de control por dominio. Este IDE aporta valor al proyecto, ya que permite incorporar extensiones útiles, ofrece soporte para la edición de texto en diversos lenguajes de programación, es compatible con múltiples sistemas operativos y brinda otros beneficios adicionales.
 
-- HTML5: 
-  Ruta de referencia: 
+  Ruta de referencia: https://code.visualstudio.com/ 
 
-- CSS: 
-  Ruta de referencia: 
+- HTML5: HyperText Markup Language, o siglas por sus HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 
-- Bootstrap: 
-  Ruta de referencia: 
+  Ruta de referencia: https://www.w3schools.com/html/html5-syntax.asp
+  
+- CSS: Hojas de estilo en cascada es un lenguaje que maneja el diseño y presentación de las páginas web, el que va de la mano con HTML.
+
+  Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html 
 
 Implementación de software
 
-- Git: 
+- Git: Una herramienta de control de versiones que facilitan el registro y la gestión de las versiones distintas del programa. Su propósito es mantener un historial de cambios y simplificar el corrección de errores. Los integrantes del equipo A través de la línea de comandos en sus sistemas locales.
 
-  Ruta de referencia: 
+  Ruta de referencia: https://git-scm.com/ 
 
   Documentación y gestión de proyectos de software
 
-- Github: 
-  Ruta de referencia:
+- Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitir la colaboración en tiempo real y la revisión de las contribuciones de cada miembro del equipo. Los integrantes del equipo se puede acceder a través de sus navegadores web.
+
+  Ruta de referencia:https://github.com/ 
 
 ### 5.1.2. Source Code Management.
 
