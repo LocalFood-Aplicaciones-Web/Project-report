@@ -458,7 +458,7 @@ link:
 
 #### Segmento 2:Dueños de locales
 
-![Entrevista 3]()
+![Entrevista 3](Assets/imagen_entrevista3.png)
 
 - Entrevista N°3: Enrique Suarez Castillo
 - Sexo: Masculino
@@ -468,10 +468,10 @@ link:
 
 #### Entrevista:
 
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/EUnoY2Hja7ZNka5CmkI-tk0BNmMcAN0RvrSLNengXMEwvQ?e=OfA75W&
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/EfQ6SfYkkoZKhzGfk1EinWgBglLpvJtFyufBnsWZtPhx1w?e=1zYSmD&
 
 **Resumen:**
-
+El entrevistado es dueño de una sanguchería y actualmente vive en el distrito de Jesús María. Indicó que suelen recibir más grupos de estudiantes durante la semana y, los fines de semana, más grupos familiares. Asimismo, mencionó que su principal dificultad es la baja visibilidad y la fuerte competencia en la zona. Usa WhatsApp para promocionar su negocio, pero desearía contar con una aplicación que le ayude a aumentar su visibilidad y ventas frente a la competencia. Le resultaría atractiva una aplicación con un precio accesible, pero que ofrezca funciones que brinden estadísticas para gestionar a su personal y promociones.
 
 ![Entrevista 5]()
 
