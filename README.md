@@ -627,11 +627,11 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 - Comensales
 
-![comensales-to-be-scenario-map](Assets/Mapeo%20de%20escenarios%20-%20Comensales.jpg )
+![comensales-to-be-scenario-map]()
 
 - Dueños de locales
 
-![dueños-de-locales-to-be-scenario-map](Assets/Mapeo%20de%20escenarios%20-%20Dueños%20de%20locales.jpg)
+![dueños-de-locales-to-be-scenario-map]()
 
 ## 3.2. User Stories.
 
