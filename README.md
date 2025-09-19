@@ -606,7 +606,8 @@ Descripción:
 | 1       | US0X    |                 |     | 8            |
 
 
-link de Trello : 
+link de Trello : https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6d324fbbb059ac41bfddd60e6d7988396B/localfood
+
 
 # Capítulo IV: Product Design
 
