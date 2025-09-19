@@ -678,244 +678,330 @@ link de Trello :
 
 ## 4.1. Style Guidelines.
 
-Descripción:
+## 4.1.1. General Style Guidelines
+#### Brand Overview
 
-### 4.1.1. General Style Guidelines.
+En muchas ciudades, coordinar un punto de encuentro para grupos de personas es un reto. La falta de información clara sobre opciones accesibles para todos provoca que elegir un restaurante o café genere demoras, frustración y a veces hasta cancelaciones de reuniones. **LocalFood** surge como una solución a este problema: una plataforma que ayuda a encontrar el punto medio justo entre colegas, amigos o familiares, mostrando opciones de restaurantes y locales accesibles para todos los miembros del grupo.  
 
-**Task:**  
-
-**LocalFood** Descripción:
-
-**Insight:**  
-
-
-**Branding:**  
-
-
-
-
-**Typography:**  
-
-
-
-
-**Íconos y Elementos Gráficos:**  
-
-
-### 4.1.2. Web Style Guidelines
-
-**Landing Page:**  
-DSescripción:
-
-**Diseño Responsivo:**  
-
-
-**Espaciado y Alineación:**  
-
-
-**Colores y Contraste:**  
-
-
-**Imágenes y Fondos:**  
-
+A través de geolocalización y un sistema inteligente de recomendación, LocalFood no solo facilita la elección del lugar ideal, sino que también mejora la experiencia social al reducir el tiempo de coordinación y garantizar un encuentro justo y equitativo para todos.
 
 ---
 
+#### Brand Name
+
+El nombre de nuestra solución, **LocalFood**, refleja la esencia del proyecto: **"Local"** representa la proximidad, accesibilidad y comunidad, mientras que **"Food"** enfatiza la experiencia compartida alrededor de la comida. La unión de ambos términos transmite de manera clara y directa el propósito central de la aplicación: facilitar reuniones en restaurantes y espacios gastronómicos cercanos al grupo de usuarios.  
+
+La elección de un nombre en inglés responde a su carácter sencillo, universal y atractivo para un público amplio, lo que permite escalar la solución más allá de un mercado local.
+
+---
+
+#### Logo
+
+A continuación, se presenta el logo de LocalFood:  
+
+![Logo](/Assets/Logo-LocalFood.PNG)
+
+#### Typography
+
+La tipografía en **LocalFood** juega un papel crucial en la claridad y coherencia de la interfaz.  
+Se han definido **dos fuentes principales** que aseguran jerarquía visual y legibilidad:
+
+- **Nunito**  
+  Utilizada para títulos, encabezados y botones. Su estilo redondeado y amigable transmite cercanía y frescura, alineándose con la identidad social del proyecto.  
+  - Variantes: Bold (títulos principales), SemiBold (subtítulos y botones).
+
+- **Lato**  
+  Utilizada en párrafos, descripciones, enlaces y textos de apoyo. Su diseño limpio y moderno facilita la lectura en web y móvil.  
+  - Variantes: Regular (texto general), Italic (notas).
+
+**Niveles tipográficos definidos:**  
+- Headings (Nunito) → jerarquía clara en títulos.  
+- Body (Lato) → legibilidad en el texto base.  
+- Buttons (Nunito SemiBold) → acciones destacadas.  
+- Links (Lato Italic/Subrayado) → navegación secundaria. 
+
+  ![Tipografia](/Assets/typography/tipografia.png)
+
+---
+
+#### Colors
+  
+   La elección de colores es una parte esencial en el diseño de **LocalFood**. Una paleta bien definida no solo determina la estética de la marca, sino que también comunica los valores principales de frescura, accesibilidad y confianza.  
+
+En nuestro sistema visual, se distinguen:  
+- **Color primario**: el que guía la identidad de la marca y se utiliza en los elementos clave de interacción.  
+- **Colores secundarios**: aquellos que complementan al primario y refuerzan la jerarquía visual.  
+- **Colores de estado**: usados para indicar acciones específicas (éxito, alerta, error, etc.).  
+- **Colores base/neutros**: blanco y negro, que aportan legibilidad y balance al diseño.  
+
+---
+
+### 🎨 Color Primario
+- **Verde Lima**  
+  Representa frescura, dinamismo y accesibilidad. Se usa en la navegación activa y elementos destacados de la interfaz.  
+
+**Hex:** `#4FFF49`  
+![Color Primario Verde](/Assets/Colors/verde.PNG)
+
+---
+
+### 🎨 Colores Secundarios
+- **Naranja/Beige**  
+  Utilizado en el fondo de la barra lateral, transmite calidez y cercanía.  
+  **Hex:** `#FFB983`  
+  ![Color Secundario Naranja](/Assets/Colors/naranjoso.PNG)
+
+- **Morado/Violeta**  
+  Resalta botones y cantidades, aportando energía visual.  
+  **Hex:** `#F828FF`  
+  ![Color Secundario Morado](/Assets/Colors/morao.PNG)
+
+- **Azul**  
+  Usado en fondos de QR y botones secundarios, transmite confianza.  
+  **Hex:** `#5B58FE  
+  ![Color Secundario Azul](/Assets/Colors/azul.PNG
+
+---
+
+### 🎨 Colores Base / Neutros
+- **Blanco**  
+  Fondo principal, aporta claridad y legibilidad.  
+  **Hex:** `#FFFFFF`  
+  ![Color Base Blanco](/Assets/Colors/blanco.PNG)
+
+- **Negro**  
+  Utilizado en tipografía y detalles para alto contraste.  
+  **Hex:** `#000000`  
+  ![Color Base Negro](/Assets/Colors/negro.PNG)
+
+## 4.1.2. Web Style Guidelines
+
+
+**Diseño responsivo**  
+El sitio web de **LocalFood** será totalmente adaptable a diferentes dispositivos y tamaños de pantalla. Desde computadoras de escritorio hasta smartphones, la experiencia del usuario se mantendrá siempre clara, intuitiva y visualmente atractiva. El diseño responsivo garantizará que los elementos principales (navegación, menús y botones de acción) estén accesibles en todo momento sin comprometer la usabilidad.
+
+**Patrón de lectura (Patrón Z)**  
+El diseño se basa en el patrón Z, guiando la mirada del usuario de forma natural:  
+1. Comienza en la parte superior izquierda con el **logo de LocalFood** como punto de identidad.  
+2. Se desplaza horizontalmente hacia la derecha, donde se ubican las **opciones principales de navegación**.  
+3. Desciende verticalmente hacia el contenido general de la página (beneficios, funcionalidades y secciones informativas).  
+4. Finalmente, se dirige hacia la parte inferior derecha, donde se encuentran los **medios de contacto, enlaces secundarios y CTA finales**.  
+
+**Uso de colores**  
+Los colores de la interfaz están diseñados para captar la atención de los usuarios y transmitir sensaciones de **frescura, confianza y accesibilidad**. Los botones principales y elementos de navegación emplean el **color primario verde**, mientras que los colores secundarios aportan contraste y refuerzan la jerarquía visual en el contenido.
+
+**Espaciado y efectos visuales**  
+El uso de espacios en blanco y separaciones claras permite que la interfaz sea limpia y ordenada. Además, se emplean efectos sutiles (resaltado de botones, cambios de color en hover) que guían al usuario en su recorrido, facilitando la comprensión del propósito de la plataforma: encontrar el punto de encuentro justo entre colegas y amigos.
+
+![Patron_Z](/Assets/Pattern/PatronZ.jpg)
+--
 ## 4.2. Information Architecture
 
-
-
-## 1. Página de Inicio
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-- **XXXXX:**  
-
-
-## 2. XXXXX
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-## 3. XXXXX
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-## 4. XXXXX
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
+En esta sección se detallan las decisiones y fundamentos que guían la organización del contenido en las experiencias web y móvil de **LocalFood**, incluyendo tanto la Landing Page como la Aplicación Web. Estas propuestas buscan asegurar que los usuarios se adapten fácilmente a la funcionalidad de la plataforma y encuentren lo que necesitan sin esfuerzo. Las decisiones abarcan los sistemas de organización, etiquetado, SEO, búsqueda y navegación.
 
 ---
 
-### 4.2.1. Organization Systems
+### 4.2.1 Organization Systems
 
-1. **Categorización de la Información:**
+Para estructurar la arquitectura de información de **LocalFood**, se ha adoptado un sistema **jerárquico** en la Landing Page y en la Aplicación Web. Esto permite a los usuarios identificar rápidamente las secciones principales y acceder a las funcionalidades clave.
 
-   - **XXXXX:**  
+### Landing Page
 
+La Landing Page de **LocalFood** incluye las siguientes secciones:
 
-   - **XXXXX:**  
+- **Inicio (Home):** Presenta la propuesta de valor central de la aplicación, con un mensaje introductorio y botones de llamada a la acción (CTA) como *Iniciar Sesión* o *Registrarse*.  
+- **Acerca de Nosotros:** Explica la misión, visión y valores de la startup, transmitiendo confianza y transparencia.  
+- **Marcas Registradas:** Sección destinada a mostrar las alianzas o registros de propiedad intelectual vinculados a la aplicación.  
+- **Países Hábiles:** Lista de los países en los que la plataforma puede operar o proyecta expandirse.  
+- **Contáctanos:** Ofrece medios de comunicación, formulario de contacto y enlaces a redes sociales.
 
+### Aplicación Web
 
-2. **Filtros y Búsqueda:**
+La aplicación web está organizada en secciones diseñadas para guiar al usuario en la planificación de encuentros:
 
-   - **XXXXX:**  
-     Descripción:
+- **Inicio:** Vista general de las opciones y accesos directos a las principales funciones.  
+- **Colegas:** Permite agregar, buscar y gestionar la lista de amigos/compañeros de reunión. Incluye opciones de búsqueda por usuario, código único o QR.  
+- **Restaurantes:** Muestra la lista de locales sugeridos como puntos de encuentro, organizados por cercanía y accesibilidad para todos los participantes.  
+- **Calculadora:** Herramienta que utiliza geolocalización para determinar el punto medio óptimo para los usuarios, minimizando tiempos de traslado.  
 
-   - **XXXXX:**  
-     Descripción:
-
-3. **Interfaz de Usuario Intuitiva:**
-
-   - **XXXXX:**  
-     Descripción:
-
-   - **XXXXX:**  
-     Descripción:
-
-4. **Funcionalidades Específicas:**
-
-   - **XXXXX:**  
-     Descripción:
-
-   - **XXXXX:**  
-     Descripción:
+Cada sección está claramente diferenciada y jerarquizada, con encabezados visibles y botones de acción estratégicamente ubicados.
 
 ---
 
-### 4.2.2. Labeling Systems
+### 4.2.2 Labeling Systems
 
-Descripción:
+El sistema de etiquetado en **LocalFood** está diseñado para ser **claro, inclusivo y coherente**.  
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- **Etiquetas textuales:**  
+  - *Inicio*, *Colegas*, *Restaurantes*, *Calculadora*, *Cerrar Sesión*.  
+  - Frases simples y directas, evitando ambigüedad.  
 
----
+- **Etiquetas icónicas:**  
+  - Ícono de **lupa** para búsqueda.  
+  - Ícono de **usuario** para la sección de colegas.  
+  - Ícono de **mapa/ubicación** en la calculadora.  
+  - Ícono de **QR** para compartir o agregar usuarios rápidamente.  
 
-### 4.2.3. SEO Tags and Meta Tags
-
-Cada página de la plataforma incluirá:
-
-- 
-- 
-- 
+Este etiquetado facilita la comprensión inmediata de las funciones, incluso para usuarios primerizos.
 
 ---
 
-### 4.2.4. Searching Systems
+### 4.2.3 SEO Tags and Meta Tags
 
-Descripción:
+Se definen etiquetas SEO y meta tags para optimizar la visibilidad de la Landing Page y garantizar su correcta indexación en motores de búsqueda.
 
-1. **XXXXX:**  
-   Ej.: 
+- **Title:**  
 
-2. **XXXXX:**  
-   Descripción:
+  ```html
+     <title>LocalFood - Encuentra tu punto medio en Lima</title>
+- **Description:**
 
-   - 
-   - 
-   - 
-   - 
-   -  
+  ```html
+    <meta name="description" content="LocalFood es una aplicación que recomienda restaurantes y cafés equitativos para grupos de amigos y colegas en Lima, utilizando geolocalización inteligente."/>
+- **Keywords:**
+
+  ```html
+    <meta name="keywords" content="LocalFood, punto medio, app reuniones, restaurantes accesibles, Lima"/>
+- **Author:**
+
+  ```html
+  <meta name="author" content="© 2024 LocalFood. Todos los derechos reservados."/>
+- **Viewport:**
+
+  ```html
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+### 4.2.4 Searching Systems
+
+La aplicación ofrece distintos métodos de búsqueda para facilitar el acceso a la información:
+
+- **Búsqueda por nombre de usuario:**  
+  Permite encontrar y agregar colegas escribiendo directamente su nombre de usuario.  
+
+- **Búsqueda por código único:**  
+  Opción para ingresar un código corto que identifica a cada usuario.  
+
+- **Búsqueda por QR:**  
+  Escaneo de un código QR compartido para agregar colegas de forma rápida.  
+
+- **Búsqueda de restaurantes:**  
+  Filtrado de locales por nombre, categoría o ubicación.  
+---
+### 4.2.5 Navigation Systems
+
+El sistema de navegación en **LocalFood** está diseñado para ser **intuitivo y consistente** en web y móvil:
+
+- **Menú superior (Landing Page – Desktop):**  
+  Incluye Inicio, Acerca de Nosotros, Marcas Registradas, Países Hábiles y Contacto.  
+
+- **Menú lateral (Aplicación Web – Desktop):**  
+  Accesos directos a Inicio, Colegas, Restaurantes, Calculadora y Cerrar Sesión.  
+
+- **Navegación inferior (Mobile):**  
+  Barra con íconos para Inicio, Colegas, Restaurantes y Perfil.  
+
+- **CTA fijo:**  
+  Botón destacado *“Encuentra tu punto medio”* disponible en la sección de calculadora.  
+
+- **Footer (Landing Page):**  
+  Enlaces a políticas de privacidad, términos de servicio y redes sociales.  
+
+## 4.3. Landing Page UI Design
+
+**Introducción:**  
+La landing page de LocalFood refleja los valores de equidad, frescura y eficiencia. La estructura guía al usuario de manera clara hacia los beneficios y el uso inmediato de la app.
 
 ---
 
-### 4.2.5. Navigation Systems
+## 4.3.1. Landing Page Wireframe
 
-Descripción:
+**Versión Desktop**  
 
-1. **XXXXX:**  
-   Descripción:
+Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles visuales, priorizando la organización de contenido y navegación.
 
-2. **XXXXX:**  
-   Descripción:
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading1.png" alt="wireframe" width="1000">
+</p>
 
-3. **XXXXX:**  
-   Descripción:
+<p align="center">
+    Wireframes 1 - Elaboración propia
+</p>
 
-4. **XXXXX:**  
-   Descripción:.
+<br><br>
 
-5. **XXXXX:**  
-   Descripción:
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading2.png" alt="wireframe" width="1000">
+</p>
 
-## 4.3. Landing Page UI Design.
+<p align="center">
+    Wireframes 2 - Elaboración propia
+</p>
 
-### 4.3.1. Landing Page Wireframe.
+<br><br>
 
-**XXXXX: Section**
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading3.png" alt="wireframe" width="1000">
+</p>
 
+<p align="center">
+    Wireframes 3 - Elaboración propia
+</p>
 
+<br><br>
 
-**XXXXX: Section**
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading4.png" alt="wireframe" width="1000">
+</p>
 
+<p align="center">
+    Wireframes 4 - Elaboración propia
+</p>
 
+<br><br>
+---
 
-**XXXXX: Section**
+## 4.3.2. Landing Page Mock-up
+**Versión Desktop**  
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading1.png" alt="mockup" width="1000">
+</p>
 
+<p align="center">
+    Mock-up 1 - Elaboración propia
+</p>
 
-**XXXXX: Section**
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading2.png" alt="mockup" width="1000">
+</p>
 
+<p align="center">
+    Mock-up 2 - Elaboración propia
+</p>
 
-**XXXXX: Section**
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading3.png" alt="mockup" width="1000">
+</p>
 
-**XXXXX: Section**
+<p align="center">
+    Mock-up 3 - Elaboración propia
+</p>
 
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading4.png" alt="mockup" width="1000">
+</p>
 
-### 4.3.2. Landing Page Mock-up.
+<p align="center">
+    Mock-up 4 - Elaboración propia
+</p>
 
-**XXXXX: Section**
-
-
-
-**XXXXX: Section**
-
-
-
-**XXXXX: Section**
-
-
-
-**XXXXX: Section**
-
-
-
-**XXXXX: Section**
-
-
-
-**XXXXX: Section**
-
-
+<br><br>
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -1052,7 +1138,7 @@ https://miro.com/welcomeonboard/WTlMa2lsTU0vVkMyM1Rsc1NYeUNuTURnaXIyV2E5Um43SEpL
 **Flujo:** El usuario accede a la landing page y hace clic en “iniciar sesion” desde arriba del logotipo. Si ya tiene cuenta, introduce su correo y contraseña afiliada a esa cuenta. Si es nuevo, completa el formulario correspondiente con el nombre de usuario, correo y contraseña. Tras completar el proceso, es redirigido automáticamente a su pagina de perfil.
 
 <p align="center">
-  <img src="Assets/wireflows/Wframe4.png" alt="wireflow" width="1000">
+  <img src="Assets/wireflows/Wframe1.png" alt="wireflow" width="1000">
 </p>
 
 <p align="center">
