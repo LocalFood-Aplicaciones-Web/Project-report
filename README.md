@@ -38,7 +38,7 @@
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
-URL del repositorio del project Report : 
+URL del repositorio del project Report : https://github.com/LocalFood-Aplicaciones-Web/Project-report.git 
 
 **_TB1_**
 Entregrable 1 o TB1 : (25/04/25)
