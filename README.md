@@ -1049,7 +1049,7 @@ https://miro.com/welcomeonboard/WTlMa2lsTU0vVkMyM1Rsc1NYeUNuTURnaXIyV2E5Um43SEpL
 **Flujo:** El usuario accede a la landing page y hace clic en “iniciar sesion” desde arriba del logotipo. Si ya tiene cuenta, introduce su correo y contraseña afiliada a esa cuenta. Si es nuevo, completa el formulario correspondiente con el nombre de usuario, correo y contraseña. Tras completar el proceso, es redirigido automáticamente a su pagina de perfil.
 
 <p align="center">
-  <img src="Assets/wireflows/Wframe4.png" alt="wireflow" width="1000">
+  <img src="Assets/wireflows/Wframe1.png" alt="wireflow" width="1000">
 </p>
 
 <p align="center">
