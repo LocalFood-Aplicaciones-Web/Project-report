@@ -449,8 +449,6 @@ Considera importante que el lugar elegido esté cerca y que los precios sean acc
 También resalta que la incorporación de filtros en aplicaciones de búsqueda de restaurantes facilita la selección de opciones adecuadas. Para Andre, esto representa una mejora significativa, ya que desea aumentar la frecuencia de sus reuniones, y considera que el uso de aplicaciones es la mejor forma de lograrlo.
 
 
-![Entrevista 2]()
-
 ## Entrevista N°2: 
 - Nombre: Piero Vargas Licetti y Cotrina Chipana Ñuñes
 - Sexo: Masculino y Femenino
@@ -472,7 +470,19 @@ Cotrina valora positivamente las cualidades que pueden facilitar la organizació
 En cuanto a herramientas de comunicación, Piero utiliza WhatsApp para coordinar con su grupo de amigos, mientras que Cotrina también lo emplea, además de TikTok, donde encuentra opciones de restaurantes que guarda como referencia para futuras reuniones.
 Respecto a sus preferencias personales, ambos priorizan la rapidez en el servicio y un ambiente agradable.
 
+![Entrevista 3](Assets/imagen%20de%20video.png)
 
+- Entrevista N°3: 
+- Sexo: Masculino
+- Edad: 23 años
+- tiempo de duracion: 
+- Ubicación: Lima, San Martin de Porres
+
+#### Entrevista:
+
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ESdjM7va9wVPmepF75nPWGsBuKglaXXEAzqkDo_1dBeWag?e=kt9kOM
+
+**Resumen:**
 
 #### Segmento 2:Dueños de locales
 
