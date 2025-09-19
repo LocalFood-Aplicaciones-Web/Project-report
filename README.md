@@ -20,6 +20,8 @@
 | :------------------------------ | :--------: |
 | Fajardo Monrroy, Walter Luis    | U202221632 |
 | Poma Muñoz, Ariadna Geraldine   | U20221D382 |
+| Sanchez guevara Ivan Fernando   | U202218181 |
+|                                 |            |
 | Pariona Chacca, Angel Jose      | U202314734 |
 | Ivan Fernando, Sanchez Guevara  | U202218181 |
 |                                 |            |
@@ -193,6 +195,7 @@ Con nuestra aplicación LocalFood, utilizamos geolocalización inteligente para 
 
 **Misión:** Nuestra misión es facilitar los encuentros sociales y profesionales en Lima mediante tecnología de geolocalización inteligente, optimizando el tiempo de traslado y ofreciendo puntos de encuentro justos y convenientes para todos los usuarios. Estamos comprometidos con ayudar a las personas a aprovechar mejor su tiempo, brindando una experiencia sencilla, práctica y confiable que reduzca el impacto del tráfico en la vida diaria.
 
+
 **Visión:** Convertirnos en la plataforma líder en Perú para la planificación de encuentros sociales y profesionales, destacándonos por optimizar el tiempo de traslado, reducir el impacto del tráfico y ofrecer soluciones innovadoras y equitativas para reunir personas. Aspiramos a escalar nuestra solución a nivel global, conectando a millones de usuarios con sus puntos de encuentro de manera rápida, justa y sencilla.
 
 **Valores:** Defendemos la equidad, la eficiencia y la innovación como pilares de nuestro trabajo. Aseguramos precisión y confiabilidad en cada recomendación, optimizando el tiempo de nuestros usuarios en una ciudad marcada por el tráfico. Promovemos conexiones humanas más prácticas y convenientes, facilitando encuentros justos que fortalezcan los lazos sociales y profesionales.
@@ -203,6 +206,7 @@ Con nuestra aplicación LocalFood, utilizamos geolocalización inteligente para 
 | Ariadna Geraldine Poma Muñoz | U20221D382 | Estudio la carrera de Ingeniería de Software, tengo 19 años y me considero una persona comprometida, curiosa y optimista, con pasión por el aprendizaje continuo en diversos temas relacionados con la tecnología y otros intereses personales. Cuento con una buena capacidad de adaptación al cambio constante, que se complementa con habilidades blandas como trabajo en equipo, resolución creativa de problemas y ser proactiva. Mi objetivo es aplicar lo aprendido para desarrollar soluciones innovadoras que aporten valor. Actualmente me interesa el desarrollo de software, la inteligencia artificial y la ciberseguridad. |     |    
 | Ivan Fernando Sanchez Guevara | U202218181 | Mi Nombre es Fernando Sanchez Guevara, tengo 21 años, actualmente estudiando la carrera de Ingeniería de Software. Me considero alguien disiplinado respecto con la puntualidad y desarrollar de la mejor manera las asignaciones de trabajo. Ademas, me preocupo por mi equipo, tratando de que no tengan ningun problema respecto al trabajo, y darles la mano para poder ayudar cuando lo necesiten. Por medio de mi compromiso, eh logrado realizar los proyectos en grupo de forma excelente y sin problemas en percanses | <p align="center"><img width="auto" height="auto" src="Assets/commons/Fernandoprofile.png"></p>   |    |
 | Angel Jose Pariona Chacca | U202314734 | Mi nombre es Angel Pariona, tengo 20 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y con muchas ganas de seguir aprendiendo en el ámbito tecnológico. Disfruto trabajar en equipo, aportar ideas y asumir retos que me permitan mejorar tanto a nivel académico como personal. En mis tiempos libres practico básquet y me gusta salir a pasear en bicicleta, actividades que me ayudan a mantener el equilibrio entre estudio y recreación. Tengo un interés especial en el desarrollo de software, la innovación tecnológica y la inteligencia artificial, áreas en las que me gustaría seguir creciendo profesionalmente. |![fotito](/Assets/commons/XD.jfif) |
+
 
 
 ## 1.2. Solution Profile
@@ -637,18 +641,18 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 - Comensales
 
-![comensales-to-be-scenario-map]( )
+![comensales-to-be-scenario-map](Assets/Mapeo%20escenarios%20-%20Comensales.jpg )
 
 - Dueños de locales
 
-![dueños-de-locales-to-be-scenario-map]( )
+![dueños-de-locales-to-be-scenario-map](Assets/Mapeo%20escenarios%20-%20Dueños%20de%20locales.jpg)
 
 ## 3.2. User Stories.
 
 | EPICA                   | ID EPICA |
 | ----------------------- | -------- |
-|                         |          |
-|                         |          |
+|  Configuraciones orientadas a personas: <br>  Como nuevo usuario, quiero que las característica importantes sea intuitivas relacionado respecto a amigos/contactos, para poder realizar seguimiento o no al respecto <br> |  EP01  |
+|  Registro y configuraciones internas: <br>  Como usuario de la plataforma, quiero que las herramientras de la plataforma sean moldeable respecto al calculo, para obtener un resultado independientemente del cambio de decisiones <br> |  EP02  |
 |                         |          |
 |                         |          |
 |                         |          |
@@ -657,13 +661,18 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 |                         |          |
 
 
-| Epic/ Story ID | Titulo                                       | Description                                                                                                                                                                               | Criterios de Aceptacion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Relacion con (Epic ID) |
-| -------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-
+| Epic/ Story ID | Titulo | Description | Criterios de Aceptacion | Relacion con (Epic ID) |
+|----------------|--------|-------------|-------------------------|---------------------|
+| US01 | Ver notificaciones de amigos/contactos | Como nuevo usuario, quiero estar informado de las solicitudes de amistad como calculos que realizen mi lista de contactos para estar informado de actividades que puedan incluirme |Escenario 1: Visualizar Calculos hechos que me incluya <br> Dado que estoy en cualquier parte de la pagina, cuando veo las notificaciones, entonces puedo ver el usuario de la persona respecto a calculos o me envie solicitud de amistad. | EP01 |
+| US02 | Cambiar de restaurante durante el calculo | Como usuario, quiero cambiar de resturante durante el calculo para poder adecuar el destinos a cambios de planes |Escenario 1: Realizar el cambio en cualquier momento antes de calcular: <br> Dado que soy un usuario que coordina con si grupo cuando veo que deciden cambiar de restaurante luego de haber coordinado uno, cuando acceda a Restaurante o Calculo, entonces se cambia el restaurante para el calculo. <br> Escenario 2: Realizar el cambio luego de hacer unos calculos: <br> Dado que soy un usuario que ya empezo a calcular con un restaurante para mi grupo, cuando cambiamos de opinion, entonces puedo presionar el boton de cambiar restaurante en cambio y sin forma de nuevo el grupo. | EP02 |
+| US03 | Ignorar los cálculos de otra gente | Como usuario, quiero poder ignorar o rechazar los calculos, para no afectar el calculo de mis amigos como no tener muchas notificaciones |Escenario 1: Rechazar calculo que incluyan a cierto usuario: <br> Dado que soy un usuario que recibe notificaciones de calculos que me incluyan cuando acceda a la pagina con la notificacion, entonces presiono en el boton de denegar para que no me aparezca dicho calculo. <br>  | EP01 |
+| US04 | Implementar amigos a un lista ya creada | Como usuario, quiero poder implementar mas amigos en una lista ya creada, para no tener que volverla a crear |Escenario 1: Un compañero nuevo se une a la reunion: <br> apartado de calculo con la lista ya creada, entonces presiono la opcion de incluir miembro a la lista ya creada y empiezo el calculo. <br>  | EP02 |
+| US05 | Tener una opción de filtros | Como nuevo usuario, quiero tener una opcion de filtros respecto a restaurante de calidad para que el calculo sea conforma a todo o solo los mejores |Escenario 1: Buscar restaurante de calidad: <br> Dado que quiero comer con mis amigos en lugares bien valorados, cuando busco un restaurante en la apliacion y selecciono uno, entonces puedo presionar la opción de solo los mejor valorados de 5 estrellas para el calculo. <br>  | EP02 |
+| US06 | Agregar amigos rápidamente | Como nuevo usuario, quiero poder agregar a mis lista a personas mas fácilmente para no demorarme o confundirme en el buscador |Escenario 1: Buscar restaurante de calidad: <br> Dado que quiero agregar a un nuevo amigo a la aplicaciones de forma rapida, cuando entre al aplicacion y entre a contacto, entonces presionare el boton de nuevo contacto y subire su codigo QR para agregarlo. <br>  | EP01 |
 
 ## 3.3. Impact Mapping.
 
-![impact-mappig](./assets/Impact-map.png)
+![impact-mappig](Assets/Impact%20map.png)
 
 ## 3.4. Product Backlog.
 
@@ -672,7 +681,8 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 | 1       | US0X    |                 |     | 8            |
 
 
-link de Trello : 
+link de Trello : https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6d324fbbb059ac41bfddd60e6d7988396B/localfood
+
 
 # Capítulo IV: Product Design
 
