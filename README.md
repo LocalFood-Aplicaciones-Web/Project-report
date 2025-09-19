@@ -1444,15 +1444,17 @@ Se logro desarrollar y desplegar la landing page del proyecto. A continuación, 
 
   ![XXXXX:]( )
 
-- **XXXXX:**:
+- **Evidencia de login funcionando con estilos**:  
+  ![login-running](/Assets/Captura%20de%20pantalla_19-9-2025_162213_localfood-aplicaciones-web.github.io.jpeg)
 
-  ![XXXXX:]( )
+- **Evidencia de register funcionando con estilos**:  
+  ![register-running](/Assets/Captura%20de%20pantalla_19-9-2025_162235_localfood-aplicaciones-web.github.io.jpeg )
 
-- **XXXXX:**:
+- **Evidencia de forgot-password desplegado correctamente**:  
+  ![forgot-running](/Assets/Captura%20de%20pantalla_19-9-2025_162246_localfood-aplicaciones-web.github.io.jpeg )
 
-  ![XXXXX:]( )
 
-Link del landing page desplegado: 
+---
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1508,8 +1510,6 @@ Repositorios:
 **Documento**
 ![contributors-documento]( )
 
-<<<<<<< HEAD
 **Landing Page**
 ![contribution-sprint-1]( )
-=======
->>>>>>> 92bb41d78e97151188e152d00732b374441fa064
+
