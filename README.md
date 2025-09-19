@@ -1312,7 +1312,7 @@ link al trello: https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6
             <td>Ver notificaciones de amigos/contactos</td>
             <td>UT01</td>
             <td>Crear mensaje saliente de las notificaciones</td>
-            <td><strong>Como nuevo usuario</strong>, quiero cambiar de resturante durante el calculo <strong>para poder adecuar el destinos a cambios de planes</strong>.</td>
+            <td><strong>Como nuevo usuario</strong>, quiero ver las notificaciones de la aplicacion<strong>para sbaer si me estan mandando solicitud de amista o estan calculando un grupo</strong>.</td>
             <td>
                 <strong>Escenario 1:</strong> Given que estoy en cualquier parte de la pagina, When veo las notificaciones, Then puedo ver el usuario de la persona respecto a calculos o me envie solicitud de amistad.<br>
             </td>
