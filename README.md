@@ -439,7 +439,7 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ESdjM7va9wVPmepF75nPWGsBuKglaXXEAzqkDo_1dBeWag?e=ZwdnJW
 
 **Resumen**
-
+El entrevistado es un estudiante que reside en el distrito de San Martín de Porres. Menciona que sus principales dificultades para organizar una reunión son la distancia del punto de encuentro y las cancelaciones de último momento. Generalmente busca un lugar céntrico para todos, aunque ha cancelado planes con frecuencia debido a la dificultad de llegar al lugar acordado. No obstante, le resulta atractivo contar con una aplicación que le muestre múltiples opciones de puntos de encuentro.
 
 ![Entrevista 2]()
 
@@ -491,19 +491,23 @@ link:
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1: Comensales**
-**Entrevista 1:**
-**Análisis de la entrevista:** 
+Las entrevistas con Anthony Yovera, revelan puntos en común significativos que validan la propuesta de valor de LocalFood para los comensales.
 
-**Entrevista 2:**
-**Análisis de la entrevista:** 
+
+
 
 **Segmento 2: Dueños de locales**
 
-**Entrevista 1:**
-**Análisis de la entrevista:** 
+Las entrevistas con Enrique Suarez, revelan puntos en común significativos que validan la propuesta de valor de LocalFood para los dueños de locales.
 
-**Entrevista 2:**
-**Análisis de la entrevista:** 
+**Disposición a Adoptar Nuevas Herramientas**
+
+Los entrevistados se muestran dispuestos a invertir en una aplicación siempre que esta tenga un precio accesible y ofrezca un retorno tangible en términos de visibilidad y aumento de ventas. Esto refleja sensibilidad al costo, pero también apertura a nuevas tecnologías que aporten valor real a su negocio.
+
+**Dependencia de Canales Digitales y Limitaciones**
+
+Los entrevistados dependen principalmente de WhatsApp como canal de promoción de sus negocios. Si bien esta herramienta les permite mantener comunicación directa con sus clientes, señalan que presenta limitaciones importantes en términos de visibilidad, especialmente frente a la fuerte competencia en sus zonas. Esta situación impacta directamente en su capacidad de atraer nuevos clientes y diferenciarse en el mercado.
+
 
 ## 2.3. Needfinding.
 
