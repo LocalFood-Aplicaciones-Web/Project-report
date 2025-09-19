@@ -828,17 +828,91 @@ La landing page de LocalFood refleja los valores de equidad, frescura y eficienc
 
 **Versión Desktop**  
 
-
-
 Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles visuales, priorizando la organización de contenido y navegación.
 
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading1.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframes 1 - Elaboración propia
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading2.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframes 2 - Elaboración propia
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading3.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframes 3 - Elaboración propia
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading4.png" alt="wireframe" width="1000">
+</p>
+
+<p align="center">
+    Wireframes 4 - Elaboración propia
+</p>
+
+<br><br>
 ---
 
 ## 4.3.2. Landing Page Mock-up
 **Versión Desktop**  
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading1.png" alt="mockup" width="1000">
+</p>
 
-Los mock-ups reflejan la aplicación del estilo visual final: colores, tipografías e imágenes, alineados al design system definido.
+<p align="center">
+    Mock-up 1 - Elaboración propia
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading2.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Mock-up 2 - Elaboración propia
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading3.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Mock-up 3 - Elaboración propia
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading4.png" alt="mockup" width="1000">
+</p>
+
+<p align="center">
+    Mock-up 4 - Elaboración propia
+</p>
+
+<br><br>
 
 ## 4.4. Web Applications UX/UI Design.
 
