@@ -432,37 +432,65 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 
 ### 2.2.2. Registro de entrevistas.
 
-#### Segmento 2:Comensales
+#### Segmento 1:Comensales
 
-![Entrevista 1]()
 
-- Entrevista N°1: 
-- Sexo: 
-- Edad:
 
-- Ubicación:
+
+## Entrevista N°1: 
+- Nombre: Andrea Roncal Vargas
+- Sexo: femenino
+- Edad:25
+- tiempo de duracion: 6:54
+- Ubicación: Distrito de idependencia
 
 #### Entrevista:
+<div align="center">
+    <img src="./Assets/entevista_1.png">
+</div>
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218181_upc_edu_pe/EeIVi6Md2ulKquZNDKN7dmsB_HYS9hgtXhf8RXEsrMiZYQ?e=JRSFH5 
 
-link: 
 
 **Resumen**
+Andre Roncal es ingeniera en Gestión Empresarial y actualmente trabaja en una consultoría enfocada en distritos privados. Ella comenta que ha tenido complicaciones para coordinar agendas con amigos y familiares, especialmente al momento de organizar salidas a restaurantes.
+Considera importante que el lugar elegido esté cerca y que los precios sean accesibles. Además, destaca que suele asistir a restaurantes para cenar y conversar, valorando la importancia de los canales de comunicación para gestionar estas reuniones. En ese sentido, WhatsApp es su herramienta principal.
+También resalta que la incorporación de filtros en aplicaciones de búsqueda de restaurantes facilita la selección de opciones adecuadas. Para Andre, esto representa una mejora significativa, ya que desea aumentar la frecuencia de sus reuniones, y considera que el uso de aplicaciones es la mejor forma de lograrlo.
 
 
-![Entrevista 2]()
-
-- Entrevista N°2: 
-- Sexo: 
-- Edad: 
-
+## Entrevista N°2: 
+- Nombre: Piero Vargas Licetti y Cotrina Chipana Ñuñes
+- Sexo: Masculino y Femenino
+- Edad: 30 y 27
+- tiempo de duracion:
 - Ubicación:
 
 #### Entrevista:
-
-link: 
+<div align="center">
+    <img src="./Assets/entevista_2.png">
+</div>
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218181_upc_edu_pe/EfrNhsxxD-tFtfL0wKcNYpwB_AwxCRHV8Xefx0XbP_M3Mw?e=lbcaQk
 
 **Resumen:**
 
+Piero Varas y Cotrina Chipana trabajan juntos en el área de ingeniería industrial con enfoque en arquitectura. Ambos enfrentan dificultades para concretar reuniones con sus amigos, principalmente porque viven lejos de ellos, lo que convierte la coordinación en una verdadera odisea.
+El tiempo también representa un factor decisivo para la pareja al momento de planear encuentros en restaurantes. Como dato adicional, Piero comenta que la ubicación del local puede ser un problema: lo que para algunos resulta cercano, para él puede estar lejos, y viceversa.
+Cotrina valora positivamente las cualidades que pueden facilitar la organización de salidas grupales con sus amigas. Ambos coinciden en que contar con filtros para seleccionar restaurantes sería muy beneficioso, ya que permitiría elegir lugares adecuados según sus necesidades.
+En cuanto a herramientas de comunicación, Piero utiliza WhatsApp para coordinar con su grupo de amigos, mientras que Cotrina también lo emplea, además de TikTok, donde encuentra opciones de restaurantes que guarda como referencia para futuras reuniones.
+Respecto a sus preferencias personales, ambos priorizan la rapidez en el servicio y un ambiente agradable.
+
+![Entrevista 3](Assets/imagen%20de%20video.png)
+
+- Entrevista N°3: 
+- Sexo: Masculino
+- Edad: 23 años
+- tiempo de duracion: 
+- Ubicación: Lima, San Martin de Porres
+
+#### Entrevista:
+
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ESdjM7va9wVPmepF75nPWGsBuKglaXXEAzqkDo_1dBeWag?e=kt9kOM
+
+**Resumen:**
 
 #### Segmento 2:Dueños de locales
 
@@ -470,8 +498,8 @@ link:
 
 - Entrevista N°3: 
 - Sexo: 
-- Edad: 
-
+- Edad:
+- tiempo de duracion:
 - Ubicación:
 
 #### Entrevista:
@@ -485,8 +513,8 @@ link:
 
 - Entrevista N°4: 
 - Sexo: 
-- Edad: 
-
+- Edad:
+- tiempo de duracion:
 - Ubicación:
 
 #### Entrevista:
