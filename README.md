@@ -945,13 +945,29 @@ Este etiquetado facilita la comprensión inmediata de las funciones, incluso par
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Cada página de la plataforma incluirá:
+Se definen etiquetas SEO y meta tags para optimizar la visibilidad de la Landing Page y garantizar su correcta indexación en motores de búsqueda.
 
-- 
-- 
-- 
+- **Title:**  
 
----
+  ```html
+     <title>LocalFood - Encuentra tu punto medio en Lima</title>
+- **Description:**
+
+  ```html
+    <meta name="description" content="LocalFood es una aplicación que recomienda restaurantes y cafés equitativos para grupos de amigos y colegas en Lima, utilizando geolocalización inteligente."/>
+- **Keywords:**
+
+  ```html
+    <meta name="keywords" content="LocalFood, punto medio, app reuniones, restaurantes accesibles, Lima"/>
+- **Author:**
+
+  ```html
+  <meta name="author" content="© 2024 LocalFood. Todos los derechos reservados."/>
+- **Viewport:**
+
+  ```html
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 
 ### 4.2.4. Searching Systems
 
