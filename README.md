@@ -1061,27 +1061,48 @@ Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles vi
 
 ### 4.3.2. Landing Page Mock-up.
 
-**XXXXX: Section**
+**Versión Desktop**  
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading1.png" alt="mockup" width="1000">
+</p>
 
+<p align="center">
+    Mock-up 1 - Elaboración propia
+</p>
 
-**XXXXX: Section**
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading2.png" alt="mockup" width="1000">
+</p>
 
+<p align="center">
+    Mock-up 2 - Elaboración propia
+</p>
 
-**XXXXX: Section**
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading3.png" alt="mockup" width="1000">
+</p>
 
+<p align="center">
+    Mock-up 3 - Elaboración propia
+</p>
 
-**XXXXX: Section**
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Mocklading4.png" alt="mockup" width="1000">
+</p>
 
+<p align="center">
+    Mock-up 4 - Elaboración propia
+</p>
 
-**XXXXX: Section**
+<br><br>
 
-
-
-**XXXXX: Section**
 
 
 
