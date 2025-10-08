@@ -486,20 +486,25 @@ link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ES
 
 #### Segmento 2:Dueños de locales
 
-![Entrevista 3]()
+<div align="center">
+    <img src="./Assets/Segmento_2-Entrevista_1.PNG" alt="Entrevista a Dueña de Local">
+</div>
 
 - Entrevista N°3: 
-- Sexo: 
-- Edad:
-- tiempo de duracion:
-- Ubicación:
+- Sexo:  Femenino
+- Edad: 63 años
+- tiempo de duracion: 4:48
+- Ubicación: Lima, Santa Beatriz
 
 #### Entrevista:
 
-link: 
+link: https://upcedupe-my.sharepoint.com/personal/u202314734_upc_edu_pe/Documents/seg%202.mp4
 
 **Resumen:**
 
+Josefina es dueña de un local de comida donde tiene clientes de todo tipo, mayormente oficinistas debido a la zona del restaurante. Comenta que tiene problemas de organizacion con respecto a la publicidad de su local y hay poca visibilidad, destaca la importancia de reservas que hacen dentro de su negocio.
+Le gustaria poder pagar para tener visibilidad destacando aplicaciones web, mencionando su utilidad y como por sus canales mas usados como whatsapp le resultaria mas comodo la comunicacion los nuevos usuarios. 
+Nos menciona tambien que son los fines de semana y feriados los dias mas concurridos dentro de su local, expresando que es en esas fechas las cuales le gustaria poder tener contar con el apoyo de una aplicacion que la publicite mas. Recopilando datos para poder entregar un mejor producto a sus clientes.
 
 ![Entrevista 4]()
 
