@@ -773,25 +773,100 @@ En **LocalFood**, establecemos pautas de estilo sólidas para garantizar una exp
 
 ### 4.1.1. General Style Guidelines.
 
-**Task:**  
+#### Brand Overview
 
-**LocalFood** Descripción:
+En muchas ciudades, coordinar un punto de encuentro para grupos de personas es un reto. La falta de información clara sobre opciones accesibles para todos provoca que elegir un restaurante o café genere demoras, frustración y a veces hasta cancelaciones de reuniones. **LocalFood** surge como una solución a este problema: una plataforma que ayuda a encontrar el punto medio justo entre colegas, amigos o familiares, mostrando opciones de restaurantes y locales accesibles para todos los miembros del grupo.  
 
-**Insight:**  
+A través de geolocalización y un sistema inteligente de recomendación, LocalFood no solo facilita la elección del lugar ideal, sino que también mejora la experiencia social al reducir el tiempo de coordinación y garantizar un encuentro justo y equitativo para todos.
 
+---
 
-**Branding:**  
+#### Brand Name
 
+El nombre de nuestra solución, **LocalFood**, refleja la esencia del proyecto: **"Local"** representa la proximidad, accesibilidad y comunidad, mientras que **"Food"** enfatiza la experiencia compartida alrededor de la comida. La unión de ambos términos transmite de manera clara y directa el propósito central de la aplicación: facilitar reuniones en restaurantes y espacios gastronómicos cercanos al grupo de usuarios.  
 
+La elección de un nombre en inglés responde a su carácter sencillo, universal y atractivo para un público amplio, lo que permite escalar la solución más allá de un mercado local.
 
+---
 
-**Typography:**  
+#### Logo
 
+A continuación, se presenta el logo de LocalFood:  
 
+![Logo](/Assets/Logo-LocalFood.PNG)
 
+#### Typography
 
-**Íconos y Elementos Gráficos:**  
+La tipografía en **LocalFood** juega un papel crucial en la claridad y coherencia de la interfaz.  
+Se han definido **dos fuentes principales** que aseguran jerarquía visual y legibilidad:
 
+- **Nunito**  
+  Utilizada para títulos, encabezados y botones. Su estilo redondeado y amigable transmite cercanía y frescura, alineándose con la identidad social del proyecto.  
+  - Variantes: Bold (títulos principales), SemiBold (subtítulos y botones).
+
+- **Lato**  
+  Utilizada en párrafos, descripciones, enlaces y textos de apoyo. Su diseño limpio y moderno facilita la lectura en web y móvil.  
+  - Variantes: Regular (texto general), Italic (notas).
+
+**Niveles tipográficos definidos:**  
+- Headings (Nunito) → jerarquía clara en títulos.  
+- Body (Lato) → legibilidad en el texto base.  
+- Buttons (Nunito SemiBold) → acciones destacadas.  
+- Links (Lato Italic/Subrayado) → navegación secundaria. 
+
+  ![Tipografia](/Assets/tipografia.png)
+
+---
+
+#### Colors
+  
+   La elección de colores es una parte esencial en el diseño de **LocalFood**. Una paleta bien definida no solo determina la estética de la marca, sino que también comunica los valores principales de frescura, accesibilidad y confianza.  
+
+En nuestro sistema visual, se distinguen:  
+- **Color primario**: el que guía la identidad de la marca y se utiliza en los elementos clave de interacción.  
+- **Colores secundarios**: aquellos que complementan al primario y refuerzan la jerarquía visual.  
+- **Colores de estado**: usados para indicar acciones específicas (éxito, alerta, error, etc.).  
+- **Colores base/neutros**: blanco y negro, que aportan legibilidad y balance al diseño.  
+
+---
+
+### 🎨 Color Primario
+- **Verde Lima**  
+  Representa frescura, dinamismo y accesibilidad. Se usa en la navegación activa y elementos destacados de la interfaz.  
+
+**Hex:** `#4FFF49`  
+![Color Primario Verde](/Assets/verde.PNG)
+
+---
+
+### 🎨 Colores Secundarios
+- **Naranja/Beige**  
+  Utilizado en el fondo de la barra lateral, transmite calidez y cercanía.  
+  **Hex:** `#FFB983`  
+  ![Color Secundario Naranja](/Assets/naranjoso.PNG)
+
+- **Morado/Violeta**  
+  Resalta botones y cantidades, aportando energía visual.  
+  **Hex:** `#F828FF`  
+  ![Color Secundario Morado](/Assets/morao.PNG)
+
+- **Azul**  
+  Usado en fondos de QR y botones secundarios, transmite confianza.  
+  **Hex:** `#5B58FE  
+  ![Color Secundario Azul](/Assets/azul.PNG)
+
+---
+
+### 🎨 Colores Base / Neutros
+- **Blanco**  
+  Fondo principal, aporta claridad y legibilidad.  
+  **Hex:** `#FFFFFF`  
+  ![Color Base Blanco](/Assets/blanco.PNG)
+
+- **Negro**  
+  Utilizado en tipografía y detalles para alto contraste.  
+  **Hex:** `#000000`  
+  ![Color Base Negro](/Assets/negro.PNG)
 
 ### 4.1.2. Web Style Guidelines
 
