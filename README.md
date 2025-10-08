@@ -2115,52 +2115,13 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 | project-report   | develop    | 5ac6de5ca388fd704b19362199f7c4e1afad2b4e    | docs: add initial document template                                        | WalterFajardo      | last week              |
 | project-report   | develop    | a1c81cb88b24584eb17855218dc9a766a7fa2ab3    | Initial commit                                                             | WalterFajardo      | last week              |
 
-### 5.2.1.4. Development Evidence for Sprint Review
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|---|---|---|---|---|---|
-| https://github.com/LocalFood-Aplicaciones-Web/Project-report | main | 7691156 | Update README.md | — | 18/09/25 |
-|  | main | 06b69a8 | Add files via upload | — | 18/09/25 |
-|  | main | ae40080 | Update README.md | — | 18/09/25 |
-|  | main | 31307e1 | doc: Implement data about a student and complete the StudentOutcome | — | 18/09/25 |
-|  | main | 405328f | Merge pull request #7 from LocalFood-Aplicaciones-Web/docs/chapter2-v1 | — | 17/09/25 |
-|  | main | 9184f16 | docs: add user persona for food stall owner segment | — | 17/09/25 |
-|  | main | c35eb7f | docs: add user persona for customer segment | — | 17/09/25 |
-|  | main | 50d5ed1 | Update README.md | — | 16/09/25 |
-|  | main | 9cf551a | Merge pull request #5 from LocalFood-Aplicaciones-Web/docs/chapter2-v1 | — | 15/09/25 |
-|  | main | 8e5b938 | docs: update Section 2.2.1 - Interview design | — | 15/09/25 |
-
-
-
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Descripción:
+![Primera](/Assets/1a.png)
+![Segunda](/Assets/2a.png)
+![Tercera](/Assets/3a.png)
 
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-Link del landing page desplegado: 
+Link del landing page desplegado: https://localfood-aplicaciones-web.github.io/Project-report/
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
