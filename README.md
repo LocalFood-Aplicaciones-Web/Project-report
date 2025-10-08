@@ -1740,42 +1740,55 @@ Implementación de software
 
 ### 5.1.2. Source Code Management.
 
-
+El proyecto utiliza el flujo de trabajo GitFlow para la gestión de versiones y GitHub como plataforma de alojamiento y administración del código. A continuación, se presenta cómo se implementa este modelo.
 
 **Flujo de trabajo GitFlow**
 
+Flujo de Trabajo GitFlow para el Desarrollo de LocalFood
+
+El proyecto adopta el modelo GitFlow, una estrategia de ramificación basada en Git diseñada para optimizar la colaboración y el control de versiones en equipos de desarrollo. Este enfoque organiza el trabajo en ramas específicas, una integración fluida de nuevas funcionalidades y una gestión eficiente de lanzamientos.
 
 
 Ramas Principales
 
 - main(principal)
 
-  - 
+  - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de LocalFood
 
-  - 
+  - Cada release se marca con etiquetas semánticas (ej. v1) para facilitar el rastreo y la aplicación de las actualizaciones.
 
 - develop(rama de desarrollo)
 
-  - 
-  - 
+  - Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.
+
+  - Funciona como base para pruebas internas y ajustes previos a su fusión con main.
 
 Ramas de Soporte
 
+- chapter/\*(ramas de documentación)
+
+  - Permite trabajar por secciones la documentación 
+
+  - Al completarse un capítulo, la rama se fusiona con la rama develop para luego llegar a main
+
+
 - feature/\*(ramas de características)
 
-  - 
+  - Cada nueva funcionalidad se desarrolla en un rama independiente (ej. feature/login), derivada de develop.
 
-  - 
+  - Perfilo trabajo paralelo sin afectar la base de los códigos principales hasta su revisión y aprobación.
+
 
 - release/\*(ramas de lanzamiento)
 
-  - 
+  - Preparadas para versiones específicas, permiten pruebas finales y corrección de bugs antes de su despliegue en main.
+
 
 - hotfix/\*(ramas de las urgencias)
 
-  - 
+  - Resuelven errores desprendentes en producción, derivando directamente de mainy fusión tanto en maincomo en develop.
 
-![Git-Flow](   )
+![Git-Flow](Assets/gitflow%20(1).png)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
