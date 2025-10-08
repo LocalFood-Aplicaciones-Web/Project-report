@@ -599,21 +599,13 @@ El viaje de María, una estudiante universitaria que suele salir a comer con sus
 ![Journey Map 2](Assets/Dueño%20de%20Local%20journey%20map.png)
 El viaje de Luis, un emprendedor de 30 años dueño de un puesto de comida, inicia con cierto escepticismo sobre si una app realmente puede atraerle más clientes, pero al registrarse y ver lo sencillo que es mostrar su local comienza a sentir confianza; al usar la plataforma para subir fotos, precios y horarios experimenta entusiasmo al notar que más grupos llegan gracias a que su negocio aparece como punto cercano en las rutas compartidas, lo que refuerza su motivación para mantenerse activo; al recibir reseñas positivas y datos sobre el flujo de clientes, Luis gana seguridad y satisfacción, y finalmente, al ver que su negocio crece con apoyo de la app, siente tranquilidad y disposición a seguir utilizándola como una herramienta clave para impulsar su emprendimiento.
 
-**USER PERSONA: (Nombre)**
-![Journey Map 1]()
-Descripción:
-
-**USER PERSONA: (Nombre)**
-![Journey Map 2]()
-Descripción:
-
 ### 2.3.4. Empathy Mapping.
 
-**USER PERSONA: (Nombre)**
-![Empathy Map 1]()
+**USER PERSONA: María Tasayco**
+![Empathy Map 1](Assets/Empathy%20map%20Comensales.png)
 
-**USER PERSONA: (Nombre)**
-![Empathy Map 2]()
+**USER PERSONA: Luis Luzquiños**
+![Empathy Map 2](Assets/Empathy%20map%20Dueño%20de%20local.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
