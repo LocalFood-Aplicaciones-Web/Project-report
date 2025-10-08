@@ -971,20 +971,19 @@ Se definen etiquetas SEO y meta tags para optimizar la visibilidad de la Landing
 
 ### 4.2.4. Searching Systems
 
-Descripción:
+La aplicación ofrece distintos métodos de búsqueda para facilitar el acceso a la información:
 
-1. **XXXXX:**  
-   Ej.: 
+- **Búsqueda por nombre de usuario:**  
+  Permite encontrar y agregar colegas escribiendo directamente su nombre de usuario.  
 
-2. **XXXXX:**  
-   Descripción:
+- **Búsqueda por código único:**  
+  Opción para ingresar un código corto que identifica a cada usuario.  
 
-   - 
-   - 
-   - 
-   - 
-   -  
+- **Búsqueda por QR:**  
+  Escaneo de un código QR compartido para agregar colegas de forma rápida.  
 
+- **Búsqueda de restaurantes:**  
+  Filtrado de locales por nombre, categoría o ubicación.  
 ---
 
 ### 4.2.5. Navigation Systems
