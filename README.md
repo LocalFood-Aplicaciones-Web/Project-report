@@ -43,9 +43,9 @@ URL del repositorio del project Report : https://github.com/LocalFood-Aplicacion
 **_TB1_**
 Entregrable 1 o TB1 : (19/09/25)
 
-![commit-report]()
+![commit-report](Assets/commit%20report.png)
 
-![branch-report]( )
+![branch-report](Assets/branch%20report.png)
 
 ## CONTENIDO
 
