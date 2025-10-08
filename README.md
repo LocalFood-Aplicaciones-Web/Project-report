@@ -730,10 +730,40 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 | # Orden | User ID | Título                                   | Descripción                                                                                                                                                          | Story Points |
 | ------- | ------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1       | US0X    |                 |     | 8            |
+| 1       | US01    | Ver restaurantes cercanos                 | Como comensal, quiero ver los restaurantes más cercanos a la ubicación de mi grupo, para elegir un punto equitativo.                                                | 5            |
+| 2       | US02    | Filtros de búsqueda                       | Como comensal, quiero aplicar filtros (precio, tipo de comida, distancia), para encontrar opciones adecuadas.                                                       | 3            |
+| 3       | US03    | Mostrar mapa interactivo                  | Como usuario, quiero visualizar los restaurantes en un mapa, para comparar ubicaciones fácilmente.                                                                  | 5            |
+| 4       | US04    | Calcular punto medio del grupo            | Como usuario, quiero que la app calcule el punto medio entre las ubicaciones de todos, para decidir un lugar justo.                                                | 8            |
+| 5       | US05    | Ver detalles del restaurante              | Como comensal, quiero acceder a la información del restaurante (menú, horario, reseñas), para decidir mejor.                                                       | 3            |
+| 6       | US06    | Crear grupo de salida                      | Como usuario, quiero crear un grupo con mis amigos, para coordinar la elección del lugar.                                                                          | 5            |
+| 7       | US07    | Invitar amigos al grupo                   | Como comensal, quiero invitar a mis amigos por enlace o código, para que se unan al grupo.                                                                         | 3            |
+| 8       | US08    | Compartir ubicación actual                | Como usuario, quiero compartir mi ubicación con el grupo, para calcular un punto equitativo.                                                                       | 5            |
+| 9       | US09    | Chat grupal                               | Como usuario, quiero tener un chat dentro del grupo, para coordinar en tiempo real.                                                                                | 5            |
+| 10      | US10    | Votar por restaurante                      | Como usuario, quiero votar entre las opciones sugeridas, para decidir de forma grupal.                                                                             | 3            |
+| 11      | US11    | Confirmar asistencia                       | Como comensal, quiero confirmar mi asistencia al encuentro, para que el grupo sepa quién irá.                                                                      | 2            |
+| 12      | US12    | Crear cuenta de usuario                     | Como nuevo usuario, quiero registrarme con correo o Google, para acceder a todas las funciones.                                                                    | 3            |
+| 13      | US13    | Iniciar sesión                             | Como usuario registrado, quiero iniciar sesión, para acceder a mis grupos y preferencias.                                                                          | 2            |
+| 14      | US14    | Recuperar contraseña                        | Como usuario, quiero recuperar mi contraseña si la olvido, para no perder acceso a mi cuenta.                                                                      | 2            |
+| 15      | US15    | Agregar restaurante                         | Como dueño de local, quiero registrar mi restaurante, para que los usuarios lo encuentren en el mapa.                                                               | 5            |
+| 16      | US16    | Editar información del restaurante         | Como dueño, quiero actualizar mis datos (horarios, menú, promociones), para mantener mi perfil vigente.                                                            | 3            |
+| 17      | US17    | Ver estadísticas de visitas                 | Como dueño, quiero visualizar cuántos usuarios visitaron mi perfil, para medir el interés en mi local.                                                             | 3            |
+| 18      | US18    | Responder reseñas                           | Como dueño, quiero responder comentarios de los usuarios, para mejorar la interacción.                                                                             | 3            |
+| 19      | US19    | Publicar promociones                        | Como dueño, quiero crear promociones temporales, para atraer más clientes.                                                                                          | 3            |
+| 20      | US20    | Sistema de reseñas                           | Como usuario, quiero dejar una reseña y calificación del restaurante, para compartir mi experiencia.                                                               | 3            |
+| 21      | US21    | Ver reseñas de otros usuarios               | Como comensal, quiero leer las reseñas de otros, para decidir si vale la pena ir.                                                                                  | 2            |
+| 22      | US22    | Guardar favoritos                            | Como usuario, quiero guardar restaurantes como favoritos, para acceder fácilmente después.                                                                          | 2            |
+| 23      | US23    | Historial de visitas                         | Como usuario, quiero ver los lugares visitados anteriormente, para repetir experiencias.                                                                           | 2            |
+| 24      | US24    | Notificaciones de recordatorio              | Como usuario, quiero recibir recordatorios antes de las reuniones, para no olvidar el encuentro.                                                                   | 2            |
+| 25      | US25    | Compartir restaurante                        | Como usuario, quiero compartir un restaurante con mis amigos fuera de la app, para invitarlos fácilmente.                                                          | 2            |
+| 26      | US26    | Gestionar usuarios                            | Como administrador, quiero ver la lista de usuarios registrados, para mantener el control de la plataforma.                                                       | 5            |
+| 27      | US27    | Gestionar locales registrados                | Como administrador, quiero revisar y aprobar locales registrados, para mantener la calidad del servicio.                                                          | 5            |
+| 28      | US28    | Supervisar reportes                           | Como administrador, quiero revisar reportes de usuarios o locales, para tomar acciones correctivas.                                                               | 5            |
+| 29      | US29    | Ver estadísticas generales                    | Como administrador, quiero ver estadísticas globales de uso, para analizar el crecimiento de la app.                                                              | 5            |
+| 30      | US30    | Gestionar promociones                         | Como administrador, quiero supervisar las promociones creadas por los locales, para evitar contenido inapropiado.                                                 | 5            |
+| 31      | US31    | Administrar contenido y reseñas               | Como administrador, quiero eliminar comentarios ofensivos, para mantener un entorno seguro.                                                                         | 5            |
 
 
-link de Trello : 
+link de Trello : https://trello.com/b/cWp7Hs0g/localfood
 
 # Capítulo IV: Product Design
 
