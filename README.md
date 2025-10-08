@@ -2153,7 +2153,7 @@ pasos para el despliegue:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-Descripción:
+Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionalidades de la landing page y la realización del documento.
 
 #### Colaboración y Desarrollo de Actividades
 
