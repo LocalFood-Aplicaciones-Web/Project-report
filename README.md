@@ -669,28 +669,58 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 - Comensales
 
-![comensales-to-be-scenario-map]( )
+![comensales-to-be-scenario-map](Assets/Mapeo%20escenarios%20-%20Comensales%20(1).jpg )
 
 - Dueños de locales
 
-![dueños-de-locales-to-be-scenario-map]( )
+![dueños-de-locales-to-be-scenario-map](Assets/Mapeo%20escenarios%20-%20Dueños%20de%20locales%20(1).jpg)
 
 ## 3.2. User Stories.
 
-| EPICA                   | ID EPICA |
-| ----------------------- | -------- |
-|                         |          |
-|                         |          |
-|                         |          |
-|                         |          |
-|                         |          |
-|                         |          |
-|                         |          |
-|                         |          |
+| EPICA                               | ID EPICA |
+| ----------------------------------- | -------- |
+| Gestión de usuarios y grupos        | EP01     |
+| Cálculo del punto de encuentro óptimo | EP02     |
+| Búsqueda y filtrado de restaurantes | EP03     |
+| Coordinación y comunicación grupal  | EP04     |
+| Recomendaciones y personalización   | EP05     |
+| Gestión y analítica para negocios   | EP06     |
 
 
-| Epic/ Story ID | Titulo                                       | Description                                                                                                                                                                               | Criterios de Aceptacion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Relacion con (Epic ID) |
-| -------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| ID Historia | Título | Descripción | Criterios de Aceptación | Relación con (Epic ID) |
+|--------------|---------|--------------|--------------------------|-------------------------|
+| **US01** | Ver restaurantes cercanos | Como comensal, quiero ver los restaurantes más cercanos a la ubicación de mi grupo, para elegir un punto equitativo. | Dado que los usuarios comparten sus ubicaciones, cuando accedo a la app, entonces se muestran restaurantes dentro del rango medio de distancia. | EP01 |
+| **US02** | Filtros de búsqueda | Como comensal, quiero aplicar filtros (precio, tipo de comida, distancia), para encontrar opciones adecuadas. | Dado que busco un restaurante, cuando aplico filtros, entonces se muestran resultados que coincidan con mis criterios. | EP01 |
+| **US03** | Mostrar mapa interactivo | Como usuario, quiero visualizar los restaurantes en un mapa, para comparar ubicaciones fácilmente. | Dado que estoy en la sección de mapa, cuando selecciono un punto, entonces se muestra información del restaurante. | EP01 |
+| **US04** | Calcular punto medio del grupo | Como usuario, quiero que la app calcule el punto medio entre las ubicaciones de todos, para decidir un lugar justo. | Dado que compartimos nuestras ubicaciones, cuando presiono “calcular punto medio”, entonces se muestra el resultado en el mapa. | EP01 |
+| **US05** | Ver detalles del restaurante | Como comensal, quiero acceder a la información del restaurante (menú, horario, reseñas), para decidir mejor. | Dado que selecciono un restaurante, cuando abro su ficha, entonces puedo ver su información completa. | EP02 |
+| **US06** | Crear grupo de salida | Como usuario, quiero crear un grupo con mis amigos, para coordinar la elección del lugar. | Dado que inicio sesión, cuando creo un grupo, entonces puedo invitar a otros usuarios. | EP02 |
+| **US07** | Invitar amigos al grupo | Como comensal, quiero invitar a mis amigos por enlace o código, para que se unan al grupo. | Dado que tengo un grupo creado, cuando envío el enlace, entonces mis amigos pueden unirse. | EP02 |
+| **US08** | Compartir ubicación actual | Como usuario, quiero compartir mi ubicación con el grupo, para calcular un punto equitativo. | Dado que comparto mi ubicación, cuando todos lo hagan, entonces se calculará el punto medio. | EP02 |
+| **US09** | Chat grupal | Como usuario, quiero tener un chat dentro del grupo, para coordinar en tiempo real. | Dado que entro al grupo, cuando abro el chat, entonces puedo enviar y recibir mensajes. | EP02 |
+| **US10** | Votar por restaurante | Como usuario, quiero votar entre las opciones sugeridas, para decidir de forma grupal. | Dado que se muestran opciones, cuando emito mi voto, entonces la app muestra el restaurante más votado. | EP03 |
+| **US11** | Confirmar asistencia | Como comensal, quiero confirmar mi asistencia al encuentro, para que el grupo sepa quién irá. | Dado que estoy en el grupo, cuando selecciono “Asistiré”, entonces mi estado se actualiza para todos. | EP03 |
+| **US12** | Crear cuenta de usuario | Como nuevo usuario, quiero registrarme con correo o Google, para acceder a todas las funciones. | Dado que ingreso mis datos, cuando confirmo el registro, entonces mi cuenta queda creada. | EP04 |
+| **US13** | Iniciar sesión | Como usuario registrado, quiero iniciar sesión, para acceder a mis grupos y preferencias. | Dado que ingreso mis credenciales, cuando las valido, entonces accedo a mi cuenta. | EP04 |
+| **US14** | Recuperar contraseña | Como usuario, quiero recuperar mi contraseña si la olvido, para no perder acceso a mi cuenta. | Dado que olvido mi contraseña, cuando solicito recuperación, entonces recibo un enlace de restablecimiento. | EP04 |
+| **US15** | Agregar restaurante | Como dueño de local, quiero registrar mi restaurante, para que los usuarios lo encuentren en el mapa. | Dado que tengo una cuenta de negocio, cuando registro mi local, entonces aparece en la app. | EP05 |
+| **US16** | Editar información del restaurante | Como dueño, quiero actualizar mis datos (horarios, menú, promociones), para mantener mi perfil vigente. | Dado que edito la información, cuando guardo los cambios, entonces se actualiza en la app. | EP05 |
+| **US17** | Ver estadísticas de visitas | Como dueño, quiero visualizar cuántos usuarios visitaron mi perfil, para medir el interés en mi local. | Dado que tengo un negocio registrado, cuando ingreso a mi panel, entonces veo estadísticas básicas. | EP05 |
+| **US18** | Responder reseñas | Como dueño, quiero responder comentarios de los usuarios, para mejorar la interacción. | Dado que tengo reseñas, cuando respondo, entonces los usuarios pueden leer mi respuesta. | EP05 |
+| **US19** | Publicar promociones | Como dueño, quiero crear promociones temporales, para atraer más clientes. | Dado que entro a mi panel, cuando publico una promoción, entonces se muestra a los usuarios cercanos. | EP05 |
+| **US20** | Sistema de reseñas | Como usuario, quiero dejar una reseña y calificación del restaurante, para compartir mi experiencia. | Dado que visité un restaurante, cuando califico, entonces mi reseña se publica en su perfil. | EP06 |
+| **US21** | Ver reseñas de otros usuarios | Como comensal, quiero leer las reseñas de otros, para decidir si vale la pena ir. | Dado que abro un restaurante, cuando ingreso a reseñas, entonces puedo leer las opiniones. | EP06 |
+| **US22** | Guardar favoritos | Como usuario, quiero guardar restaurantes como favoritos, para acceder fácilmente después. | Dado que veo un restaurante, cuando selecciono “Guardar”, entonces aparece en mi lista. | EP06 |
+| **US23** | Historial de visitas | Como usuario, quiero ver los lugares visitados anteriormente, para repetir experiencias. | Dado que visité un restaurante, cuando abro mi historial, entonces veo mis visitas pasadas. | EP06 |
+| **US24** | Notificaciones de recordatorio | Como usuario, quiero recibir recordatorios antes de las reuniones, para no olvidar el encuentro. | Dado que tengo una salida programada, cuando se acerque la hora, entonces recibo una notificación. | EP06 |
+| **US25** | Compartir restaurante | Como usuario, quiero compartir un restaurante con mis amigos fuera de la app, para invitarlos fácilmente. | Dado que encuentro un restaurante, cuando selecciono “Compartir”, entonces puedo enviarlo por redes o WhatsApp. | EP06 |
+| **US26** | Gestionar usuarios | Como administrador, quiero ver la lista de usuarios registrados, para mantener el control de la plataforma. | Dado que accedo al panel de administración, cuando abro usuarios, entonces veo su información básica. | ADM01 |
+| **US27** | Gestionar locales registrados | Como administrador, quiero revisar y aprobar locales registrados, para mantener la calidad del servicio. | Dado que un dueño registra su local, cuando reviso los datos, entonces puedo aprobar o rechazarlo. | ADM01 |
+| **US28** | Supervisar reportes | Como administrador, quiero revisar reportes de usuarios o locales, para tomar acciones correctivas. | Dado que se genera un reporte, cuando lo abro, entonces puedo resolverlo o sancionar. | ADM01 |
+| **US29** | Ver estadísticas generales | Como administrador, quiero ver estadísticas globales de uso, para analizar el crecimiento de la app. | Dado que ingreso al panel, cuando abro estadísticas, entonces veo datos de usuarios, locales y visitas. | ADM01 |
+| **US30** | Gestionar promociones | Como administrador, quiero supervisar las promociones creadas por los locales, para evitar contenido inapropiado. | Dado que hay promociones activas, cuando las reviso, entonces puedo desactivarlas si incumplen normas. | ADM01 |
+| **US31** | Administrar contenido y reseñas | Como administrador, quiero eliminar comentarios ofensivos, para mantener un entorno seguro. | Dado que detecto una reseña inapropiada, cuando la elimino, entonces desaparece del sistema. | ADM01 |
+
 
 
 ## 3.3. Impact Mapping.
