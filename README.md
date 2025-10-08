@@ -2129,16 +2129,28 @@ Descripción: En este sprint 1 se desarrollo la landing page, por lo que no hay 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Descripción
+Durante el primer sprint, desarrollamos y desplegamos la landing page del proyecto.
 
 pasos para el despliegue:
 
-1. 
-2. 
-3. 
-4. 
+1. Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
 
-![Despliegue-landing-page]()
+2. Configuración de la Rama de despliegue: Aseguramos que la rama principal del repositorio se llamara gh-pages, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+
+3. Generación del Enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente de GitHub Pages para que tomara el contenido de la rama gh-pages.
+
+4. Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama gh-pages y desplegó la landing page en la URL proporcionada por GitHub Pages.
+
+<p align="center">
+  <img src="Assets/FF.png" alt="Register running - Captura de pantalla" width="800">
+</p>
+
+<p align="center">
+  Figura 10. Register running – Captura de pantalla de LocalFood
+</p>
+
+<br><br>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Descripción:
