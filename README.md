@@ -873,99 +873,55 @@ En nuestro sistema visual, se distinguen:
 **Landing Page:**  
 La página principal está diseñada para ofrecer un resumen claro y conciso del servicio. Se destacan los beneficios de LocalFood, el proceso para conectar con comensales y dueños de locales, y los llamados a la acción para registrarse o buscar servicios. Desde el primer acceso, los usuarios deben sentir que han llegado a un espacio seguro, accesible y confiable.
 
-**Diseño Responsivo:**  
-La interfaz de KindyCare se adapta perfectamente a dispositivos móviles, tabletas y computadoras. Se optimiza el contenido para cada tamaño de pantalla, manteniendo la claridad y facilidad de uso en todos los contextos.
+**Diseño responsivo**  
+El sitio web de **LocalFood** será totalmente adaptable a diferentes dispositivos y tamaños de pantalla. Desde computadoras de escritorio hasta smartphones, la experiencia del usuario se mantendrá siempre clara, intuitiva y visualmente atractiva. El diseño responsivo garantizará que los elementos principales (navegación, menús y botones de acción) estén accesibles en todo momento sin comprometer la usabilidad.
 
-**Espaciado y Alineación:**  
-Usamos una escala basada en múltiplos de 4px para todos los márgenes y rellenos, asegurando consistencia y armonía en el diseño. Este sistema permite que los elementos respiren adecuadamente, creando una experiencia visual agradable y ordenada.
+**Patrón de lectura (Patrón Z)**  
+El diseño se basa en el patrón Z, guiando la mirada del usuario de forma natural:  
+1. Comienza en la parte superior izquierda con el **logo de LocalFood** como punto de identidad.  
+2. Se desplaza horizontalmente hacia la derecha, donde se ubican las **opciones principales de navegación**.  
+3. Desciende verticalmente hacia el contenido general de la página (beneficios, funcionalidades y secciones informativas).  
+4. Finalmente, se dirige hacia la parte inferior derecha, donde se encuentran los **medios de contacto, enlaces secundarios y CTA finales**.  
 
-**Colores y Contraste:**  
-La paleta de colores incluye tonos suaves como el azul cielo, verde menta y durazno pastel, combinados con acentos más vibrantes para botones y enlaces. Estos colores no solo son agradables a la vista, sino que también cumplen con estándares de accesibilidad para asegurar el contraste suficiente.
+**Uso de colores**  
+Los colores de la interfaz están diseñados para captar la atención de los usuarios y transmitir sensaciones de **frescura, confianza y accesibilidad**. Los botones principales y elementos de navegación emplean el **color primario verde**, mientras que los colores secundarios aportan contraste y refuerzan la jerarquía visual en el contenido.
 
-**Imágenes y Fondos:**  
-Las imágenes utilizadas en la plataforma son cuidadosamente seleccionadas para representar el objetivo de KidyCare: el bienestar y la educación infantil. Se han optado por imágenes que reflejan confianza y cuidado, alineadas con los valores de la plataforma. El uso de fondos claros y limpios asegura que la atención del usuario permanezca en la información y las llamadas a la acción principales.
+**Espaciado y efectos visuales**  
+El uso de espacios en blanco y separaciones claras permite que la interfaz sea limpia y ordenada. Además, se emplean efectos sutiles (resaltado de botones, cambios de color en hover) que guían al usuario en su recorrido, facilitando la comprensión del propósito de la plataforma: encontrar el punto de encuentro justo entre colegas y amigos.
 
----
+![Patron_Z](/Assets/PatronZ.jpg)
+--
 
 ## 4.2. Information Architecture
 
-
-
-## 1. Página de Inicio
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-- **XXXXX:**  
-
-
-## 2. XXXXX
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-## 3. XXXXX
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
-
-## 4. XXXXX
-
-- **XXXXX:**  
-
-
-- **XXXXX:**  
-
+En esta sección se detallan las decisiones y fundamentos que guían la organización del contenido en las experiencias web y móvil de **LocalFood**, incluyendo tanto la Landing Page como la Aplicación Web. Estas propuestas buscan asegurar que los usuarios se adapten fácilmente a la funcionalidad de la plataforma y encuentren lo que necesitan sin esfuerzo. Las decisiones abarcan los sistemas de organización, etiquetado, SEO, búsqueda y navegación.
 
 ---
 
 ### 4.2.1. Organization Systems
 
-1. **Categorización de la Información:**
+Para estructurar la arquitectura de información de **LocalFood**, se ha adoptado un sistema **jerárquico** en la Landing Page y en la Aplicación Web. Esto permite a los usuarios identificar rápidamente las secciones principales y acceder a las funcionalidades clave.
 
-   - **XXXXX:**  
+### Landing Page
 
+La Landing Page de **LocalFood** incluye las siguientes secciones:
 
-   - **XXXXX:**  
+- **Inicio (Home):** Presenta la propuesta de valor central de la aplicación, con un mensaje introductorio y botones de llamada a la acción (CTA) como *Iniciar Sesión* o *Registrarse*.  
+- **Acerca de Nosotros:** Explica la misión, visión y valores de la startup, transmitiendo confianza y transparencia.  
+- **Marcas Registradas:** Sección destinada a mostrar las alianzas o registros de propiedad intelectual vinculados a la aplicación.  
+- **Países Hábiles:** Lista de los países en los que la plataforma puede operar o proyecta expandirse.  
+- **Contáctanos:** Ofrece medios de comunicación, formulario de contacto y enlaces a redes sociales.
 
+### Aplicación Web
 
-2. **Filtros y Búsqueda:**
+La aplicación web está organizada en secciones diseñadas para guiar al usuario en la planificación de encuentros:
 
-   - **XXXXX:**  
-     Descripción:
+- **Inicio:** Vista general de las opciones y accesos directos a las principales funciones.  
+- **Colegas:** Permite agregar, buscar y gestionar la lista de amigos/compañeros de reunión. Incluye opciones de búsqueda por usuario, código único o QR.  
+- **Restaurantes:** Muestra la lista de locales sugeridos como puntos de encuentro, organizados por cercanía y accesibilidad para todos los participantes.  
+- **Calculadora:** Herramienta que utiliza geolocalización para determinar el punto medio óptimo para los usuarios, minimizando tiempos de traslado.  
 
-   - **XXXXX:**  
-     Descripción:
-
-3. **Interfaz de Usuario Intuitiva:**
-
-   - **XXXXX:**  
-     Descripción:
-
-   - **XXXXX:**  
-     Descripción:
-
-4. **Funcionalidades Específicas:**
-
-   - **XXXXX:**  
-     Descripción:
-
-   - **XXXXX:**  
-     Descripción:
+Cada sección está claramente diferenciada y jerarquizada, con encabezados visibles y botones de acción estratégicamente ubicados.
 
 ---
 
