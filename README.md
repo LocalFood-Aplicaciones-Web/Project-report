@@ -1771,30 +1771,44 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 Se logro desarrollar y desplegar la landing page del proyecto. A continuación, presentamos capturas de las vistas implementadas.
 
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
-- **XXXXX:**:
-
-  ![XXXXX:]( )
-
 - **Evidencia de login funcionando con estilos**:  
-  ![login-running](/Assets/Captura%20de%20pantalla_19-9-2025_162213_localfood-aplicaciones-web.github.io.jpeg)
+
+  <p align="center">
+  <img src="Assets/Captura%20de%20pantalla_19-9-2025_162213_localfood-aplicaciones-web.github.io.jpeg" alt="Login running - Captura de pantalla" width="800">
+</p>
+
+<p align="center">
+  Figura 11. Login running – Captura de pantalla de LocalFood
+</p>
+
+<br><br>
+
 
 - **Evidencia de register funcionando con estilos**:  
-  ![register-running](/Assets/Captura%20de%20pantalla_19-9-2025_162235_localfood-aplicaciones-web.github.io.jpeg )
+
+  <p align="center">
+  <img src="Assets/Captura%20de%20pantalla_19-9-2025_162235_localfood-aplicaciones-web.github.io.jpeg" alt="Register running - Captura de pantalla" width="800">
+</p>
+
+<p align="center">
+  Figura 10. Register running – Captura de pantalla de LocalFood
+</p>
+
+<br><br>
+
 
 - **Evidencia de forgot-password desplegado correctamente**:  
-  ![forgot-running](/Assets/Captura%20de%20pantalla_19-9-2025_162246_localfood-aplicaciones-web.github.io.jpeg )
+
+  <p align="center">
+  <img src="Assets/Captura%20de%20pantalla_19-9-2025_162246_localfood-aplicaciones-web.github.io.jpeg" alt="Forgot running - Captura de pantalla" width="800">
+</p>
+
+<p align="center">
+  Figura 9. Forgot running – Captura de pantalla de LocalFood
+</p>
+
+<br><br>
+
 
 
 ---
@@ -1817,7 +1831,15 @@ pasos para el despliegue:
 
 4. Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama gh-pages y desplegó la landing page en la URL proporcionada por GitHub Pages.
 
-![Despliegue-landing-page]()
+<p align="center">
+  <img src="Assets/Captura%20de%20pantalla_19-9-2025_162235_localfood-aplicaciones-web.github.io.jpeg" alt="Register running - Captura de pantalla" width="800">
+</p>
+
+<p align="center">
+  Figura 10. Register running – Captura de pantalla de LocalFood
+</p>
+
+<br><br>
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
