@@ -1979,16 +1979,92 @@ Durante el desarrollo Sprint 1 del proyecto LocalFood, el equipo se enfocó en e
 
 #### 5.2.1.3. Sprint Backlog n.
 
-Descripción
+Durante el primer sprint backlog, el equipo tuvo el deber de realizar y completar la landing page. La plataforma usada para la organización y gestiónar a los integrantes del equipo fue Trello. Ya quela plataforma nos permitió la división de todas las user stories en tareas manejables, para luego asi asignarlas a los diferentes miembros según sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea llamativo y que se funcional.
+<img src="Assets/Springtrello1.png" alt="wireflows" width="1000">
+<p align="center">
+  Sprint Backlog 1 Trello - Elaboración propia
+</p>
 
-| **Sprint #**   | **Sprint 1**             |        |                                                  |                                                                        |                        |                                 |            |
-| -------------- | ------------------------ | ------ | ------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------- | ------------------------------- | ---------- |
-| **User Story** | **Work-Item / Task**     |
-| **Id**         | **Title**                | **Id** | **Title**                                        | **Description**                                                        | **Estimation (Hours)** | **Assigned to**                 | **Status** |
-
-
-Link del Trello: 
-
+<br>
+link al trello: https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6d324fbbb059ac41bfddd60e6d7988396B/localfood
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="8">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="7">WorkItem-Task</th>
+        </tr>
+        <tr>
+            <th>US-ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Acceptance Criteria</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US01</td>
+            <td>Ver notificaciones de amigos/contactos</td>
+            <td>UT01</td>
+            <td>Crear mensaje saliente de las notificaciones</td>
+            <td><strong>Como nuevo usuario</strong>, quiero ver las notificaciones de la aplicacion<strong>para sbaer si me estan mandando solicitud de amista o estan calculando un grupo</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que estoy en cualquier parte de la pagina, When veo las notificaciones, Then puedo ver el usuario de la persona respecto a calculos o me envie solicitud de amistad.<br>
+            </td>
+            <td>5</td>
+            <td></td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Cambiar de restaurante durante el calculo</td>
+            <td>UT02</td>
+            <td>Funcionalidad "Editar Restaurante de Comida"  </td>
+            <td><strong>Como usuario</strong>, quiero cambiar de resturante durante el calculo<strong>para poder adecuar el destinos a cambios de planes</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que soy un usuario que coordina con si grupo cuando veo que deciden cambiar de restaurante luego de haber coordinado uno, When acceda a Restaurante o Calculo, Then se cambia el restaurante para el calculo en la seccion de restaurante o en su defecto se presiona un boton en la seccion de calculo donde te llevara a la seccion de restaurantes.<br>
+                <strong>Escenario 2:</strong> Given que soy un usuario que ya empezo a calcular con un restaurante para mi grupo, When cambiamos de opinion, Then puedo presionar el boton de cambiar restaurante en cambio y sin forma de nuevo el grupo.
+            </td>
+            <td>9</td>
+            <td>Ariadna Poma</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Ignorar los cálculos de otra gente</td>
+            <td>UT03</td>
+            <td>Boton denegar en las notificaciones</td>
+            <td><strong>Como usuario</strong>, quiero poder ignorar o rechazar los calculos, <strong>no afectar el calculo de mis amigos como no tener muchas notificaciones </strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que soy un usuario que recibe notificaciones de calculos que me incluyan,When acceda a la pagina con la notificacion ,Then presiono en el boton de denegar para que no me aparezca dicho calculo.<br>
+            </td>
+            <td>3</td>
+            <td>Fernando Sanchez</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Implementar amigos a un lista ya creada</td>
+            <td>UT04</td>
+            <td>boton de "añadar a lista ya creada" </td>
+            <td><strong>Como usuario</strong>, quiero poder implementar mas amigos en una lista ya creada,<strong>para no tener que volverla a crear</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given este en el apartado de calculo con la lista ya creada,When este en el apartado de calculo con la lista ya creada ,Then presiono la opcion de incluir miembro a la lista ya creada y empiezo el calculo.<br>
+            </td>
+            <td>6</td>
+            <td>Walter Fajardo</td>
+            <td>In-Process</td>
+        </tr>
+        </tbody>
+</table>
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 Descripción:
