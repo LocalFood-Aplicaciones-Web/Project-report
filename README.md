@@ -276,7 +276,18 @@ Hemos identificado un factor crítico que afecta a los usuarios: la dificultad p
   Debe ser intuitiva, visualmente clara, rápida, confiable y respondive, ofreciendo información precisa y herramientas fáciles de usar tanto para usuarios como para locales.
   
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-
+- **Creemos que** para usuarios que están planificando una reunión grupal, implementar una "Recomendación Automática con un Solo Clic" (que calcule y muestre instantáneamente el lugar óptimo al crear un grupo) aumentará significativamente la finalización exitosa de la planificación.<br>
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** que el 50% de los grupos creados que tienen más de 2 integrantes utilizan la función de recomendación automática para visualizar la opción óptima en sus primeras dos semanas de uso.
+- **Creemos que** ofrecer opciones de filtros de lugares (tipo de restaurante, rango de precio, distancia máxima) mejorará la satisfacción del usuario.<br>
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** las sesiones donde se aplica al menos un filtro tienen una tasa de conversión (definida como "reserva confirmada" o "lugar seleccionado") un 25% mayor que las sesiones sin uso de filtros, medido en el primer mes tras el lanzamiento.
+- **Creemos que** permitir que los locales gestionen su disponibilidad y promociones dentro de la app incrementará su participación.
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** el 45% de los locales activos publican al menos una promoción por semana y estas promociones generan un aumento del 15% en las reservas provenientes de LocalFood para ese local.
+- **Creemos que** la visualización en tiempo real de la ubicación de cada participante reducirá el tiempo de planificación de reuniones.
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** los grupos que usan la función en tiempo real tardan en promedio un 30% menos en decidir el punto de encuentro en comparación con quienes no la usan.
 
 #### 1.2.2.4. Lean UX Canvas.
 ![Lean Ux Canvas](https://github.com/Local-Food-Aplicaciones-Web/Project-report-localfood/blob/patch-1/Assets/Lean%20UX%20Canvas%20(2).png?raw=true)
