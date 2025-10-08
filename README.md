@@ -871,19 +871,19 @@ En nuestro sistema visual, se distinguen:
 ### 4.1.2. Web Style Guidelines
 
 **Landing Page:**  
-DSescripción:
+La página principal está diseñada para ofrecer un resumen claro y conciso del servicio. Se destacan los beneficios de LocalFood, el proceso para conectar con comensales y dueños de locales, y los llamados a la acción para registrarse o buscar servicios. Desde el primer acceso, los usuarios deben sentir que han llegado a un espacio seguro, accesible y confiable.
 
 **Diseño Responsivo:**  
-
+La interfaz de KindyCare se adapta perfectamente a dispositivos móviles, tabletas y computadoras. Se optimiza el contenido para cada tamaño de pantalla, manteniendo la claridad y facilidad de uso en todos los contextos.
 
 **Espaciado y Alineación:**  
-
+Usamos una escala basada en múltiplos de 4px para todos los márgenes y rellenos, asegurando consistencia y armonía en el diseño. Este sistema permite que los elementos respiren adecuadamente, creando una experiencia visual agradable y ordenada.
 
 **Colores y Contraste:**  
-
+La paleta de colores incluye tonos suaves como el azul cielo, verde menta y durazno pastel, combinados con acentos más vibrantes para botones y enlaces. Estos colores no solo son agradables a la vista, sino que también cumplen con estándares de accesibilidad para asegurar el contraste suficiente.
 
 **Imágenes y Fondos:**  
-
+Las imágenes utilizadas en la plataforma son cuidadosamente seleccionadas para representar el objetivo de KidyCare: el bienestar y la educación infantil. Se han optado por imágenes que reflejan confianza y cuidado, alineadas con los valores de la plataforma. El uso de fondos claros y limpios asegura que la atención del usuario permanezca en la información y las llamadas a la acción principales.
 
 ---
 
