@@ -167,7 +167,11 @@ Entregrable 1 o TB1 : (19/09/25)
         <br><br>
         Walter Luis Fajardo Monrroy <br>
         TB1: Realicé aportes en el <b>capítulo 2</b> (desarrollo del marco teórico y estructura del documento), en el <b>capítulo 3</b> (identificación de la problemática y definición de objetivos), además participé en el <b>capítulo 5</b> (descripción técnica y apoyo en la elaboración de diagramas).
-        </td>
+       <br> <br>
+        Angel Jose Pariona chacca <br>
+        TB1: Participe activamente dentro del grupo y elabore la landing Page aportando tambien dentro del capitulo 5 y desarrollando parte del figma de la LP. <br>
+        TP1: Me centre en actualizar los fallos que hubo dentro del anterior entregable
+</td>
         <td>
         TB1: El equipo trabajado de manera homogénea, repartiéndose responsabilidades desde las primeras etapas del proyecto. 
         Todos los miembros asumieron liderazgo en tareas fundamentales del desarrollo del sistema, generando entregables integrados y coherentes. 
@@ -185,7 +189,10 @@ Entregrable 1 o TB1 : (19/09/25)
         Walter Luis Fajardo Monrroy <br>
         TB1: Contribuí en el <b>capítulo 2</b> y <b>capítulo 3</b> coordinando con mis compañeros para que la redacción y los enfoques fueran consistentes. 
         También participé en el <b>capítulo 5</b>, organizando la integración de los diagramas y apoyando en la planificación de entregables.
-        </td>
+        <br><br>        
+        Angel Jose Pariona Chacca <br>
+        TB1: Ayude en la eleccion de la problematica de nuestro proyecto, consultando a los compañeros y decidiendo el aspecto qeu tendria nuestra Landing Page.
+</td>
         <td>
         TB1: El grupo consiguió preparar un entorno colaborativo donde se siguieron roles, tiempos y responsabilidades de cada miembro. 
         Se establecieron metas alcanzables, se mantuvo comunicación constante y se cumplieron los objetivos de la primera entrega mediante un trabajo organizado y comprometido. 
