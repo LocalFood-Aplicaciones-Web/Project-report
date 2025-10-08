@@ -1924,10 +1924,57 @@ Durante el desarrollo Sprint 1 del proyecto LocalFood, el equipo se enfocó en e
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-Descripción: 
-
-| Team Member (Last Name, First Name) | GitHub Username | Cuerpo de la Aplicación | Lista de Caracteristicas | Contacto con el Equipo | Beneficios | Testimonios de Usuario |
-| ----------------------------------- | --------------- | ----------------------- | ------------------------ | ---------------------- | ---------- | ---------------------- |
+<table align="center">
+  <tr>
+    <td><strong>Team Member</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Contenido y mensajes</strong></td>
+    <td><strong>Funcionalidades específicas</strong></td>
+    <td><strong>Diseño y Navegación</strong></td>
+    <td><strong>Deployment</strong></td>
+  </tr>
+  <tr>
+    <td>Walter Luis, Fajardo Monrroy</td>
+    <td>WalterFajardo</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Sebastian Augusto, Gutierrez Santillan</td>
+    <td>Yeva</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ivan Fernando, Sanchez Guevara</td>
+    <td>DonFernando1</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ariadna Geraldine, Poma Muñoz</td>
+    <td>InAsui</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Angel Jose Pariona Chacca</td>
+    <td>angelitoso-opp</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+<br>
 
 
 #### 5.2.1.3. Sprint Backlog n.
