@@ -1836,31 +1836,32 @@ Reglas clave:
 
 ### 5.1.4. Software Deployment Configuration.
 
-Descripción:
+Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estático del proyecto. A continuación se detalla el proceso completo:
 
 1. **Creación del repositorio en GitHub:**
 
-   - 
+   - Primero, se debe crear un nuevo repositorio en GitHub. Asegúrate de que el repositorio sea público para que GitHub Pages pueda generar y alojar el sitio.
 
-- 
+- Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
 - **Ejemplo:**
 
+git clone https://github.com/LocalFood-Aplicaciones-Web/Project-report.git
 
 2. **Desarrollo del sitio estático:**
 
-- 
+- El desarrollo del Landing Page se realiza utilizando HTML, CSS, Tailwind.css , JavaScript y vue.js. Estos archivos deben estar en la raíz del repositorio o en la carpeta docs, dependiendo de la configuración elegida para GitHub Pages.
 
 3. **Configuración de GitHub Pages:**
 
-- 
-  - 
-  - 
-  - 
-- 
+- Dirígete a la configuración del repositorio en GitHub:
+  - Ir a la seccion Settings
+  - Desplázate hacia abajo hasta la sección Pages.
+  - En el menú desplegable "Source", selecciona la creada gh-pages y la carpeta raíz (/root) o docs/ si los archivos están organizados dentro de esa carpeta.
+- Una vez seleccionado, GitHub Pages generará una URL para acceder a tu sitio web.
 
 4. **Verificar el despliegue:**
 
-   - 
+   - En este caso, el Link del Landing Page desplegado del proyecto LocalFood es: https://localfood-aplicaciones-web.github.io/Project-report/
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
