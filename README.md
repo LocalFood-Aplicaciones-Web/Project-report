@@ -1869,10 +1869,57 @@ git clone https://github.com/LocalFood-Aplicaciones-Web/Project-report.git
 
 #### 5.2.1.1. Sprint Planning 1.
 
-Descripción:
+Durante el desarrollo Sprint 1 del proyecto LocalFood, el equipo se enfocó en el diseño llamativo y construcción funcional de la Landing Page de la plataforma. Se implementaron las principales las fundamentales secciones informativas, eso incluye el mensaje de bienvenida, los botones de registro y navegación, la sección de amigos para un gruoi, informacion respecto a nosotros y funciones adaptada a cambio de planes.  Además, se trabajó en aspectos fundamentales de interacción como la fijación del encabezado al hacer scroll y la visualización atractiva del interface. El equipo logró realizae la mayoría de las tareas planteadas, dejando solo algunos cosas en proceso de checkeo. Todo el despliegue del Sprint 1 priorizó una navegación llamativa, accesibilidad y fluida en la comunicación hacia los nuevos usuarios.
 
-| Sprint                             | Sprint 1                                                                                                                                                                                     |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table align="center">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint planning Backgroud</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2025 - 09 -13</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>9:00 am</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Virtual meet in Google Meet</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Walter Luis</td>
+  </tr>
+  <tr>
+    <td><strong>Attendes (to planning meeting)</strong></td>
+    <td>Sebastian Augusto, Angel Jose, Ivan Fernando, Ariadna Geraldine</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Review Winter</strong></td>
+    <td>No Realizamos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 0 Retorspective Summary</strong></td>
+    <td>No tuvimos una reunión previa debido a que este es nuestro primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal and User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Goal</strong></td>
+    <td>Entregar una landing page estática que comunique la propuesta de valor de GastroGo, con el objetivo de generar engagement inicial de los usuarios respecto a usar nuestro producto y ofrecer claridad a los comersales. Se considerará logrado cuando la página esté publicada y los visitantes puedan entender el propósito de la plataforma.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint 1 Velocity</strong></td>
+    <td>17</td>
+  </tr>
+</table>
+<br>
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
