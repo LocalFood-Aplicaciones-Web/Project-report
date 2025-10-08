@@ -1484,6 +1484,8 @@ Las decisiones de interacción se tomaron considerando principios de usabilidad,
 
 Los prototipos permiten visualizar el comportamiento del sistema ante las principales tareas definidas, asegurando una experiencia consistente y funcional. Se incluye una captura de pantalla y un enlace al video en Microsoft Stream donde se muestra la simulación de interacción correspondiente.
 
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/EaYsa5nfvndIo1RI-sbj46QBDUjiMieUFCHpTinoa_49ig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=INeT4Z
+
 
 ## 4.6. Domain-Driven Software Architecture.
 
