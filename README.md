@@ -724,9 +724,7 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 ## 3.3. Impact Mapping.
 
-
-![impact-mappig](./assets/Impact%20map%20(1).png)
-
+![impact-mappig](./Assets/Impact%20map%20(1).png)
 
 ## 3.4. Product Backlog.
 
