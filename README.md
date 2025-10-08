@@ -309,6 +309,19 @@ Hemos identificado un factor crítico que afecta a los usuarios: la dificultad p
   
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+- **Creemos que** para usuarios que están planificando una reunión grupal, implementar una "Recomendación Automática con un Solo Clic" (que calcule y muestre instantáneamente el lugar óptimo al crear un grupo) aumentará significativamente la finalización exitosa de la planificación.<br>
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** que el 50% de los grupos creados que tienen más de 2 integrantes utilizan la función de recomendación automática para visualizar la opción óptima en sus primeras dos semanas de uso.
+- **Creemos que** ofrecer opciones de filtros de lugares (tipo de restaurante, rango de precio, distancia máxima) mejorará la satisfacción del usuario.<br>
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** las sesiones donde se aplica al menos un filtro tienen una tasa de conversión (definida como "reserva confirmada" o "lugar seleccionado") un 25% mayor que las sesiones sin uso de filtros, medido en el primer mes tras el lanzamiento.
+- **Creemos que** permitir que los locales gestionen su disponibilidad y promociones dentro de la app incrementará su participación.
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** el 45% de los locales activos publican al menos una promoción por semana y estas promociones generan un aumento del 15% en las reservas provenientes de LocalFood para ese local.
+- **Creemos que** la visualización en tiempo real de la ubicación de cada participante reducirá el tiempo de planificación de reuniones.
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** los grupos que usan la función en tiempo real tardan en promedio un 30% menos en decidir el punto de encuentro en comparación con quienes no la usan.
+
 
 #### 1.2.2.4. Lean UX Canvas.
 ![Lean Ux Canvas](https://github.com/Local-Food-Aplicaciones-Web/Project-report-localfood/blob/patch-1/Assets/Lean%20UX%20Canvas%20(2).png?raw=true)
@@ -1686,49 +1699,51 @@ erDiagram
 
 ## 5.1. Software Configuration Management.
 
-
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de LocalFood.
 
 ### 5.1.1. Software Development Environment Configuration.
 
 Gestión de las necesidades
 
-- Trello: 
+- Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
 
-  Ruta de referencia:
+  Ruta de referencia: https://trello.com/es
 
 Diseño UX/UI
 
-- Figma: 
+- Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizada para el diseño digital. En el caso del proyecto, se utilizó para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
 
-  Ruta de referencia: 
+  Ruta de referencia: https://www.figma.com/login 
 
-- Lucidchart: 
-  Ruta de referencia: 
+- Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de flujos de cable, flujos de usuario y el diagrama de clases asociadas a la aplicación.
 
+  Ruta de referencia: https://www.lucidchart.com/ 
+  
 Desarrollo de software
 
-- Visual Studio Code: 
-  Ruta de referencia: 
+- Visual Studio Code: El equipo de trabajo seleccionó un entorno de desarrollo integrado (IDE) para la creación y compilación de los factores de control por dominio. Este IDE aporta valor al proyecto, ya que permite incorporar extensiones útiles, ofrece soporte para la edición de texto en diversos lenguajes de programación, es compatible con múltiples sistemas operativos y brinda otros beneficios adicionales.
 
-- HTML5: 
-  Ruta de referencia: 
+  Ruta de referencia: https://code.visualstudio.com/ 
 
-- CSS: 
-  Ruta de referencia: 
+- HTML5: HyperText Markup Language, o siglas por sus HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 
-- Bootstrap: 
-  Ruta de referencia: 
+  Ruta de referencia: https://www.w3schools.com/html/html5-syntax.asp
+  
+- CSS: Hojas de estilo en cascada es un lenguaje que maneja el diseño y presentación de las páginas web, el que va de la mano con HTML.
+
+  Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html 
 
 Implementación de software
 
-- Git: 
+- Git: Una herramienta de control de versiones que facilitan el registro y la gestión de las versiones distintas del programa. Su propósito es mantener un historial de cambios y simplificar el corrección de errores. Los integrantes del equipo A través de la línea de comandos en sus sistemas locales.
 
-  Ruta de referencia: 
+  Ruta de referencia: https://git-scm.com/ 
 
   Documentación y gestión de proyectos de software
 
-- Github: 
-  Ruta de referencia:
+- Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitir la colaboración en tiempo real y la revisión de las contribuciones de cada miembro del equipo. Los integrantes del equipo se puede acceder a través de sus navegadores web.
+
+  Ruta de referencia:https://github.com/ 
 
 ### 5.1.2. Source Code Management.
 
