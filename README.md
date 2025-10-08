@@ -769,7 +769,7 @@ link de Trello : https://trello.com/b/cWp7Hs0g/localfood
 
 ## 4.1. Style Guidelines.
 
-En **LocalFood**, establecemos pautas de estilo sólidas para garantizar una experiencia visual coherente, profesional y centrada en el usuario. Estas directrices abarcan tanto el diseño general como los elementos específicos de la interfaz web, con el fin de proyectar una imagen de confianza, seguridad y calidez para los padres y tutores que buscan cuidado infantil de calidad.
+En **LocalFood**, establecemos pautas de estilo sólidas para garantizar una experiencia visual coherente, profesional y centrada en el usuario. Estas directrices abarcan tanto el diseño general como los elementos específicos de la interfaz web, con el fin de proyectar una imagen de confianza, seguridad y calidez para los comensales y dueños de restaurantes que buscan eficiencia en sus viajes.
 
 ### 4.1.1. General Style Guidelines.
 
