@@ -445,14 +445,14 @@ Hola, gracias por participar en esta entrevista. Antes de empezar, me gustaría 
 <div align="center">
     <img src="./Assets/entevista_1.png">
 </div>
+
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218181_upc_edu_pe/EeIVi6Md2ulKquZNDKN7dmsB_HYS9hgtXhf8RXEsrMiZYQ?e=JRSFH5 
 
-
 **Resumen**
+
 Andre Roncal es ingeniera en Gestión Empresarial y actualmente trabaja en una consultoría enfocada en distritos privados. Ella comenta que ha tenido complicaciones para coordinar agendas con amigos y familiares, especialmente al momento de organizar salidas a restaurantes.
 Considera importante que el lugar elegido esté cerca y que los precios sean accesibles. Además, destaca que suele asistir a restaurantes para cenar y conversar, valorando la importancia de los canales de comunicación para gestionar estas reuniones. En ese sentido, WhatsApp es su herramienta principal.
 También resalta que la incorporación de filtros en aplicaciones de búsqueda de restaurantes facilita la selección de opciones adecuadas. Para Andre, esto representa una mejora significativa, ya que desea aumentar la frecuencia de sus reuniones, y considera que el uso de aplicaciones es la mejor forma de lograrlo.
-
 
 ## Entrevista N°2: 
 - Nombre: Piero Vargas Licetti y Cotrina Chipana Ñuñes
@@ -465,6 +465,7 @@ También resalta que la incorporación de filtros en aplicaciones de búsqueda d
 <div align="center">
     <img src="./Assets/entevista_2.png">
 </div>
+
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218181_upc_edu_pe/EfrNhsxxD-tFtfL0wKcNYpwB_AwxCRHV8Xefx0XbP_M3Mw?e=lbcaQk
 
 **Resumen:**
@@ -486,6 +487,7 @@ Respecto a sus preferencias personales, ambos priorizan la rapidez en el servici
 <div align="center">
     <img src="./Assets/imagen de video.png">
 </div>
+
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221632_upc_edu_pe/ESdjM7va9wVPmepF75nPWGsBuKglaXXEAzqkDo_1dBeWag?e=kt9kOM
 
 **Resumen:**
