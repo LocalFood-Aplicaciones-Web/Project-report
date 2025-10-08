@@ -683,8 +683,9 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 | Cálculo del punto de encuentro óptimo | EP02     |
 | Búsqueda y filtrado de restaurantes | EP03     |
 | Coordinación y comunicación grupal  | EP04     |
-| Recomendaciones y personalización   | EP05     |
-| Gestión y analítica para negocios   | EP06     |
+| Gestión de restaurantes y locales   | EP05     |
+| Recomendaciones y personalización   | EP06     |
+| Historias técnicas y administración | EP07     |
 
 
 | ID Historia | Título | Descripción | Criterios de Aceptación | Relación con (Epic ID) |
@@ -714,14 +715,12 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 | **US23** | Historial de visitas | Como usuario, quiero ver los lugares visitados anteriormente, para repetir experiencias. | Dado que visité un restaurante, cuando abro mi historial, entonces veo mis visitas pasadas. | EP06 |
 | **US24** | Notificaciones de recordatorio | Como usuario, quiero recibir recordatorios antes de las reuniones, para no olvidar el encuentro. | Dado que tengo una salida programada, cuando se acerque la hora, entonces recibo una notificación. | EP06 |
 | **US25** | Compartir restaurante | Como usuario, quiero compartir un restaurante con mis amigos fuera de la app, para invitarlos fácilmente. | Dado que encuentro un restaurante, cuando selecciono “Compartir”, entonces puedo enviarlo por redes o WhatsApp. | EP06 |
-| **US26** | Gestionar usuarios | Como administrador, quiero ver la lista de usuarios registrados, para mantener el control de la plataforma. | Dado que accedo al panel de administración, cuando abro usuarios, entonces veo su información básica. | ADM01 |
-| **US27** | Gestionar locales registrados | Como administrador, quiero revisar y aprobar locales registrados, para mantener la calidad del servicio. | Dado que un dueño registra su local, cuando reviso los datos, entonces puedo aprobar o rechazarlo. | ADM01 |
-| **US28** | Supervisar reportes | Como administrador, quiero revisar reportes de usuarios o locales, para tomar acciones correctivas. | Dado que se genera un reporte, cuando lo abro, entonces puedo resolverlo o sancionar. | ADM01 |
-| **US29** | Ver estadísticas generales | Como administrador, quiero ver estadísticas globales de uso, para analizar el crecimiento de la app. | Dado que ingreso al panel, cuando abro estadísticas, entonces veo datos de usuarios, locales y visitas. | ADM01 |
-| **US30** | Gestionar promociones | Como administrador, quiero supervisar las promociones creadas por los locales, para evitar contenido inapropiado. | Dado que hay promociones activas, cuando las reviso, entonces puedo desactivarlas si incumplen normas. | ADM01 |
-| **US31** | Administrar contenido y reseñas | Como administrador, quiero eliminar comentarios ofensivos, para mantener un entorno seguro. | Dado que detecto una reseña inapropiada, cuando la elimino, entonces desaparece del sistema. | ADM01 |
-
-
+| **US26** | Gestionar usuarios | Como administrador, quiero ver la lista de usuarios registrados, para mantener el control de la plataforma. | Dado que accedo al panel de administración, cuando abro usuarios, entonces veo su información básica. | EP07 |
+| **US27** | Gestionar locales registrados | Como administrador, quiero revisar y aprobar locales registrados, para mantener la calidad del servicio. | Dado que un dueño registra su local, cuando reviso los datos, entonces puedo aprobar o rechazarlo. | EP07 |
+| **US28** | Supervisar reportes | Como administrador, quiero revisar reportes de usuarios o locales, para tomar acciones correctivas. | Dado que se genera un reporte, cuando lo abro, entonces puedo resolverlo o sancionar. | EP07 |
+| **US29** | Ver estadísticas generales | Como administrador, quiero ver estadísticas globales de uso, para analizar el crecimiento de la app. | Dado que ingreso al panel, cuando abro estadísticas, entonces veo datos de usuarios, locales y visitas. | EP07 |
+| **US30** | Gestionar promociones | Como administrador, quiero supervisar las promociones creadas por los locales, para evitar contenido inapropiado. | Dado que hay promociones activas, cuando las reviso, entonces puedo desactivarlas si incumplen normas. | EP07 |
+| **US31** | Administrar contenido y reseñas | Como administrador, quiero eliminar comentarios ofensivos, para mantener un entorno seguro. | Dado que detecto una reseña inapropiada, cuando la elimino, entonces desaparece del sistema. | EP07 |
 
 ## 3.3. Impact Mapping.
 
