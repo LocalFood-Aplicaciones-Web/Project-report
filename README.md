@@ -1986,7 +1986,9 @@ Durante el primer sprint backlog, el equipo tuvo el deber de realizar y completa
 </p>
 
 <br>
+
 link al trello: https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6d324fbbb059ac41bfddd60e6d7988396B/localfood
+
 <table border="1" cellspacing="0" cellpadding="5">
     <thead>
         <tr>
@@ -2012,62 +2014,106 @@ link al trello: https://trello.com/invite/b/68c7d580d1d41d4f3acf95c2/ATTIe6344c6
     <tbody>
         <tr>
             <td>US01</td>
-            <td>Ver notificaciones de amigos/contactos</td>
+            <td>Ver restaurantes cercanos</td>
             <td>UT01</td>
-            <td>Crear mensaje saliente de las notificaciones</td>
-            <td><strong>Como nuevo usuario</strong>, quiero ver las notificaciones de la aplicacion<strong>para sbaer si me estan mandando solicitud de amista o estan calculando un grupo</strong>.</td>
+            <td>Implementar API de geolocalización</td>
+            <td><strong>Como usuario</strong>, quiero ver los restaurantes más cercanos <strong>para poder decidir rápidamente dónde comer con mis amigos</strong>.</td>
             <td>
-                <strong>Escenario 1:</strong> Given que estoy en cualquier parte de la pagina, When veo las notificaciones, Then puedo ver el usuario de la persona respecto a calculos o me envie solicitud de amistad.<br>
+                <strong>Escenario 1:</strong> Given que ingreso a la aplicación, When activo mi ubicación, Then puedo visualizar una lista de restaurantes ordenados por distancia.<br>
             </td>
-            <td>5</td>
-            <td></td>
+            <td>8</td>
+            <td>Iván Fernando</td>
             <td>In-Process</td>
         </tr>
         <tr>
             <td>US02</td>
-            <td>Cambiar de restaurante durante el calculo</td>
+            <td>Crear grupo de decisión</td>
             <td>UT02</td>
-            <td>Funcionalidad "Editar Restaurante de Comida"  </td>
-            <td><strong>Como usuario</strong>, quiero cambiar de resturante durante el calculo<strong>para poder adecuar el destinos a cambios de planes</strong>.</td>
+            <td>Diseñar módulo de creación de grupos</td>
+            <td><strong>Como usuario</strong>, quiero crear un grupo con mis amigos <strong>para decidir juntos a qué restaurante ir</strong>.</td>
             <td>
-                <strong>Escenario 1:</strong> Given que soy un usuario que coordina con si grupo cuando veo que deciden cambiar de restaurante luego de haber coordinado uno, When acceda a Restaurante o Calculo, Then se cambia el restaurante para el calculo en la seccion de restaurante o en su defecto se presiona un boton en la seccion de calculo donde te llevara a la seccion de restaurantes.<br>
-                <strong>Escenario 2:</strong> Given que soy un usuario que ya empezo a calcular con un restaurante para mi grupo, When cambiamos de opinion, Then puedo presionar el boton de cambiar restaurante en cambio y sin forma de nuevo el grupo.
+                <strong>Escenario 1:</strong> Given que estoy logueado, When selecciono “crear grupo”, Then puedo añadir amigos y asignarles permisos para participar en el cálculo.<br>
             </td>
-            <td>9</td>
-            <td>Ariadna Poma</td>
+            <td>6</td>
+            <td>Ángel José</td>
             <td>In-Process</td>
         </tr>
         <tr>
             <td>US03</td>
-            <td>Ignorar los cálculos de otra gente</td>
+            <td>Recibir notificaciones de grupo</td>
             <td>UT03</td>
-            <td>Boton denegar en las notificaciones</td>
-            <td><strong>Como usuario</strong>, quiero poder ignorar o rechazar los calculos, <strong>no afectar el calculo de mis amigos como no tener muchas notificaciones </strong>.</td>
+            <td>Implementar sistema de notificaciones push</td>
+            <td><strong>Como usuario</strong>, quiero recibir notificaciones cuando mis amigos creen un grupo o voten <strong>para mantenerme actualizado</strong>.</td>
             <td>
-                <strong>Escenario 1:</strong> Given que soy un usuario que recibe notificaciones de calculos que me incluyan,When acceda a la pagina con la notificacion ,Then presiono en el boton de denegar para que no me aparezca dicho calculo.<br>
+                <strong>Escenario 1:</strong> Given que tengo la app abierta, When un amigo me agrega a un grupo, Then recibo una notificación en tiempo real.<br>
             </td>
-            <td>3</td>
-            <td>Fernando Sanchez</td>
+            <td>5</td>
+            <td>Sebastián Augusto</td>
             <td>In-Process</td>
         </tr>
         <tr>
             <td>US04</td>
-            <td>Implementar amigos a un lista ya creada</td>
+            <td>Votar por restaurante</td>
             <td>UT04</td>
-            <td>boton de "añadar a lista ya creada" </td>
-            <td><strong>Como usuario</strong>, quiero poder implementar mas amigos en una lista ya creada,<strong>para no tener que volverla a crear</strong>.</td>
+            <td>Desarrollar sistema de votación</td>
+            <td><strong>Como usuario</strong>, quiero votar por el restaurante que prefiero <strong>para llegar más rápido a un acuerdo con el grupo</strong>.</td>
             <td>
-                <strong>Escenario 1:</strong> Given este en el apartado de calculo con la lista ya creada,When este en el apartado de calculo con la lista ya creada ,Then presiono la opcion de incluir miembro a la lista ya creada y empiezo el calculo.<br>
+                <strong>Escenario 1:</strong> Given que estoy en un grupo activo, When visualizo las opciones de restaurantes, Then puedo votar y ver el progreso de la elección.<br>
+            </td>
+            <td>7</td>
+            <td>Ariadna Geraldine</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Ver detalles del restaurante</td>
+            <td>UT05</td>
+            <td>Integrar vista de detalles</td>
+            <td><strong>Como usuario</strong>, quiero ver el menú, horarios y reseñas <strong>para tomar una mejor decisión antes de votar</strong>.</td>
+            <td>
+                <strong>Escenario 1:</strong> Given que selecciono un restaurante, When accedo a su perfil, Then puedo ver detalles del menú, fotos y opiniones.<br>
             </td>
             <td>6</td>
             <td>Walter Fajardo</td>
             <td>In-Process</td>
         </tr>
-        </tbody>
+    </tbody>
 </table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
-Descripción:
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub
+
+| **Repository**   | **Branch** | **Commit Id**                               | **Commit Message**                                                        | **Usuario**        | **Commited on (Date)** |
+| ---------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------------- | ------------------ | ---------------------- |
+| project-report   | develop    | 2898421e20e874ff7161b86fd420330db68e3b5f    | Update README.md                                                           | angelitoso-opp     | yesterday              |
+| project-report   | develop    | f10c28b841273428d25e17d789156e08b635627a    | Add files via upload                                                       | angelitoso-opp     | yesterday              |
+| project-report   | develop    | 13326d51af42be2e5d5271ed91d51c0c763037bf    | Update README.md                                                           | angelitoso-opp     | yesterday              |
+| project-report   | develop    | 56f0c41d88e8a8efd5e88aae0b3e496282ad8a9a    | doc: Implement data about a student and complete the StudentOutcome        | DonFernando1       | yesterday              |
+| project-report   | develop    | 3321f4fd25202612fc53253ca687283a8d8842b0    | Merge pull request #7 from LocalFood-Aplicaciones-Web/docs/chapter2-v1     | WalterFajardo      | 2 days ago             |
+| project-report   | develop    | 303b6eaad32b2b89178c82494bceb72e1ac1ec85    | docs: add user persona for food stall owner segment                        | WalterFajardo      | 2 days ago             |
+| project-report   | develop    | 54738091ddf978c492e2df782582898626726eda    | docs: add user persona for customer segment                                | WalterFajardo      | 2 days ago             |
+| project-report   | develop    | 7ca03b573370d85e64c22d7939c6cb934b20668d    | Update README.md                                                           | angelitoso-opp     | 3 days ago             |
+| project-report   | develop    | a00ee47491013a5a03283f4a89587edc74eeb691    | Merge pull request #5 from LocalFood-Aplicaciones-Web/docs/chapter2-v1     | InAsui             | 5 days ago             |
+| project-report   | develop    | 763ee43f369d81fef3cb9301997b5069c1dafaf2    | docs: update Section 2.2.1 - Interview design                              | InAsui             | 5 days ago             |
+| project-report   | develop    | 4eca74e525972909a0206bc7bd5a4cb8f6c2e633    | docs: update Section 2.2.1 - Interview design                              | InAsui             | 5 days ago             |
+| project-report   | develop    | 7b6ad8fafb7c5b1fde7719ea83dd5f75e4128c38    | docs: update 2.2.1 - Interview design                                      | InAsui             | 5 days ago             |
+| project-report   | develop    | 2231b8800f9d274e9d2d794649a0d05d93c64b0e    | docs: update Section 2.2.1 - Interview design                              | InAsui             | 5 days ago             |
+| project-report   | develop    | e0faab0a33598f1e50cd9e0bbe5ad6491c2e4331    | Merge pull request #4 from LocalFood-Aplicaciones-Web/docs/chapter1-v1     | InAsui             | 5 days ago             |
+| project-report   | develop    | a5039fc63aec8cda91ebc942c41caa1121b66b00    | docs: update Section 1.3 - target segments                                 | InAsui             | 5 days ago             |
+| project-report   | develop    | 2dd835bfc09cdd25631227806c9465045df49a62    | docs: update Section 1.2.2.4 - Lean UX Canvas.                             | InAsui             | 5 days ago             |
+| project-report   | develop    | c8bfc792f6387c3905456adb4ae8df96bacdad5c    | Add files via upload                                                       | InAsui             | 5 days ago             |
+| project-report   | develop    | 82fb2d0f91a6783a7584a0fab364a62c04107861    | docs: update Section 1.2.2.2 - Lean UX Assumptions.                        | InAsui             | 5 days ago             |
+| project-report   | develop    | 6babe665824838ae8151e8680454b714765adfd4    | docs: update Section 1.2.2.1 - Lean UX Problem Statements                  | InAsui             | 5 days ago             |
+| project-report   | develop    | 8babd6096fbd2be58fffaf90b9fb549630673f2c    | docs: update Section 1.2.1 - background and issues                         | InAsui             | 5 days ago             |
+| project-report   | develop    | 21d171b2e2c0d21c9ad078c8bfe039a3137c66b0    | docs: update chapter 1                                                     | InAsui             | 5 days ago             |
+| project-report   | develop    | 896e04acf708a94286feb4d7ba192c71021b797e    | Merge pull request #3 from LocalFood-Aplicaciones-Web/develop              | WalterFajardo      | last week              |
+| project-report   | develop    | cc0440df631ee99fb3c4312a09b57d99bc1a7fa8    | Merge pull request #2 from LocalFood-Aplicaciones-Web/docs/chapter2-v1     | WalterFajardo      | last week              |
+| project-report   | develop    | 9184f16b004075fddd9c6a92b65a928fd1be6f3d    | Merge pull request #1 from LocalFood-Aplicaciones-Web/docs/chapter2-v1     | WalterFajardo      | last week              |
+| project-report   | develop    | c35eb7f3489f0057f3c0385871c39051b3f5c35f    | docs: Include interview design, strategies, and competitive analysis section | WalterFajardo    | last week              |
+| project-report   | develop    | d237f106d27be286bfa1c4777b06139f0a0145ea    | docs: add university logo and create assets folder                         | WalterFajardo      | last week              |
+| project-report   | develop    | 5ac6de5ca388fd704b19362199f7c4e1afad2b4e    | docs: add initial document template                                        | WalterFajardo      | last week              |
+| project-report   | develop    | a1c81cb88b24584eb17855218dc9a766a7fa2ab3    | Initial commit                                                             | WalterFajardo      | last week              |
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
