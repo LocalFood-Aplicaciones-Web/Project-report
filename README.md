@@ -1014,28 +1014,50 @@ La landing page de LocalFood refleja los valores de equidad, frescura y eficienc
 
 ### 4.3.1. Landing Page Wireframe.
 
-**XXXXX: Section**
+**Versión Desktop**  
 
+Los wireframes muestran la jerarquía de secciones, menús y CTA sin detalles visuales, priorizando la organización de contenido y navegación.
 
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading1.png" alt="wireframe" width="1000">
+</p>
 
-**XXXXX: Section**
+<p align="center">
+    Wireframes 1 - Elaboración propia
+</p>
 
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading2.png" alt="wireframe" width="1000">
+</p>
 
-**XXXXX: Section**
+<p align="center">
+    Wireframes 2 - Elaboración propia
+</p>
 
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading3.png" alt="wireframe" width="1000">
+</p>
 
-**XXXXX: Section**
+<p align="center">
+    Wireframes 3 - Elaboración propia
+</p>
 
+<br><br>
 
+<p align="center">
+  <img src="Assets/Landing_pg/Wirelading4.png" alt="wireframe" width="1000">
+</p>
 
-**XXXXX: Section**
+<p align="center">
+    Wireframes 4 - Elaboración propia
+</p>
 
-
-**XXXXX: Section**
-
-
+<br><br>
+---
 
 ### 4.3.2. Landing Page Mock-up.
 
