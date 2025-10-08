@@ -699,7 +699,16 @@ La elección de un nombre en inglés responde a su carácter sencillo, universal
 
 A continuación, se presenta el logo de LocalFood:  
 
-![Logo](/Assets/Logo-LocalFood.PNG)
+<p align="center">
+  <img src="Assets/Logo-LocalFood.PNG" alt="Logo de LocalFood" width="600">
+</p>
+
+<p align="center">
+  Figura 8. Logo de LocalFood – Elaboración propia
+</p>
+
+<br><br>
+
 
 #### Typography
 
@@ -720,7 +729,16 @@ Se han definido **dos fuentes principales** que aseguran jerarquía visual y leg
 - Buttons (Nunito SemiBold) → acciones destacadas.  
 - Links (Lato Italic/Subrayado) → navegación secundaria. 
 
-  ![Tipografia](/Assets/typography/tipografia.png)
+  <p align="center">
+  <img src="Assets/typography/tipografia.png" alt="Tipografía utilizada" width="600">
+</p>
+
+<p align="center">
+  Figura 7. Tipografía utilizada – Elaboración propia
+</p>
+
+<br><br>
+
 
 ---
 
@@ -740,8 +758,18 @@ En nuestro sistema visual, se distinguen:
 - **Verde Lima**  
   Representa frescura, dinamismo y accesibilidad. Se usa en la navegación activa y elementos destacados de la interfaz.  
 
-**Hex:** `#4FFF49`  
-![Color Primario Verde](/Assets/Colors/verde.PNG)
+**Hex:** `#4FFF49`
+
+<p align="center">
+  <img src="Assets/Colors/verde.PNG" alt="Color primario verde" width="600">
+</p>
+
+<p align="center">
+  Figura 6. Color primario verde – Elaboración propia
+</p>
+
+<br><br>
+
 
 ---
 
@@ -749,12 +777,32 @@ En nuestro sistema visual, se distinguen:
 - **Naranja/Beige**  
   Utilizado en el fondo de la barra lateral, transmite calidez y cercanía.  
   **Hex:** `#FFB983`  
-  ![Color Secundario Naranja](/Assets/Colors/naranjoso.PNG)
+
+  <p align="center">
+  <img src="Assets/Colors/naranjoso.PNG" alt="Color secundario naranja" width="600">
+</p>
+
+<p align="center">
+  Figura 5. Color secundario naranja – Elaboración propia
+</p>
+
+<br><br>
+
 
 - **Morado/Violeta**  
   Resalta botones y cantidades, aportando energía visual.  
   **Hex:** `#F828FF`  
-  ![Color Secundario Morado](/Assets/Colors/morao.PNG)
+
+  <p align="center">
+  <img src="Assets/Colors/morao.PNG" alt="Color secundario morado" width="600">
+</p>
+
+<p align="center">
+  Figura 4. Color secundario morado – Elaboración propia
+</p>
+
+<br><br>
+
 
 - **Azul**  
   Usado en fondos de QR y botones secundarios, transmite confianza.  
@@ -767,12 +815,32 @@ En nuestro sistema visual, se distinguen:
 - **Blanco**  
   Fondo principal, aporta claridad y legibilidad.  
   **Hex:** `#FFFFFF`  
-  ![Color Base Blanco](/Assets/Colors/blanco.PNG)
+
+  <p align="center">
+  <img src="Assets/Colors/blanco.PNG" alt="Color base blanco" width="600">
+</p>
+
+<p align="center">
+  Figura 3. Color base blanco – Elaboración propia
+</p>
+
+<br><br>
+
 
 - **Negro**  
   Utilizado en tipografía y detalles para alto contraste.  
-  **Hex:** `#000000`  
-  ![Color Base Negro](/Assets/Colors/negro.PNG)
+  **Hex:** `#000000` 
+
+  <p align="center">
+  <img src="Assets/Colors/negro.PNG" alt="Color base negro" width="600">
+</p>
+
+<p align="center">
+  Figura 2. Color base negro – Elaboración propia
+</p>
+
+<br><br>
+
 
 ## 4.1.2. Web Style Guidelines
 
@@ -793,7 +861,15 @@ Los colores de la interfaz están diseñados para captar la atención de los usu
 **Espaciado y efectos visuales**  
 El uso de espacios en blanco y separaciones claras permite que la interfaz sea limpia y ordenada. Además, se emplean efectos sutiles (resaltado de botones, cambios de color en hover) que guían al usuario en su recorrido, facilitando la comprensión del propósito de la plataforma: encontrar el punto de encuentro justo entre colegas y amigos.
 
-![Patron_Z](/Assets/Pattern/PatronZ.jpg)
+<p align="center">
+    <img src="Assets/Pattern/PatronZ.jpg" alt="Patrón Z" width="800">
+</p>
+
+<p align="center">
+    Figura 1. Patrón Z - Elaboración propia
+</p>
+
+<br><br>
 --
 ## 4.2. Information Architecture
 
