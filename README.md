@@ -609,13 +609,13 @@ El viaje de Luis, un emprendedor de 30 años dueño de un puesto de comida, inic
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**USER PERSONA: (Nombre)**
-![Scenario Mapping 1]()
-Descripción:
+**USER PERSONA: María Tasayco**
+![Scenario Mapping 1](Assets/As%20is%20Scenario%20Mapping%20-%20Comensales.jpg)
+El proceso de coordinar una salida a comer con sus amigos resulta desgastante para María. Aunque al inicio se emociona con la idea de reunirse, depende de grupos de WhatsApp donde surgen demasiadas propuestas de restaurantes y la conversación rápidamente se vuelve caótica. María dedica tiempo revisando Google Maps, calculando distancias desde su casa y compartiendo capturas en el chat, pero siente que sus sugerencias no siempre son tomadas en cuenta de manera justa. La decisión final suele inclinarse hacia locales más convenientes para algunos, obligándola a viajar más, gastar más en transporte y ajustarse a lo que el grupo define. Esto le genera frustración, inseguridad y una sensación de inequidad, que contrastan con el entusiasmo inicial de querer disfrutar una comida con sus amigos.
 
-**USER PERSONA: (Nombre)**
-![Scenario Mapping 1]()
-Descripción:
+**USER PERSONA: Luis Luzquiños**
+![Scenario Mapping 1](Assets/As%20is%20Scenario%20Mapping%20-%20Dueños%20de%20locales.jpg)
+El proceso de atraer clientes a su restaurante resulta complejo y agotador para Luis. Aunque se esfuerza en publicar fotos en redes sociales y depender de recomendaciones de boca a boca, siente que su alcance es limitado frente a cadenas más grandes y visibles. Intenta posicionarse en Google Maps y en aplicaciones de delivery, pero se enfrenta a altas comisiones y a la sensación de que, si los clientes no lo buscan directamente, su local prácticamente no existe. A pesar de brindar buena atención y ofrecer promociones, Luis percibe que muchos clientes no regresan porque su restaurante no se encuentra en un punto de fácil acceso para ellos. Esto lo obliga a reiniciar constantemente la búsqueda de nuevos comensales, generándole cansancio, frustración e incertidumbre sobre la estabilidad de su negocio, pese a su motivación por crecer y destacar.
 
 ## 2.4. Ubiquitous Language.
 
