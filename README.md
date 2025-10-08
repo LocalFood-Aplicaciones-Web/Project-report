@@ -619,27 +619,49 @@ El proceso de atraer clientes a su restaurante resulta complejo y agotador para 
 
 ## 2.4. Ubiquitous Language.
 
-Descripción:
+El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo.
 
 **Ubiquitous Language – LOCALFOOD**
 
-1. 
+1. Comensal: Usuario que busca reunirse con amigos, familiares o grupos en un local accesible para todos.
 
-2. 
+2. Dueño/Gerente de Local: Usuario que administra un restaurante o negocio gastronómico y busca atraer clientes mediante la app.
 
-3. 
+3. Grupo: Conjunto de comensales que desean coordinar un punto de encuentro común.
 
-4. 
+4. Contacto: Persona agregada a la lista de amigos/usuarios dentro de la aplicación.
 
-5. 
+5. Cálculo: Proceso que determina el restaurante más conveniente para todos los integrantes del grupo según su ubicación.
 
-6. 
+6. Punto medio: Resultado geográfico que equilibra las distancias de los comensales para elegir un lugar justo.
 
-7. 
+7. Restaurante/Local: Negocio registrado en la app con ubicación, menú, precios y horarios.
 
-8. 
+8. Reserva: Acción de apartar un espacio en un local a través de la aplicación.
 
-9. 
+9. Promoción: Beneficio o descuento ofrecido por un local para atraer comensales.
+
+10. Reseña: Comentario o calificación que los comensales dejan sobre un local después de su visita.
+
+11. Favorito: Local guardado por un comensal para futuras salidas.
+
+12. Visibilidad del local: Nivel de exposición que obtiene un restaurante en la aplicación (ej. destacarlo en búsquedas).
+
+13. Estadísticas de consumo: Datos que reciben los dueños sobre reservas, picos de demanda y preferencias de clientes.
+
+14. Filtros de búsqueda: Opciones que permiten refinar locales por precio, tipo de comida, promociones o cercanía.
+
+15. Mapa interactivo: Visualización gráfica de los locales disponibles y su relación con la ubicación de los comensales.
+
+16. Notificación de grupo: Aviso que reciben los comensales cuando otro integrante los incluye en un cálculo o invitación.
+
+17. Plan freemium/premium: Modelo de negocio que ofrece funciones gratuitas con anuncios y beneficios adicionales de pago.
+
+18. Perfil del usuario: Información personal de comensales o dueños (nombre, ubicación, historial, locales favoritos, etc.).
+
+19. Experiencia social: Valor diferencial de la app que resalta la facilidad de organizar reuniones y compartir momentos.
+
+20. Código QR: Medio para agregar contactos o acceder a perfiles dentro de la aplicación.
 
 # Capítulo III: Requirements Specification
 
