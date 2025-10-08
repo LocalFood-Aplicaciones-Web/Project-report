@@ -302,20 +302,18 @@ Hemos identificado un factor crítico que afecta a los usuarios: la dificultad p
   
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-1. Creemos que los comensales valorarán poder encontrar restaurantes equidistantes según la ubicación de su grupo.  
-   Sabremos que esto es cierto cuando observemos una alta tasa de uso de la función de cálculo de punto medio y una reducción en el tiempo de decisión del grupo.
-
-2. Creemos que los usuarios apreciarán poder coordinar con sus amigos directamente desde la aplicación mediante grupos y chat integrado.  
-   Sabremos que esto es cierto cuando identifiquemos una alta creación de grupos activos y una interacción constante en los chats grupales.
-
-3. Creemos que los dueños de locales valorarán la posibilidad de registrar y administrar su restaurante para atraer más comensales.  
-   Sabremos que esto es cierto cuando veamos un aumento en los locales registrados y una mayor visualización de perfiles de restaurantes.
-
-4. Creemos que ofrecer un sistema de votación y reseñas ayudará a los grupos a tomar decisiones más rápidas y confiables.  
-   Sabremos que esto es cierto cuando observemos un incremento en la cantidad de votos emitidos y reseñas publicadas por los usuarios.
-
-5. Creemos que las promociones personalizadas y notificaciones de recordatorio mejorarán la retención y la participación de los usuarios.  
-   Sabremos que esto es cierto cuando notemos un aumento en las reservas realizadas tras recibir promociones y una reducción en cancelaciones o inactividad.
+- **Creemos que** para usuarios que están planificando una reunión grupal, implementar una "Recomendación Automática con un Solo Clic" (que calcule y muestre instantáneamente el lugar óptimo al crear un grupo) aumentará significativamente la finalización exitosa de la planificación.<br>
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** que el 50% de los grupos creados que tienen más de 2 integrantes utilizan la función de recomendación automática para visualizar la opción óptima en sus primeras dos semanas de uso.
+- **Creemos que** ofrecer opciones de filtros de lugares (tipo de restaurante, rango de precio, distancia máxima) mejorará la satisfacción del usuario.<br>
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** las sesiones donde se aplica al menos un filtro tienen una tasa de conversión (definida como "reserva confirmada" o "lugar seleccionado") un 25% mayor que las sesiones sin uso de filtros, medido en el primer mes tras el lanzamiento.
+- **Creemos que** permitir que los locales gestionen su disponibilidad y promociones dentro de la app incrementará su participación.
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** el 45% de los locales activos publican al menos una promoción por semana y estas promociones generan un aumento del 15% en las reservas provenientes de LocalFood para ese local.
+- **Creemos que** la visualización en tiempo real de la ubicación de cada participante reducirá el tiempo de planificación de reuniones.
+  **Sabremos que hemos tenido éxito**<br>
+  **Cuando veamos que** los grupos que usan la función en tiempo real tardan en promedio un 30% menos en decidir el punto de encuentro en comparación con quienes no la usan.
 
 
 #### 1.2.2.4. Lean UX Canvas.
