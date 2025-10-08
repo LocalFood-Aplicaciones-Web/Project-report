@@ -1007,6 +1007,11 @@ El sistema de navegación en **LocalFood** está diseñado para ser **intuitivo 
 
 ## 4.3. Landing Page UI Design.
 
+**Introducción:**  
+La landing page de LocalFood refleja los valores de equidad, frescura y eficiencia. La estructura guía al usuario de manera clara hacia los beneficios y el uso inmediato de la app.
+
+---
+
 ### 4.3.1. Landing Page Wireframe.
 
 **XXXXX: Section**
