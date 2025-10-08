@@ -988,22 +988,22 @@ La aplicación ofrece distintos métodos de búsqueda para facilitar el acceso a
 
 ### 4.2.5. Navigation Systems
 
-Descripción:
+El sistema de navegación en **LocalFood** está diseñado para ser **intuitivo y consistente** en web y móvil:
 
-1. **XXXXX:**  
-   Descripción:
+- **Menú superior (Landing Page – Desktop):**  
+  Incluye Inicio, Acerca de Nosotros, Marcas Registradas, Países Hábiles y Contacto.  
 
-2. **XXXXX:**  
-   Descripción:
+- **Menú lateral (Aplicación Web – Desktop):**  
+  Accesos directos a Inicio, Colegas, Restaurantes, Calculadora y Cerrar Sesión.  
 
-3. **XXXXX:**  
-   Descripción:
+- **Navegación inferior (Mobile):**  
+  Barra con íconos para Inicio, Colegas, Restaurantes y Perfil.  
 
-4. **XXXXX:**  
-   Descripción:.
+- **CTA fijo:**  
+  Botón destacado *“Encuentra tu punto medio”* disponible en la sección de calculadora.  
 
-5. **XXXXX:**  
-   Descripción:
+- **Footer (Landing Page):**  
+  Enlaces a políticas de privacidad, términos de servicio y redes sociales. 
 
 ## 4.3. Landing Page UI Design.
 
