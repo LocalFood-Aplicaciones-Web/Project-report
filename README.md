@@ -1492,11 +1492,11 @@ https://miro.com/welcomeonboard/OW1Ea3dxNDdNSjVDQ3M0TGpsUUNwMUFnWkUrUU1ya1JyTkYz
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![welp](assets/contenedores.png)
+![welp](Assets/contenedores.png)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
-![welp](assets/componentes.png)
+![welp](Assets/componentes.png)
 
 
 
