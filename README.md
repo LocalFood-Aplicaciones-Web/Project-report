@@ -927,15 +927,19 @@ Cada sección está claramente diferenciada y jerarquizada, con encabezados visi
 
 ### 4.2.2. Labeling Systems
 
-Descripción:
+El sistema de etiquetado en **LocalFood** está diseñado para ser **claro, inclusivo y coherente**.  
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- **Etiquetas textuales:**  
+  - *Inicio*, *Colegas*, *Restaurantes*, *Calculadora*, *Cerrar Sesión*.  
+  - Frases simples y directas, evitando ambigüedad.  
+
+- **Etiquetas icónicas:**  
+  - Ícono de **lupa** para búsqueda.  
+  - Ícono de **usuario** para la sección de colegas.  
+  - Ícono de **mapa/ubicación** en la calculadora.  
+  - Ícono de **QR** para compartir o agregar usuarios rápidamente.  
+
+Este etiquetado facilita la comprensión inmediata de las funciones, incluso para usuarios primerizos.
 
 ---
 
