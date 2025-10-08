@@ -1832,11 +1832,11 @@ pasos para el despliegue:
 4. Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama gh-pages y desplegó la landing page en la URL proporcionada por GitHub Pages.
 
 <p align="center">
-  <img src="Assets/Captura%20de%20pantalla_19-9-2025_162235_localfood-aplicaciones-web.github.io.jpeg" alt="Register running - Captura de pantalla" width="800">
+  <img src="Assets/deployment%20landingpage.PNG" alt="Register running - Captura de pantalla" width="800">
 </p>
 
 <p align="center">
-  Figura 10. Register running – Captura de pantalla de LocalFood
+  Figura 10. Landing Page deployed – Captura de pantalla de LocalFood
 </p>
 
 <br><br>
