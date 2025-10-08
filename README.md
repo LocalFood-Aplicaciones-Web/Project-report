@@ -2125,7 +2125,7 @@ Link del landing page desplegado: https://localfood-aplicaciones-web.github.io/P
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Descripción:
+Descripción: En este sprint 1 se desarrollo la landing page, por lo que no hay evidencias del empleo de web services.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
