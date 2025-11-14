@@ -1,19 +1,20 @@
 <h1 align="center"> UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS </h1>
 
 <h2 align="center"> INGENIERIA DE SOFTWARE</h2>
-<h2 align="center"> CICLO 2025-2</h2>
+<h2 align="center"> Periodo 202520</h2>
 
 <div align="center">
     <img src="./Assets/logo-upc.png">
 </div>
 
 <br>
-<h3 align="center"> Aplicaciones Web - WS51 </h3>
+<h3 align="center"> 1ASI0730 Aplicaciones Web </h3>
+<h3 align="center">>NRC: WS51</h3>
 <h3 align="center"> Profesor del Curso: Rafael Oswaldo Castro Veramendi </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
 <h3 align="center"> Nombre de Startup: Location   </h3>
 <h3 align="center"> Nombre del Producto: LocalFood  </h3>
-
+<h3 align="center"> Lider: Walter Luis  </h3>
 <div align="center">
 
 | Miembro                         |   Código   |
@@ -25,7 +26,7 @@
 |                                 |            |
 
 </div>
-<h3 align="center"> Septiembre - 2025   </h3>
+<h3 align="center"> Noviembre- 14 - 2025   </h3>
 
 ## REGISTRO DE VERSIONES
 
