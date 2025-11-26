@@ -9,7 +9,7 @@
 
 <br>
 <h3 align="center"> 1ASI0730 Aplicaciones Web </h3>
-<h3 align="center">>NRC: WS51</h3>
+<h3 align="center"> NRC: 7470</h3>
 <h3 align="center"> Profesor del Curso: Rafael Oswaldo Castro Veramendi </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
 <h3 align="center"> Nombre de Startup: Location   </h3>
@@ -148,6 +148,33 @@ Entregrable 1 o TB1 : (19/09/25)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
       - [Colaboración y Desarrollo de Actividades](#colaboración-y-desarrollo-de-actividades)
+    - [5.2.2. Sprint 2](#522-sprint-1)
+            - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
+            - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+            - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+            - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+            - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+            - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.3. Validation Interviews](#524-validation-interviews)
+          - [5.3.1. Diseño de Entrevistas](#5241-diseño-de-entrevistas)
+          - [5.3.2. Registro de Entrevistas](#5242-registro-de-entrevistas)
+          - [5.3.3. Evaluaciones según heurísticas](#5243-evaluaciones-según-heurísticas)
+        - [5.4. Video About-the-Product](#525-video-about-the-team)
+        - [5.5. Video About-the-Team](#526-video-about-the-product)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 
 ### Tabla de imagenes
@@ -2192,5 +2219,69 @@ Repositorios:
 
 **Documento**
 ![contributors-documento](Assets/contri.png)
+## 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2
 
+El Sprint Planning es la reunión que da inicio al sprint y define qué se va a construir y cómo se logrará. Reúne al equipo Scrum para establecer un objetivo claro (Sprint Goal), seleccionar las historias de usuario más relevantes y descomponerlas en tareas concretas. Esta planificación asegura un enfoque común, organiza el trabajo de forma eficiente y alinea al equipo con la entrega de valor al usuario.
+
+A continuación se mostrará la tabla del Sprint Planning:
+
+| **Sprint #** | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-04 |
+| **Hour** | 04:00 PM |
+| **Location** | Virtual |
+| **Prepared By** | Walter Luis |
+| **Attendees (to planning meeting)** | Ariadna Geraldine <br> Angel Jose <br> Ivan Fernando <br> Walter Luis |
+| **Sprint n - 1 Review Summary** | Durante el Sprint 2, el equipo logró implementar exitosamente los cimientos de Localfood. Se desarrolló y desplegó una Landing Page completa que comunica efectivamente el valor de la plataforma para los usuarios que quieran planificar sus reuniones para ir a comer algun restaurante. En el frontend, se implementaron las funcionalidades core de calculo incluyendo la visualización de los restaurantes recomendados en tiempo real y los apartados de agregar colegas para el calculo en cuestion. El sistema de autenticación y perfiles de usuario fue integrado satisfactoriamente, permitiendo a los usuariosregistrarse y acceder a su dashboard personalizado. El equipo destacó la efectiva integración con los datos de restaurantes afiliados. |
+| **Sprint n - 1 Retrospective Summary** | El equipo identificó como principales aciertos la buena coordinación entre los desarrolladores frontend, y la calidad del diseño de la interfaz de usuario que resultó intuitiva para el perfil de los usuarios. Como oportunidades de mejora, se señaló la necesidad de Mejorar y Disminuir la distribucion de informacion y establecer Un interfaces mas intituivo para el apatado de calculo. Se acordó implementar un sistema de caché para las imágenes y mejorar los mensajes de error para los usuarios finales en el próximo sprint. |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Nuestro objetivo es establecer los fundamentos de LocalFood mediante el desarrollo de una Landing Page completa que comunique nuestro valor y las primeras funcionalidades core de la aplicación web. Creemos que esto permitirá a los usuarios entender los beneficios de nuestra plataforma y comenzar a planificar sus salidas para comer en grupo.<br><br>Esto se confirmará cuando:<br>1. Los visitantes puedan navegar por la landing page y comprender los servicios de LocalFood<br>2. Los usuarios registrados puedan visualizar su perfil y codigo QR para ser agregados a otros usuarios<br>3. El sistema pueda mostrar imágenes de los restaurantes como la cantidad de estos en el apartado de Restaurantes de la app<br>4. Los usuarios accedan a su lista de colegas y dashboard inicial |
+| **Sprint Velocity** |  |
+| **Sum of Story Points** |  |
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+### 5.2.2.3. Sprint Backlog 2
+
+# **5.2.1.3. Sprint Backlog 2**
+
+Durante el Sprint 2, el objetivo principal fue desarrollar las funcionalidades core de la aplicación web LocalFood, enfocándose en el frontend para proporcionar a los Usuarios las herrmaientas principales para la integracion de la lista de amigos y Realizacion de Calculo de este. Se buscó implementar un dashboard integral que permita visualizar datos en tiempo real, identificar Agregar Restaurantes como Editarlo durante el Calculo, y ofrecer una interfaces sencilla y practica.
+
+## **Tabla de Control de Estado - Sprint 2**
+
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+Esta sección presenta los principales avances en la implementación técnica del proyecto Local realizados durante el sprint 2, en función de los productos comprometidos: Aplicación Web LocalFood Se detalla el progreso alcanzado a través de los repositorios utilizados por el equipo, identificando los commits relevantes que evidencian el desarrollo de funcionalidades, corrección de errores, mejoras en la interfaz y configuración de servicios. Esta evidencia permite evaluar el cumplimiento de los objetivos del sprint y facilita la retroalimentación en la reunión de revisión.
+
+> [!Note]
+> Se ha enviado todo el desarrollo en un solo commit, debido a que para subir los cambios al repositorio remoto, los integrantes han presentado problemas con el activation token. No obstante, todos han aportado al desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|---------|------------|----------------|---------------------|-------------------|
+| https://github.com/LocalFood-Aplicaciones-Web/Frontend-v2 | main | c5881ef | feat: initialize project base structure | -- | 2025-10-10 |
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 2, se desarrollaron las funcionalidades core de la aplicación web LocalFood, con énfasis en el dashboard de monitoreo, el sistema de detección de plagas y las herramientas de gestión de cultivos. El equipo cumplió con la implementación de todas las interfaces planificadas para el frontend, logrando una experiencia de usuario intuitiva y responsive que permite a los agricultores monitorear sus cultivos en tiempo real.
+
+Se implementaron exitosamente los componentes de visualización de temperatura, el sistema de alertas de plagas, el foro comunitario y las guías prácticas de recomendaciones, estableciendo una base sólida para la integración con los servicios backend en sprints futuros.
+
+Evidencia visual:
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
+
+**Iniciar sesión**
+
+**Dashboard de usuario**
+
+**Perfil de usuario**
+
+**Apartado de Colegas**
+
+**Apartado de Restaurante**
+
+**Apartado de Calculo**
 
