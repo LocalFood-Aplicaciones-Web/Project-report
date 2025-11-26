@@ -2265,9 +2265,9 @@ Esta sección presenta los principales avances en la implementación técnica de
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Durante el Sprint 2, se desarrollaron las funcionalidades core de la aplicación web LocalFood, con énfasis en el dashboard de monitoreo, el sistema de detección de plagas y las herramientas de gestión de cultivos. El equipo cumplió con la implementación de todas las interfaces planificadas para el frontend, logrando una experiencia de usuario intuitiva y responsive que permite a los agricultores monitorear sus cultivos en tiempo real.
+Durante el Sprint 2, se desarrollaron las funcionalidades core de la aplicación web LocalFood, con énfasis en el dashboard de monitoreo, el sistema de detección de plagas y las herramientas de gestión de cultivos. El equipo cumplió con la implementación de todas las interfaces planificadas para el frontend, logrando una experiencia de usuario intuitiva y responsive que permite a los usuarios organizar sus reuniones a restaurante de la mejor manera posible.
 
-Se implementaron exitosamente los componentes de visualización de temperatura, el sistema de alertas de plagas, el foro comunitario y las guías prácticas de recomendaciones, estableciendo una base sólida para la integración con los servicios backend en sprints futuros.
+Se implementaron exitosamente los componentes de visualización de Colegas, Sistema de Restaurantes afiliados y EL apartado de Calculo de La distancia de los restaurantes como el preferido, estableciendo una base sólida para la integración con los servicios backend en sprints futuros.
 
 Evidencia visual:
 
