@@ -2285,3 +2285,37 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas e
 
 **Apartado de Calculo**
 
+### 5.2.2.6. Team Collaboration Insights during Sprint
+
+**Colaboradores activos**
+
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+El Sprint Planning es la reunión que da inicio al sprint y define qué se va a construir y cómo se logrará. Reúne al equipo Scrum para establecer un objetivo claro (Sprint Goal), seleccionar las historias de usuario más relevantes y descomponerlas en tareas concretas. Esta planificación asegura un enfoque común, organiza el trabajo de forma eficiente y alinea al equipo con la entrega de valor al usuario.
+
+A continuación se mostrará la tabla del Sprint Planning:
+
+
+| **Sprint #** | Sprint 3 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-26 |
+| **Hour** | 02:00 PM |
+| **Location** | Virtual |
+| **Prepared By** | Walter Luis |
+| **Attendees (to planning meeting)** | Ariadna Geraldine <br> Angel Jose <br> Ivan Fernando <br> Walter Luis |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo implemento las secciones clave de la aplicación: Notificaciones, opciones extra en el apartado de Calculo y su diseño responsive. |
+| **Sprint n - 3 Retrospective Summary** | Se identificó la necesidad de mejorar la navegación y optimizar el rendimiento en el landing page |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Finalizar respecto a las funcionalidades pendientes, pulir y estelizar la interfaz de usuario, integrar servicios externos y preparar el producto para pruebas de validación con usuarios. |
+| **Sprint Velocity** |  |
+| **Sum of Story Points** |  |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+#### 5.2.3.3. Sprint Backlog 3
+En el sprint backlog 3, enfocamos como prioridad nuestros esfuerzos para el desarrollo del backend del sistema. Utilizando la herramienta enseñada en el curso que es Rider,  avanzamos significativamente en la implementación de la lógica del servidor como la estructuración respecto de los varios *bounded contexts* definidos en la arquitectura del proyecto.
+
+## **Tabla de Control de Estado - Sprint 3**
+
+
