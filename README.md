@@ -39,7 +39,10 @@
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
-URL del repositorio del project Report : https://github.com/LocalFood-Aplicaciones-Web/Project-report.git 
+URL del repositorio del project Report : https://github.com/LocalFood-Aplicaciones-Web/Project-report.git
+URL del repositorio del Frontend : https://github.com/LocalFood-Aplicaciones-Web/Frontend-v2.git
+URL del repositorio del Backend : https://github.com/LocalFood-Aplicaciones-Web/Backend-v1.git 
+ 
 
 **_TB1_**
 Entregrable 1 o TB1 : (19/09/25)
@@ -2251,6 +2254,13 @@ Durante el Sprint 2, el objetivo principal fue desarrollar las funcionalidades c
 
 ## **Tabla de Control de Estado - Sprint 2**
 
+| User Story ID | Id | Title | Description | Estimation (Hours) | Assigned To | Status |
+|---------------|-----|-------|-------------|-------------------|-------------|---------|
+| **US-01** | **T-201** | **Ver restaurantes cercanos** | Desarrollar componente frontend para mostrar los restaurantes cercanos para un grupo luego del calculo | 10 | Development team | **Done** |
+| **US-07** | **T-202** | **Invitar amigos al grupo** | Implementar componente para agregar a los colegas/amigos del usuario a la lista para el calculo | 8 | Development team | **Done** |
+| **US-012** | **T-203** | **Crear cuenta de usuario** | Crear Funcion para crear y almacenar a nuevos usuarios al aplicacion | 6 | Development team | **Done** |
+| **US-023** | **T-204** | **Historial de visitas** | Desarrollar sistema de muestre el restaurante que se uso en el anterior calculo | 7 | Development team | **Done** |
+| **US-024** | **T-205** | **Notificaciones de recordatorio** | Implementar centro de notificaciones para alertas a los usuarios, respecto a solicitud de amista o que esten ingresados a una lista, sobre si desea aceptarla o no y luego se proceda hacer las funciones respecto a la decision | 6 | Development team | **Done** |
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2318,4 +2328,154 @@ En el sprint backlog 3, enfocamos como prioridad nuestros esfuerzos para el desa
 
 ## **Tabla de Control de Estado - Sprint 3**
 
+| sprint # | Sprint 3 | | | | | | |
+|-|-|-|-|-|-|-|-|
+| User<br>Story | | Work-Item / Task | | | | | |
+| ID | Title | ID | Title | Description | Estimation<br>(Hours) | Assigned<br>To | Status<br>(To-do<br>/InProcess<br>/To-Review<br>/Done) |
+| US04 | Calcular punto medio del grupo | *TA01* | Implementar un apartado de Calculo | Crear endpoint GET para que el usuario y la lista de sus colegas reciban la informacion de los restaurantes cercano | 6 horas | Walter Luis | Done |
+| US13	 | Iniciar sesión | *TA02* | Implementar el apartado de Inicio de Sesión | Desarrollar endpoint POST para autenticación de usuarios| 5 horas | Fernando Sanchez | Done |
+| US16 | Editar información del restaurante | *TA03* | Implementar un boton de editar restaurante | Desarrollar endpoint put que permita cambiar el restaurante en el apartado de calculo | 8 horas |  Angel Jose | To-Review |
+| US24 | Notificaciones de recordatorio | *TA04* | Visualizacion de Alertas de Calculos agenos | Implementar endpoint GET para obtener información detallada respecto a calculos que se incluya a usuarios. | 10 horas | Ariadna Geraldine | Done |
+| US02 | Filtros de búsqueda | *TA05* | Crear funcionalidad para Descartas restaurantes con una calificacion menor de 3 estrellas  | Implementar un PUT donde actualize los restaurantes a mejor valorados| 12 horas | Walter Luis | Done |
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el tercer sprint, se implementaron funcionalidades clave como el Seleccion de Restaurante, Buscar nuevo usuario, Filtro de calidad,Calculo de distancia, despliegue en Netlify, y configuración de infraestructura básica.
+
+
+> [!Note]
+> Se ha enviado todo el desarrollo en un solo commit, debido a que para subir los cambios al repositorio remoto, los integrantes han presentado problemas con el activation token. No obstante, todos han aportado al desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|---------|------------|----------------|---------------------|-------------------|
+| https://github.com/LocalFood-Aplicaciones-Web/Backend-v1 | main | SRT0808 | doc: add first version of Backend | -- | 2025-10-29 |
+
+
+### 5.2.3.4. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se logró un gran progreso en la implementación del backend del sistema. Nos enfocamos en la creación de múltiples endpoints RESTful que permiten la gestión de entidades clave como monitoreo, usuarios, cultivos, etc. Todo el código fue desarrollado siguiendo una estetica de arquitectura limpiamy la persistencia adecuada de datos.
+
+Además, se realizó el despliegue exitoso del backend en Netlify, lo que permitió validar el comportamiento del sistema en un entorno de producción. Para verificar la creación, edición y eliminación de datos, se utilizó MySQL workbench, accediendo directamente a la base de datos SQL vinculada al servicio de Render.
+
+Evidencia visual:
+<h3>Backend</h3>
+- Datos en bounded context
+
+- Datos en bounded context
+
+- Datos en bounded context
+
+- Datos en bounded context
+
+- Capturas del Backend deployado
+
+A continuacion se muestra la evidencia de despliegue del backend entrando al siguiente enlace:   
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de endpoints desarrollados como parte del alcance del Sprint 3. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios respecto del Backend.
+
+#### Backend en Rider
+
+En esta seccion el backend está desarrollado siguiendo el patrón **Domain-Driven Design (DDD)**, estructurando la lógica en **Bounded Contexts** perfectamentes definidos y separados. Cada contexto encapsula su propio modelo de dominio, comportamientos y reglas de negocio, lo que permite una arquitectura modular, mantenible y alineada con el negocio.
+
+#### Bounded Contexts
+
+- **Nombre** – 
+- **Nombre** – 
+
+####  Buenas Prácticas Aplicadas
+- Separación clara de **entidades de dominio**.
+- Control de errores centralizado.
+- Arquitectura lista para pruebas, integración y ampliación.
+
+
+###  "nombre" Bounded Context
+
+### "nombre" Bounded Context
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+ En esta entrega se ha finalizado la implementación de la lógica de negocio restante, junto con la optimización y estilización de la experiencia visual (UI).
+
+Se realizó la integración exitosa de servicios de terceros, consolidando una versión estable del producto que cumple con los requisitos necesarios para la ejecución de pruebas de aceptación y validación.
+
+### Validación de Funcionalidades Desplegadas (Sprint 3)
+
+A continuación se presenta el estado operativo de los módulos críticos en el entorno de producción (Netlify + Backend):
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+La colaboración del equipo durante el **Sprint 3** se orientó a la finalización de la lógica de negocio en el Backend y su integración total con la interfaz de usuario. El trabajo se distribuyó respetando la arquitectura de *Bounded Contexts*, asegurando que servicios críticos como IoT, alertas y consumo de APIs externas funcionaran armónicamente antes del despliegue final en producción.
+
+| Integrante | Actividad Principal en Sprint 3 |
+| :--- | :--- |
+| **Poma Muñoz, Ariadna Geraldine** | Desarrollo de lógica para **Restaurantes**  y gestión de contenido para el módulo de Filtros de Calidad. |
+| **Pariona Chacca, Angel Jose** | Implementación segura del **Inicio de Sesión (Login)** y validación de credenciales de usuario en el Backend. |
+| **Sanchez Guevara, Ivan Fernando** | Integración de **APIs externas** para el pronóstico Imagenes de usuarios y imagenes de los restaurantes afiliados |
+| **Fajardo Monrroy, Walter Luis** | Construcción del sistema de **¿ Notificaciones**, enfocándose en la solicitud de amistad como el aceptar o rechazar estar en un Grupo para el calculo. |
+
+Observaciones del trabajo colaborativo:
+
+- Se establecieron ramas de desarrollo separadas  por módulo para evitar conflictos de código.
+- Se aplicó una política de pull requests y revisiones por pares antes de integrar a la rama principal.
+- El uso de GitHub Projects permitió gestionar tareas y seguimiento del progreso en tiempo real.
+- La comunicación constante facilitó la resolución de conflictos y el refinamiento del diseño UI/UX.
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+## Pruebas de Usabilidad – Plataforma Web de Agricultura
+
+### Preguntas para Agricultores
+
+#### Diseño general y navegación
+
+## Pruebas de Usabilidad – Plataforma Web de Localizacion y distancia de restaurantes
+
+### Preguntas para Locales
+
+### Preguntas para Comensales
+
+#### 5.2.4.2. Registro de Entrevistas
+
+**User Persona del Segmento Objetivo 1: Locales**
+**User Persona del Segmento Objetivo 2: Comensales**
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+## SITE o APP A EVALUAR
+**Nombre:** LocalFood  
+**Objetivo:** Identificar problemas de usabilidad en el sistema web de Gestion respecto a la Calculo de Restaurantes usando la Lista Heurística de Nielsen.
+
+##  TAREAS A EVALUAR
+
+## PROBLEMAS DETECTADOS 
+
+## ESCALA DE SEVERIDAD
+
+## ANÁLISIS HEURÍSTICO DETALLADO
+
+### Problema #01:
+
+---
+
+### Problema #02:
+
+---
+
+<br>
+<br>
+
+# Video About-the-product
+
+# Video About-the-team
+
+## Conclusiones 
+
+## Bibliografía
+
+## Anexos
 
