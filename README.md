@@ -1,32 +1,35 @@
-<h1 align="center"> UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS </h1>
-
-<h2 align="center"> INGENIERIA DE SOFTWARE</h2>
-<h2 align="center"> Periodo 202520</h2>
 
 <div align="center">
     <img src="./Assets/logo-upc.png">
 </div>
+<h1 align="center"> UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS </h1>
+
+<h2 align="center"> Carrera: INGENIERIA DE SOFTWARE</h2>
+<h2 align="center"> Periodo 202520</h2>
 
 <br>
-<h3 align="center"> 1ASI0730 Aplicaciones Web </h3>
+<h3 align="center"> Codigo del curso: ASI0730  </h3>
+<h3 align="center"> Nombre del curso: Aplicaciones Web  </h3>
 <h3 align="center"> NRC: 7470</h3>
-<h3 align="center"> Profesor del Curso: Rafael Oswaldo Castro Veramendi </h3>
-<h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
-<h3 align="center"> Nombre de Startup: Location   </h3>
-<h3 align="center"> Nombre del Producto: LocalFood  </h3>
+<h3 align="center"> Nombre del profesor: Rafael Oswaldo Castro Veramendi </h3>
+<h3 align="center"> "Informe del Trabajo Final"</h3>
+<h3 align="center"> Nombre de startup: Location   </h3>
+<h3 align="center"> Nombre del producto: LocalFood  </h3>
 <h3 align="center"> Lider: Walter Luis  </h3>
 <div align="center">
 
-| Miembro                         |   Código   |
+## Relacion de integrantes:
+
+| Apellidos y nombres                         |   Código   |
 | :------------------------------ | :--------: |
 | Fajardo Monrroy, Walter Luis    | U202221632 |
 | Poma Muñoz, Ariadna Geraldine   | U20221D382 |
 | Pariona Chacca, Angel Jose      | U202314734 |
-| Ivan Fernando, Sanchez Guevara  | U202218181 |
+| Sanchez Guevara, Ivan Fernando  | U202218181 |
 |                                 |            |
 
 </div>
-<h3 align="center"> Noviembre- 14 - 2025   </h3>
+<h3 align="center"> Diciembre, 2025   </h3>
 
 ## REGISTRO DE VERSIONES
 
