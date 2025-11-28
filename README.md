@@ -42,13 +42,13 @@
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
-URL del repositorio del project Report : https://github.com/LocalFood-Aplicaciones-Web/Project-report.git
-URL del repositorio del Frontend : https://github.com/LocalFood-Aplicaciones-Web/Frontend-v2.git
-URL del repositorio del Backend : https://github.com/LocalFood-Aplicaciones-Web/Backend-v1.git 
+URL del repositorio del project Report : https://github.com/LocalFood-Aplicaciones-Web/Project-report.git <br>
+URL del repositorio del Frontend : https://github.com/LocalFood-Aplicaciones-Web/Frontend-v2.git <br>
+URL del repositorio del Backend : https://github.com/LocalFood-Aplicaciones-Web/Backend-v1.git  <br>
  
 
 **_TB1_**
-Entregrable 1 o TB1 : (19/09/25)
+Entregrable 4 o TF : (01/12/25)
 
 ![commit-report](Assets/commit%20report.png)
 
