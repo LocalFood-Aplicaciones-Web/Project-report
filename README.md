@@ -2472,6 +2472,61 @@ Observaciones del trabajo colaborativo:
 <br>
 <br>
 
+## 5.3.4. Sprint 4
+
+| **Sprint #** | Sprint 4 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2025-11-26 |
+| **Hour** | 04:00 PM |
+| **Location** | Virtual |
+| **Prepared By** | Walter Luis |
+| **Attendees (to planning meeting)** | Ariadna Geraldine <br> Angel Jose <br> Ivan Fernando <br> Walter Luis |
+| **Sprint n - 3 Review Summary** | Se implementaron las mejoras respectivas en los endpoints de nuestro BackEnd. |
+| **Sprint n - 3 Retrospective Summary** | Se identificó la necesidad de la vinculación del contenido de nuestro FrontEnd con nuestro BackEnd |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Finalizar con las mejoras pendientes, integrar los endpoints del BackEnd con el contenido del FrontEnd para brindar una experiencia del usuario. |
+| **Sprint Velocity** |  |
+| **Sum of Story Points** |  |
+
+## 5.3.4.1. Development Evidence for Sprint Review
+Durante el cuarto sprint, se mejoraron funcionalidades clave en el backEnd y FrontEnd de nuestra solución, con el fin de mostrar una solución solida para los usuarios, Respecto a la cantidad de informacion mostrada, acceso a ciertos apartados, Notificaciones mejoradas, etc
+
+> [!Note]
+> Se ha enviado todo el desarrollo en un solo commit, debido a que para subir los cambios al repositorio remoto, los integrantes han presentado problemas con el activation token. No obstante, todos han aportado al desarrollo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|---------|------------|----------------|---------------------|-------------------|
+| https://github.com/LocalFood-Aplicaciones-Web/Frontend-v2 | main | 2c629bf | feat: improvement in key areas based on interview feedback | -- | 2025-11-20 |
+| https://github.com/LocalFood-Aplicaciones-Web/Backend-v1 | main |  | feat: fixing database errors | -- | 2025-11-23 |
+
+
+#### 5.2.4.7. Testing Suite Evidence for Sprint Review
+
+Durante el Sprint 4 nos enfocamos en la conexión entre nuestro Frontend y Backend, para ello tuvimos que realizar moficiaciones en nuestros respectivos Bounded Context
+
+A continuación, se muestra un resumen del estado de testing al cierre del Sprint 4:
+
+| **Aspecto Evaluado**          | **Resultado**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| Conexión FrontEnd-BackEnd    | Se concreto de forma efectiva la conexión entre el ForntEnd y BackEnd del proyecto para mostrar el contenido respectivo                |
+| Pruebas locales            | De manera local cada uno de los miembros del equipo realizó pruebas de manera local para probar la respuesta entre los servicios que se mostraban en el BackEnd y como se reflejarian estos en nuestro FrontEnd                     |
+| Herramientas utilizadas      | Rider, MySQL workbench, Netlify. |
+| Estado general de testing    | Funcionalidad comprobada de forma exitosa                                   |
+
+
+<h3>Frontend</h3>
+En este sprint, hemos logrado mejoras significativas en el desarrollo del frontend de nuestro producto. Nos hemos concentrado en conectar múltiples nuestros multiples endpoints RESTful con el contenido presentado en nuestro FrontEnd. En este momento, se le presentaran las evidencias técnicas del backend desarrollado durante este sprint.
+
+**Capturas de Pantalla del FrontEnd mejorado**
+- Mejora en bounded context IAM - Crear cuenta
+
+- Mejora en bounded context IAM - Iniciar Sesión
+
+- Mejora en bounded context Profile - Visualización de Información
+
+
+
 # Video About-the-product
 
 # Video About-the-team
