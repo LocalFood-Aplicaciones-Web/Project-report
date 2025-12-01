@@ -2286,21 +2286,42 @@ Evidencia visual:
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
 
+Link: https://relaxed-squirrel-4eef58.netlify.app
+
+Link: https://localfood-17v9yi29s-angelitoso-opps-projects.vercel.app/login
+
 **Iniciar sesión**
+
+<p align="center"><img width="auto" height="auto" src="Assets/ISfront.png">
 
 **Dashboard de usuario**
 
+<p align="center"><img width="auto" height="auto" src="Assets/DBFront.png">
+
 **Perfil de usuario**
+
+<p align="center"><img width="auto" height="auto" src="Assets/PerfilFront.png">
 
 **Apartado de Colegas**
 
+<p align="center"><img width="auto" height="auto" src="Assets/Collegasfront.png">
+
+
+<p align="center"><img width="auto" height="auto" src="Assets/Collegas2front.png">
+
 **Apartado de Restaurante**
 
+<p align="center"><img width="auto" height="auto" src="Assets/restaurantfront.png">
+
 **Apartado de Calculo**
+
+<p align="center"><img width="auto" height="auto" src="Assets/Calculationfront.png">
 
 ### 5.2.2.6. Team Collaboration Insights during Sprint
 
 **Colaboradores activos**
+
+<p align="center"><img width="auto" height="auto" src="Assets/evidenciafront.png">
 
 ## 5.2.3. Sprint 3
 ### 5.2.3.1. Sprint Planning 3
@@ -2520,10 +2541,11 @@ En este sprint, hemos logrado mejoras significativas en el desarrollo del fronte
 
 **Capturas de Pantalla del FrontEnd mejorado**
 - Mejora en bounded context IAM - Crear cuenta
-
+<p align="center"><img width="auto" height="auto" src="Assets/crearuserfront.png">
 - Mejora en bounded context IAM - Iniciar Sesión
-
+<p align="center"><img width="auto" height="auto" src="Assets/ISfront.png">
 - Mejora en bounded context Profile - Visualización de Información
+<p align="center"><img width="auto" height="auto" src="Assets/restaurantfront.png">
 
 
 
